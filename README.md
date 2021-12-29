@@ -4,7 +4,7 @@
 - Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
-{:toc}
+* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
 
 ### Expertise
 - Data Science & Mixed methods (network statistics, GIS, natural experiments, surveys, interviews)
