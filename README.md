@@ -1,20 +1,20 @@
 ## Timothy Fraser
 - **Data Scientist and Researcher**
 - *PhD Candidate, Political Science Department, Northeastern University*
+- <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Publications & Talks</a> 
+- <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a>
+
+
+## Contact Me
 - Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
-* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
-
-### Expertise
-- Data Science & Mixed methods (network statistics, GIS, natural experiments, surveys, interviews)
-- Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
-- US, Japan, Cities
-
-
-### Skills
-- **Expert in R** | **Data Visualization and Design** | **GIS, Social Network Analysis, & Big Data**
+### <a id="skills">Skills</a>
+- **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
 - R, RMarkdown, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, ggplot2, dashboards
+- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
+- Areas: US, Japan, Cities
+
 
 ### Japanese Language Training
 <details>
@@ -30,7 +30,8 @@
 
 ---
 
-### Education
+
+### <a id="education">Education</a>
 - **Ph.D. Political Science**	(*Public Policy and Comparative Politics, All-but-Dissertation*)
 <br>Northeastern University, Boston, 2017-2022
 - **M.A. Political Science**	(*Public Policy*)
@@ -42,7 +43,7 @@
 
 ---
 
-### Publications (26)
+### <a id="publications">Publications (26)</a>
 
 1. **Timothy Fraser**, Daniel P. Aldrich, & Larissa Morikawa. (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. Ecology & Society. Accepted December 7, 2021.
 2. Andrew Dolman, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, & Daniel Kim. (2021). Opposing Views: Associations of Political Polarization, Political Party Affiliation, and Social Trust with COVID-19 Vaccination Intent and Receipt. Journal of Public Health. Accepted December 4, 2021.
@@ -117,7 +118,7 @@
 
 ---
 
-## Grants & Awards
+## <a id="grants">Grants & Awards</a>
 
 - 2021: Northeastern University GIS Day Poster Competition First Prize
 - 2021: Northeastern University Lab for Texts, Maps, and Networks Seedling Grant ($3,000)
@@ -153,7 +154,7 @@
 
 
 
-### Consulting
+### <a id="consulting">Consulting</a>
 - **United Nations Development Program Mexico Accelerator Lab**
     - Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
 - **United Nations Development Program Paraguay Accelerator Lab**
