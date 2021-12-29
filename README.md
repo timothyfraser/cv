@@ -5,7 +5,7 @@
 - <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a>
 
 
-## Contact Me
+### Contact Me
 - Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
@@ -179,4 +179,65 @@
   - Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
 - **2014: International Environmental Policy Research Assistance**
   - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
+
+
+
+### <a id="teaching">Teaching</a>
+
+- **2020-2021: Instructor of Record, Northeastern University Political Science**
+  - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
+  - Research Methods in Political Science (Summer 2021)
+  - Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
+
+- **2021: Methods Tutorials for Quantitative Social Science in R** (22)
+  - See my online tutorials on [RPubs](https://rpubs.com/timothyfraser)! 
+    - [Statistical Simulation and Food Deserts](https://rpubs.com/timothyfraser/statistical_simulation_food_deserts)
+    - [Multiple Regression and Disaster Effects](https://rpubs.com/timothyfraser/multiple_regression)
+    - [Mapping Raster Data](https://rpubs.com/timothyfraser/mapping_raster_data_in_the_tidyverse)
+
+- **2017-2019: Graduate Teaching Assistant, Northeastern University Political Science**
+  - Introduction to Comparative Politics with Dr. Ioannis Livanis, Dr. Colin Brown (2 times)
+  - Introduction to American Government and Politics with Dr. Michael Tolley (2 times)
+  - Quantitative Techniques & Statistics with Dr. Colin Brown
+  - Disasters and Recovery Summer Course in Japan with Dr. Daniel Aldrich
+  - American Political Thought with Dr. William Mayer
+  - Sexuality, Gender, and the Law with Dr. Libby Adler
+
+### Community Outreach
+
+- 2016-2017: **Susenji Elementary School Student Supporter in Fukuoka, Japan**
+  - Tutored Japanese students in ESL and non-native students in math and Japanese language
+
+- 2015-2016: **Language in Motion Program Support Assistant at Middlebury College**
+  - Arranged intercultural education training and programming in local Vermont high schools in paid internship. Presented on Japanese culture and disaster studies and Turkish politics.
+
+- 2015: **Community Engagement Intern at Middlebury College**
+  - Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
+
+
+### Mentoring & Research with Students
+(Students' names marked in **bold**!)
+
+2020-2021: **Environmental Politics and Computational Social Science Working Group**
+
+- Timothy Fraser, **Lily Cunningham**, & **Amos Nasongo**. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
+- Timothy Fraser, **Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee,** & **Amos Nasongo**. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
+- Timothy Fraser, **Mary Bancroft, Andrew Small,** & **Lily Cunningham.** Leaders or Networkers? The Role of Mayors in Renewable Energy Transition (Under Review)
+- Timothy Fraser, and **Nikki Naquin.** (2021). Better Together? The role of Social Capital in Urban Social Vulnerability. (Working Paper)
+- Timothy Fraser, and **Dustin Hinkley.** (2021). It takes a Village: How Representation on Environmental Advisory Committees shape Emissions in Tokyo Wards (Working Paper)
+
+2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
+- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**)
+- Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
+ - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
+
+2020-2021: **Disaster Evacuation in Japan**
+- Timothy Fraser, **Larissa Morikawa,** and Daniel P. Aldrich (2021). Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster. Climate Risk Management 33, 100320. [Open Access]
+- Timothy Fraser, Daniel P. Aldrich, and **Larissa Morikawa.** (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. Ecology & Society. Accepted December 7, 2021.
+
+2019-2020: **Disaster Recovery Committee Projects**
+- Timothy Fraser, Daniel P. Aldrich, **Andrew Small**, and Andrew Littlejohn. (2021). In the Hands of a Few: Disaster Recovery Committee Networks. Journal of Environmental Management 280, 111643.
+- Timothy Fraser, Daniel P. Aldrich, and **Andrew Small**. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
+- Timothy Fraser, Daniel P. Aldrich, & **Andrew Small**. (2021). Seawalls or social recovery? The role of policy networks and design in disaster recovery. Global Environmental Change 70, 102342.
+
 
