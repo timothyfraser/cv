@@ -9,6 +9,8 @@
 - <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> |
 - <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
 
+<br>
+<br>
 
 
 ### <a id="skills">Skills</a>
@@ -45,6 +47,9 @@
 
 ---
 
+<br>
+<br>
+
 ### <a id="publications">Publications (26)</a>
 
 1. **Timothy Fraser**, Daniel P. Aldrich, & Larissa Morikawa. (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. Ecology & Society. Accepted December 7, 2021.
@@ -77,6 +82,7 @@
 ### Preprints (+2)
 - **Timothy Fraser**. [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
 - **Timothy Fraser**, Courtney Page-Tan, and Daniel P. Aldrich. [Won't You Be My Neighbor? Uncovering ties between Social Capital and COVID-19 Outcomes at Local Levels.](http://dx.doi.org/10.2139/ssrn.3788540)
+
 
 ### Chapters in Edited Volumes (5)
 
@@ -120,6 +126,9 @@
 
 ---
 
+<br>
+<br>
+
 ## <a id="grants">Grants & Awards</a>
 
 - 2021: Northeastern University GIS Day Poster Competition First Prize
@@ -148,13 +157,8 @@
 - Quoted in: Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
 - Timothy Fraser and Daniel P. Aldrich. [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/) Advanced Science News. June 9, 2020
 
-### Dashboards for Public Data Communication & Visualization (4)
-- [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
-- [Community Resilience in Japan](https://timfraser.shinyapps.io/community_resilience_in_japan)
-- [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
-- [Testing the Fukushima Effect on Japanese Elections with Inferential Statistics](https://timfraser.shinyapps.io/lesson_5_inferential_stats/)
-
-
+<br>
+<br>
 
 ### <a id="consulting">Consulting</a>
 - **United Nations Development Program Mexico Accelerator Lab**
@@ -182,7 +186,17 @@
 - **2014: International Environmental Policy Research Assistance**
   - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
 
+
+### Dashboards for Public Data Communication & Visualization (4)
+- [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
+- [Community Resilience in Japan](https://timfraser.shinyapps.io/community_resilience_in_japan)
+- [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
+- [Testing the Fukushima Effect on Japanese Elections with Inferential Statistics](https://timfraser.shinyapps.io/lesson_5_inferential_stats/)
+
 ---
+
+<br>
+<br>
 
 ### <a id="teaching">Teaching</a>
 
@@ -217,6 +231,9 @@
   - Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
 
 ---
+
+<br>
+<br>
 
 ### <a id="mentoring">Mentoring & Research with Students</a>
 (Students' names marked in **bold**!)
