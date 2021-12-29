@@ -4,7 +4,7 @@
 - Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
-
+---
 
 ### Education
 - **Ph.D. Political Science**	(*Public Policy and Comparative Politics, All-but-Dissertation*)
@@ -49,8 +49,7 @@
 2. **Timothy Fraser**, Daniel P. Aldrich, & Andrew Small. (2021). [Seawalls or social recovery? The role of policy networks and design in disaster recovery](https://github.com/timothyfraser/cv/files/7790566/2021_Fraser_Aldrich_Small_GEC.pdf). [*Global Environmental Change*](https://doi.org/10.1016/j.gloenvcha.2021.102342) 70, 102342.
 2. **Timothy Fraser**, Daniel P. Aldrich, and Courtney Page-Tan. (2021). [Bowling alone or distancing together? The role of social capital in excess death rates from COVID19](https://github.com/timothyfraser/cv/files/7790571/2021_Fraser_Aldrich_PageTan_SSM.pdf). [*Social Science & Medicine*](https://doi.org/10.1016/j.socscimed.2021.114241) 284, 114241.
 6. Costas Panagopoulos, **Timothy Fraser**, Daniel P. Aldrich, Daniel Kim, and David Hummel. (2021). [Bridging the Divide: Does Social Capital Moderate the Impact of Polarization on Health?](https://github.com/timothyfraser/cv/files/7790586/2021_Panagopoulos_et_al_PRQ.pdf) [*Political Research Quarterly*](https://doi.org/10.1177/10659129211034561), accepted July 2021.
-7. **Timothy Fraser**, Larissa Morikawa, and Daniel P. Aldrich (2021). [Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster.][1-s2.0-S2212096321000498-main.pdf](https://github.com/timothyfraser/cv/files/7790588/1-s2.0-S2212096321000498-main.pdf)
- [Climate Risk Management](https://doi.org/10.1016/j.crm.2021.100320) 33, 100320.
+7. **Timothy Fraser**, Larissa Morikawa, and Daniel P. Aldrich (2021). [Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster.](https://github.com/timothyfraser/cv/files/7790596/2021_Fraser_Morikawa_Aldrich_CRM.pdf) [Climate Risk Management](https://doi.org/10.1016/j.crm.2021.100320) 33, 100320.
 8. Sameera Nayak, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, and Daniel Kim. Is Divisive Politics Making Americans Sick? Associations of Perceived Partisan Polarization with Physical and Mental Health Outcomes Among Adults in the United States. Social Science & Medicine, 113976.
 9. **Timothy Fraser**, Daniel P. Aldrich, and Andrew Small. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
 10. **Timothy Fraser** and Daniel P. Aldrich (2021). The dual effect of social ties on COVID-19 spread in Japan. Scientific Reports 11(1). [Open Access]
