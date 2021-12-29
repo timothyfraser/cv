@@ -5,13 +5,13 @@
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
 **Table of Contents** (*Click to Jump to Sections!*)
-- <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> |
-- <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
+
+<a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> |
+
+<a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
 
 <br>
 <br>
-
-<button type="button" name="button" class="btn">Button element</button>
 
 
 ### <a id="skills">Skills</a>
