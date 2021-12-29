@@ -6,9 +6,11 @@
 
 **Table of Contents** (*Click to Jump to Sections!*)
 
-<a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> |
+<a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
 
-<a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
+<a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a> | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
+
+
 
 <br>
 <br>
