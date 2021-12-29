@@ -3,9 +3,9 @@
 - *PhD Candidate, Political Science Department, Northeastern University*
 
 **Table of Contents** (*Click to Jump to Sections!*)
-- <a href="#skills">Skills</a> | <a href="#education">Education</a> 
-- <a href="#publications">Publications & Talks</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a>
-- <a href="#teaching>Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
+- <a href="#skills">Skills</a> |  <a href="#education">Education</a> | <a href="#consulting">Consulting</a> |
+- <a href="#publications">Publications & Talks</a> | <a href="#grants">Grants & Service</a>
+- <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
 
 
 ### Contact Me
