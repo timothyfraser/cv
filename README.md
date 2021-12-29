@@ -1,8 +1,11 @@
 ## Timothy Fraser
 - **Data Scientist and Researcher**
 - *PhD Candidate, Political Science Department, Northeastern University*
-- <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Publications & Talks</a> 
-- <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a>
+
+**Table of Contents** (*Click to Jump to Sections!*)
+- <a href="#skills">Skills</a> | <a href="#education">Education</a> 
+- <a href="#publications">Publications & Talks</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a>
+- <a href="#teaching>Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
 
 
 ### Contact Me
@@ -180,7 +183,7 @@
 - **2014: International Environmental Policy Research Assistance**
   - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
 
-
+---
 
 ### <a id="teaching">Teaching</a>
 
@@ -214,8 +217,9 @@
 - 2015: **Community Engagement Intern at Middlebury College**
   - Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
 
+---
 
-### Mentoring & Research with Students
+### <a id="mentoring">Mentoring & Research with Students</a>
 (Students' names marked in **bold**!)
 
 2020-2021: **Environmental Politics and Computational Social Science Working Group**
