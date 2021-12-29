@@ -1,15 +1,15 @@
 ## Timothy Fraser
 - **Data Scientist and Researcher**
 - *PhD Candidate, Political Science Department, Northeastern University*
+- Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
+- Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
+
 
 **Table of Contents** (*Click to Jump to Sections!*)
 - <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> |
 - <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a>
 
 
-### Contact Me
-- Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
-- Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
 ### <a id="skills">Skills</a>
 - **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
