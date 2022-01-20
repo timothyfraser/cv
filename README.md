@@ -53,7 +53,7 @@
 <br>
 <br>
 
-### <a id="publications">Publications (26)</a>
+### <a id="publications">Publications (29)</a>
 
 1. **Timothy Fraser**. (2022). Fleeing the Unsustainable City: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. *Sustainability Science.* Accepted January 8, 2022.
 2. Courtney Page-Tan and **Timothy Fraser**. (2022). [COVID-19 To Go? The Role of Disasters and Evacuation in the COVID-19 Pandemic](https://dx.doi.org/10.2139/ssrn.3836258). *[Global Environmental Change](https://doi.org/10.1016/j.gloenvcha.2022.102471)*, 102471.
@@ -85,7 +85,7 @@
 28. Daniel P. Aldrich and **Timothy Fraser**. (2017). All Politics is Local: Judicial and Electoral Institutions’ Role in Japan’s Nuclear Restarts. Pacific Affairs 90, no. 3, 433-457. 
 29. Chapman, Andrew, **Timothy Fraser**, and Kenshi Itaoka. (2017). Hydrogen Import Pathway Comparison Framework incorporating Cost and Social Preference: Case studies from Australia to Japan. International Journal of Energy Research 41, no. 14, 2374-2391. 
 
-### Preprints (+2)
+### Preprints (+3)
 - **Timothy Fraser**. [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
 - **Timothy Fraser**, Courtney Page-Tan, and Daniel P. Aldrich. [Won't You Be My Neighbor? Uncovering ties between Social Capital and COVID-19 Outcomes at Local Levels.](http://dx.doi.org/10.2139/ssrn.3788540)
 - **Timothy Fraser**, Alex Poniatowksi, Nick Hersey, Haoran Zhang, & Daniel P. Aldrich. [Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita](https://dx.doi.org/10.2139/ssrn.4004216).
@@ -98,9 +98,11 @@
 - **Timothy Fraser** and Daniel P. Aldrich. (2019). [East Asia's Nuclear Policies: Fukushima Effect or a Nuclear Renaissance?](https://issuu.com/georgetownsfs/docs/gjaa_vol.4_no.2/65) Georgetown Journal of Asian Affairs. 
 - Daniel P. Aldrich, Courtney Page-Tan, and **Timothy Fraser**. (2018). [A Janus Faced Resource: Social Capital and Resilience Trade-offs.](https://irgc.epfl.ch/wp-content/uploads/2018/11/Aldrich-et-al-for-IRGC-Resilience-Guide-Vol-2-2018.pdf) International Risk Governance Council Resource Guide, vol 2.
 
-### Under Review (9)
+### Under Review (7)
+
 - The Value of Urban Regimes and Social Capital in Building Solar Cities (R&R, Nature Sustainability)
 - The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan (R&R, Environment & Behavior)
+- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with Alex Poniatowsky, Nick Hersey, Haoran Zheng, & Daniel P. Aldrich)
 - Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19
 - Won't You Be My Neighbor? Uncovering ties between Social Capital and COVID-19 Outcomes at Local Levels (with Courtney Page-Tan & Daniel P. Aldrich)
 - The Harmful Effects of Partisan Polarization on Health (with Daniel P. Aldrich, David Hummel, Daniel Kim, and Costas Panagopoulos)
@@ -246,14 +248,14 @@
 
 - Timothy Fraser, **Lily Cunningham**, & **Amos Nasongo**. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
 - Timothy Fraser, **Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee,** & **Amos Nasongo**. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
-- Timothy Fraser, **Mary Bancroft, Andrew Small,** & **Lily Cunningham.** Leaders or Networkers? The Role of Mayors in Renewable Energy Transition (Under Review)
+- Timothy Fraser, **Mary Bancroft, Andrew Small,** & **Lily Cunningham.** Leaders or Networkers? The Role of Mayors in Renewable Energy Transition. Environmental Innovations & Societal Transitions. Accepted January 7, 2021.
 - Timothy Fraser, and **Nikki Naquin.** (2021). Better Together? The role of Social Capital in Urban Social Vulnerability. (Working Paper)
 - Timothy Fraser, and **Dustin Hinkley.** (2021). It takes a Village: How Representation on Environmental Advisory Committees shape Emissions in Tokyo Wards (Working Paper)
 
 2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
 - Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**)
 - Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
- - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
+- Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
 
 2020-2021: **Disaster Evacuation in Japan**
 - Timothy Fraser, **Larissa Morikawa,** and Daniel P. Aldrich (2021). Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster. Climate Risk Management 33, 100320. [Open Access]
