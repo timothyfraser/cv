@@ -27,11 +27,15 @@
 <details>
   <summary>10 years using and learning Japanese (click here for formal education)</summary>
   
-- **Middlebury College** (*1st-2nd Year Japanese, 5th year Japanese, 2012-2016*)
-- **Middlebury Summer Language Schools** (*3rd Year Japanese, Summer 2014*)
-- **International Christian University, Tokyo** (*4th Year Japanese,	Fall 2014*)
-- **Private Tutoring, Fukuoka** (*Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017*)
-- **Private Tutoring, Boston** (*Advanced Japanese, Communicating Research in Japanese, 2021*)
+  - **Middlebury College** (*1st-2nd Year Japanese, 5th year Japanese, 2012-2016*)
+  
+  - **Middlebury Summer Language Schools** (*3rd Year Japanese, Summer 2014*)
+
+  - **International Christian University, Tokyo** (*4th Year Japanese,	Fall 2014*)
+  
+  - **Private Tutoring, Fukuoka** (*Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017*)
+  
+  - **Private Tutoring, Boston** (*Advanced Japanese, Communicating Research in Japanese, 2021*)
  
 </details>
 
