@@ -17,29 +17,11 @@
 
 
 ### <a id="skills">Skills</a>
-- **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
+**Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
 - R, RMarkdown, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, ggplot2, dashboards
 - **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
 - Areas: US, Japan, Cities
 
-
-### Japanese Language Training
-<details>
-  <summary>10 years using and learning Japanese (click here for formal education)</summary>
-  
-  <b>Middlebury College</b> (<i>1st-2nd Year Japanese, 5th year Japanese, 2012-2016</i>)
-  
-  <b>Middlebury Summer Language Schools</b> (<i>3rd Year Japanese, Summer 2014</i>)
-
-  <b>International Christian University, Tokyo</b> (<i>4th Year Japanese,	Fall 2014</i>)
-  
-  <b>Private Tutoring, Fukuoka</b> (<i>Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017</i>)
-  
-  <b>Private Tutoring, Boston</b> (<i>Advanced Japanese, Communicating Research in Japanese, 2021</i>)
- 
-</details>
-
----
 
 
 ### <a id="education">Education</a>
@@ -52,6 +34,20 @@
 - **B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
 <br>Middlebury College, Vermont, 2012-2016
 
+
+### Japanese Language Training
+10 years using and learning Japanese
+  
+- <b>Middlebury College</b> (<i>1st-2nd Year Japanese, 5th year Japanese, 2012-2016</i>)
+  
+- <b>Middlebury Summer Language Schools</b> (<i>3rd Year Japanese, Summer 2014</i>)
+
+- <b>International Christian University, Tokyo</b> (<i>4th Year Japanese,	Fall 2014</i>)
+  
+- <b>Private Tutoring, Fukuoka</b> (<i>Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017</i>)
+  
+- <b>Private Tutoring, Boston</b> (<i>Advanced Japanese, Communicating Research in Japanese, 2021</i>)
+ 
 ---
 
 <br>
