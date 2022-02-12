@@ -101,15 +101,16 @@
 
 ### Under Review (7)
 
-- The Value of Urban Regimes and Social Capital in Building Solar Cities (R&R, Nature Sustainability)
 - The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan (R&R, Environment & Behavior)
 - Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with Alex Poniatowsky, Nick Hersey, Haoran Zheng, & Daniel P. Aldrich)
 - Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19
-- Won't You Be My Neighbor? Uncovering ties between Social Capital and COVID-19 Outcomes at Local Levels (with Courtney Page-Tan & Daniel P. Aldrich)
+- Won't You Be My Neighbor? Uncovering ties between Social Capital and COVID-19 Outcomes at Local Levels (R&R, with Courtney Page-Tan & Daniel P. Aldrich)
 - Leapfrogging or Lagging? Drivers of Social Equity from Renewable Energy Transitions Globally (with Andrew Chapman & Yosuke Shigetomi) 
+- Better Together? The role of Social Capital in Urban Social Vulnerability (with Nikki Naquin)
 
 ## Working Papers (4)
 
+- The Value of Urban Regimes and Social Capital in Building Solar Cities
 - Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
 - Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
 - Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
