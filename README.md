@@ -1,6 +1,6 @@
 ## Timothy Fraser
 - **Data Scientist and Researcher**
-- *PhD Candidate (to be conferred April 2022), Political Science Department, Northeastern University*
+- *PhD Candidate (recently defended, PhD conferred April 2022), Political Science Department, Northeastern University*
 - Email: timothy.fraser.1@gmail.com | Address: Renaissance Park 960A, 360 Huntington Ave, Boston, MA, 02115
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
@@ -242,21 +242,18 @@
 <br>
 <br>
 
-### <a id="mentoring">Mentoring & Research with Students</a>
+### <a id="mentoring">Mentoring & Research with Students</a> (21 undergrads and 10 masters students)
 (Students' names marked in **bold**!)
 
-2020-2021: **Environmental Politics and Computational Social Science Working Group**
+2020-2022: **Environmental Politics and Computational Social Science Working Group**
 
+- Timothy Fraser, **Ava Cervini, Kelly Gilmore, Olivia Feeley, Vincent Rago, Andres Ridge, Gianna Worthington.** (2022). How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (Working Paper)
+- Timothy Fraser, **Katherine Van Woert, Sophia Olivieri, Pamela Lalli, Katelyn Buckley, Jonathan Baron.** (2022) Cycling Cities: Measuring Transportation Access and Equity in Boston BlueBikes Bikeshare System (Working Paper)
+- Timothy Fraser, **Mary Bancroft, Andrew Small,** & **Lily Cunningham.** (2022). Leaders or Networkers? The Role of Mayors in Renewable Energy Transition. Environmental Innovations & Societal Transitions. Accepted January 7, 2022.
+- Timothy Fraser, and **Nikki Naquin.** (2022). Better Together? The role of Social Capital in Urban Social Vulnerability. Under Review.
+- Timothy Fraser, and **Dustin Hinkley.** (2021). It takes a Village: How Representation on Environmental Advisory Committees shape Emissions in Tokyo Wards (Working Paper)
 - Timothy Fraser, **Lily Cunningham**, & **Amos Nasongo**. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
 - Timothy Fraser, **Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee,** & **Amos Nasongo**. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
-- Timothy Fraser, **Mary Bancroft, Andrew Small,** & **Lily Cunningham.** Leaders or Networkers? The Role of Mayors in Renewable Energy Transition. Environmental Innovations & Societal Transitions. Accepted January 7, 2021.
-- Timothy Fraser, and **Nikki Naquin.** (2021). Better Together? The role of Social Capital in Urban Social Vulnerability. (Working Paper)
-- Timothy Fraser, and **Dustin Hinkley.** (2021). It takes a Village: How Representation on Environmental Advisory Committees shape Emissions in Tokyo Wards (Working Paper)
-
-2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
-- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**)
-- Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
-- Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
 
 2020-2021: **Disaster Evacuation in Japan**
 - Timothy Fraser, **Larissa Morikawa,** and Daniel P. Aldrich (2021). Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster. Climate Risk Management 33, 100320. [Open Access]
@@ -266,5 +263,10 @@
 - Timothy Fraser, Daniel P. Aldrich, **Andrew Small**, and Andrew Littlejohn. (2021). In the Hands of a Few: Disaster Recovery Committee Networks. Journal of Environmental Management 280, 111643.
 - Timothy Fraser, Daniel P. Aldrich, and **Andrew Small**. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
 - Timothy Fraser, Daniel P. Aldrich, & **Andrew Small**. (2021). Seawalls or social recovery? The role of policy networks and design in disaster recovery. Global Environmental Change 70, 102342.
+
+2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
+- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**)
+- Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
+- Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
 
 
