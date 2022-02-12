@@ -53,7 +53,7 @@
 <br>
 <br>
 
-### <a id="publications">Publications (30)</a>
+### <a id="publications">Publications in Peer-Reviewed Journals (30)</a>
 
 1. **Timothy Fraser**, Daniel Aldrich, Costas Panagopoulos, David Hummel, and Daniel Kim (2022). The Harmful Effects of Partisan Polarization on Health. *PNAS Nexus*. In Press.
 2. **Timothy Fraser**. (2022). Fleeing the Unsustainable City: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. *Sustainability Science.* In Press.
