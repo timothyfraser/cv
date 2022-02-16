@@ -117,7 +117,8 @@
 
 ---
 
-### Invited Talks (3)
+### Invited Talks (5)
+- Mapping Social Infrastructure: Validating API Measures. Presented for the Northeastern University Lab for Text, Maps, and Networks, February 16, 2022.
 - Mapping Urban Policy: Social Infrastructure in US Cities. Presented for the Dept. of Urban Studies at Worcester State University, January 26, 2022.
 - Mapping Social Infrastructure for Disaster and Pandemic Resilience: A Case Study of Boston. Presented for the Dept. of American Studies at Indiana University–Purdue University Indianapolis, June 3, 2021.
 - Who Governs in Fukushima’s Wastewater Problem? Lessons from Nuclear Power Plant Restarts. Presented for the Nuclear Fusion Project, May 17, 2021.
