@@ -6,7 +6,7 @@
 
 **Table of Contents** (*Click to Jump to Sections!*)
 
-<a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
+<a href="#current">Current Position</a> | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
 
 <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a> | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
 
@@ -14,6 +14,11 @@
 
 <br>
 <br>
+
+## <a id="current">Current Position</a>
+
+- **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, Ithaca, NY, 2022-Present
+
 
 
 ### <a id="skills">Skills</a>
@@ -25,7 +30,7 @@
 
 
 ### <a id="education">Education</a>
-- **Ph.D. Political Science**	(*Public Policy and Comparative Politics, All-but-Dissertation*)
+- **Ph.D. Political Science**	(*Public Policy and Comparative Politics*)
 <br>Northeastern University, Boston, 2017-2022
 - **M.A. Political Science**	(*Public Policy*)
 <br>Northeastern University, Boston, 2017-2019
