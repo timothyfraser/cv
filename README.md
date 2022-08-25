@@ -19,11 +19,13 @@
 
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, Ithaca, NY, 2022-Present
 
-
+<br>
+<br>
+---
 
 ### <a id="skills">Skills</a>
 **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
-- R, RMarkdown, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, ggplot2, dashboards
+- R, RMarkdown, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`, dashboards, package development
 - **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
 - Areas: US, Japan, Cities
 
@@ -60,38 +62,41 @@
 
 ### <a id="publications">Publications in Peer-Reviewed Journals (32)</a>
 
-1. **Timothy Fraser**. (2022). The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan. *Environment & Behavior*. In Press.
-2. **Timothy Fraser**, Courtney Page-Tan, and Daniel P. Aldrich. (2022). Social Capital's Impact on COVID-19 Outcomes at Local Levels. *Nature Scientific Reports.* In Press.
-3. **Timothy Fraser**, Daniel Aldrich, Costas Panagopoulos, David Hummel, and Daniel Kim (2022). The Harmful Effects of Partisan Polarization on Health. *PNAS Nexus*. In Press.
-4. **Timothy Fraser**. (2022). Fleeing the Unsustainable City: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. *Sustainability Science.* http://dx.doi.org/10.1007/s11625-022-01098-y
-5. Courtney Page-Tan and **Timothy Fraser**. (2022). [COVID-19 To Go? The Role of Disasters and Evacuation in the COVID-19 Pandemic](https://dx.doi.org/10.2139/ssrn.3836258). *[Global Environmental Change](https://doi.org/10.1016/j.gloenvcha.2022.102471)*, 102471.
-6. **Timothy Fraser**, Mary Bancroft, Andrew Small, & Lily Cunningham (2022). [Leaders or Networkers? The Role of Mayors in Renewable Energy Transition](https://ssrn.com/abstract=4004227). _Environmental Innovations & Societal Transitions._ Accepted January 7, 2022.
-7. **Timothy Fraser**, Daniel P. Aldrich, & Larissa Morikawa. (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. _Ecology & Society._ Accepted December 7, 2021.
-8. Andrew Dolman, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, & Daniel Kim. (2021). Opposing Views: Associations of Political Polarization, Political Party Affiliation, and Social Trust with COVID-19 Vaccination Intent and Receipt. Journal of Public Health. Accepted December 4, 2021.
-9. **Timothy Fraser** & Pinar Temocin. (2021). [Grassroots vs. Greenhouse: The Role of Environmental Organizations in Reducing Carbon Emissions](https://github.com/timothyfraser/cv/files/7790564/2021_Fraser_Temocin_CC.pdf). [*Climatic Change*](http://dx.doi.org/10.2139/ssrn.3846343) 169(22), 1-21.
-10. **Timothy Fraser**, Daniel P. Aldrich, & Andrew Small. (2021). [Seawalls or social recovery? The role of policy networks and design in disaster recovery](https://github.com/timothyfraser/cv/files/7790566/2021_Fraser_Aldrich_Small_GEC.pdf). [*Global Environmental Change*](https://doi.org/10.1016/j.gloenvcha.2021.102342) 70, 102342.
-11. **Timothy Fraser**, Daniel P. Aldrich, and Courtney Page-Tan. (2021). [Bowling alone or distancing together? The role of social capital in excess death rates from COVID19](https://github.com/timothyfraser/cv/files/7790571/2021_Fraser_Aldrich_PageTan_SSM.pdf). [*Social Science & Medicine*](https://doi.org/10.1016/j.socscimed.2021.114241) 284, 114241.
-12. Costas Panagopoulos, **Timothy Fraser**, Daniel P. Aldrich, Daniel Kim, and David Hummel. (2021). [Bridging the Divide: Does Social Capital Moderate the Impact of Polarization on Health?](https://github.com/timothyfraser/cv/files/7790586/2021_Panagopoulos_et_al_PRQ.pdf) [*Political Research Quarterly*](https://doi.org/10.1177/10659129211034561), accepted July 2021.
-13. **Timothy Fraser**, Larissa Morikawa, and Daniel P. Aldrich (2021). [Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster.](https://github.com/timothyfraser/cv/files/7790596/2021_Fraser_Morikawa_Aldrich_CRM.pdf) [Climate Risk Management](https://doi.org/10.1016/j.crm.2021.100320) 33, 100320.
-14. Sameera Nayak, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, and Daniel Kim. Is Divisive Politics Making Americans Sick? Associations of Perceived Partisan Polarization with Physical and Mental Health Outcomes Among Adults in the United States. Social Science & Medicine, 113976.
-15. **Timothy Fraser**, Daniel P. Aldrich, and Andrew Small. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
-16. **Timothy Fraser** and Daniel P. Aldrich (2021). The dual effect of social ties on COVID-19 spread in Japan. Scientific Reports 11(1). [Open Access]
-17. **Timothy Fraser**, Lily Cunningham, and Amos Nasongo. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
-18. **Timothy Fraser** (2021). [Japanese Social Capital and Social Vulnerability Indices: Measuring Drivers of Community Resilience 2000-2017](https://github.com/timothyfraser/cv/files/7790558/2021_Fraser_IJDRR.pdf). International Journal of Disaster Risk Reduction 52, 101965.
-19. **Timothy Fraser**. (2021). Does Social Capital Boost or Block Renewable Energy Siting? South African Solar Politics in Comparison. Energy Research & Social Science 71, 101845.
-20. **Timothy Fraser**, Daniel P. Aldrich, Andrew Small, and Andrew Littlejohn. (2021). In the Hands of a Few: Disaster Recovery Committee Networks. Journal of Environmental Management 280, 111643.
-21. **Timothy Fraser**, Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee, and Amos Nasongo. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
-22. **Timothy Fraser** and Daniel P. Aldrich. (2020). The Fukushima Effect at Home: The changing role of domestic actors in Japanese energy policy. WIREs Climate Change. 
-23. **Timothy Fraser** and Andrew J. Chapman. (2020). Drivers of social equity in renewable energy at the municipal level: The case of local Japanese energy policy and preferences. Journal of Environmental Policy and Planning 22(3), 397-412. 
-24. **Timothy Fraser**. (2020). Japan's Resilient, Renewable Cities: How Socioeconomics and Local Policy drive Japan's Renewable Energy Transition. Environmental Politics 29(3), 500-523. 
-25. Taghizadeh-Hesary, Farhad, Aline Mortha, Hadi Farabi-Asl, Tapan Sarker, Andrew Chapman, Yosuke Shigetomi, and **Timothy Fraser**. (2020). Role of energy finance in geothermal power development in Japan. International Review of Economics and Finance 70, 398-412.
-26. **Timothy Fraser**. (2019). How Governance and Disasters shape Renewable Energy Transitions: The case of Japanese mega-solar. Social Science Quarterly 100(3), 975-990. 
-27. Andrew J. Chapman, **Timothy Fraser**, & Melanie Dennis. (2019). Investigating Ties between Energy Policy and Social Equity Research: A Citation Network Analysis. Social Sciences 8 (5), 135.
-28. Juheon Lee & **Timothy Fraser**. (2019). How do disasters affect individuals’ social ties? The impacts of disaster experiences and the perceived risks of disasters on participation in voluntary associations. International Journal of Disaster Risk Reduction 34, 108-115. 
-29. Andrew Chapman and **Timothy Fraser**. (2019). Japan’s Mega Solar Boom: Quantifying Social Equity Expectations and Realities at the Local Scale. Sustainability Science 14, 355–374. 
-30. **Timothy Fraser** and Andrew Chapman. (2018). Social Equity Impacts in Japan’s Mega Solar Siting Process. Energy for Sustainable Development 42, 136-151.
-31. Daniel P. Aldrich and **Timothy Fraser**. (2017). All Politics is Local: Judicial and Electoral Institutions’ Role in Japan’s Nuclear Restarts. Pacific Affairs 90, no. 3, 433-457. 
-32. Chapman, Andrew, **Timothy Fraser**, and Kenshi Itaoka. (2017). Hydrogen Import Pathway Comparison Framework incorporating Cost and Social Preference: Case studies from Australia to Japan. International Journal of Energy Research 41, no. 14, 2374-2391. 
+
+
+1. **Timothy Fraser**. (2022). The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan. [*Environment & Behavior*]( https://doi.org/10.1177/00139165221090159) 54(4), 833-863.
+2. 
+3. **Timothy Fraser**, Courtney Page-Tan, and Daniel P. Aldrich. (2022). Social Capital's Impact on COVID-19 Outcomes at Local Levels. [*Nature Scientific Reports*](https://doi.org/10.1038/s41598-022-10275-z) 12, 6566.
+4. **Timothy Fraser**, Daniel Aldrich, Costas Panagopoulos, David Hummel, and Daniel Kim (2022). The Harmful Effects of Partisan Polarization on Health. [*PNAS Nexus*](https://doi.org/10.1093/pnasnexus/pgac011) 1 (1), pgac011.
+6. **Timothy Fraser**. (2022). Fleeing the Unsustainable City: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. [*Sustainability Science*](http://dx.doi.org/10.1007/s11625-022-01098-y).
+7. Courtney Page-Tan and **Timothy Fraser**. (2022). [COVID-19 To Go? The Role of Disasters and Evacuation in the COVID-19 Pandemic](https://dx.doi.org/10.2139/ssrn.3836258). *[Global Environmental Change](https://doi.org/10.1016/j.gloenvcha.2022.102471)*, 102471.
+8. **Timothy Fraser**, Mary Bancroft, Andrew Small, & Lily Cunningham (2022). [Leaders or Networkers? The Role of Mayors in Renewable Energy Transition](https://ssrn.com/abstract=4004227). _Environmental Innovations & Societal Transitions._ Accepted January 7, 2022.
+9. **Timothy Fraser**, Daniel P. Aldrich, & Larissa Morikawa. (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. [*Ecology & Society*](https://doi.org/10.5751/ES-13097-270203) 27(2), 3.
+10. Andrew Dolman, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, & Daniel Kim. (2021). Opposing Views: Associations of Political Polarization, Political Party Affiliation, and Social Trust with COVID-19 Vaccination Intent and Receipt. [Journal of Public Health](https://doi.org/10.1093/pubmed/fdab401), fdab401.
+11. **Timothy Fraser** & Pinar Temocin. (2021). [Grassroots vs. Greenhouse: The Role of Environmental Organizations in Reducing Carbon Emissions](https://github.com/timothyfraser/cv/files/7790564/2021_Fraser_Temocin_CC.pdf). [*Climatic Change*](http://dx.doi.org/10.2139/ssrn.3846343) 169(22), 1-21.
+12. **Timothy Fraser**, Daniel P. Aldrich, & Andrew Small. (2021). [Seawalls or social recovery? The role of policy networks and design in disaster recovery](https://github.com/timothyfraser/cv/files/7790566/2021_Fraser_Aldrich_Small_GEC.pdf). [*Global Environmental Change*](https://doi.org/10.1016/j.gloenvcha.2021.102342) 70, 102342.
+13. **Timothy Fraser**, Daniel P. Aldrich, and Courtney Page-Tan. (2021). [Bowling alone or distancing together? The role of social capital in excess death rates from COVID19](https://github.com/timothyfraser/cv/files/7790571/2021_Fraser_Aldrich_PageTan_SSM.pdf). [*Social Science & Medicine*](https://doi.org/10.1016/j.socscimed.2021.114241) 284, 114241.
+14. Costas Panagopoulos, **Timothy Fraser**, Daniel P. Aldrich, Daniel Kim, and David Hummel. (2021). [Bridging the Divide: Does Social Capital Moderate the Impact of Polarization on Health?](https://github.com/timothyfraser/cv/files/7790586/2021_Panagopoulos_et_al_PRQ.pdf) [*Political Research Quarterly*](https://doi.org/10.1177/10659129211034561), accepted July 2021.
+15. **Timothy Fraser**, Larissa Morikawa, and Daniel P. Aldrich (2021). [Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster.](https://github.com/timothyfraser/cv/files/7790596/2021_Fraser_Morikawa_Aldrich_CRM.pdf) [Climate Risk Management](https://doi.org/10.1016/j.crm.2021.100320) 33, 100320.
+16. Sameera Nayak, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, and Daniel Kim. Is Divisive Politics Making Americans Sick? Associations of Perceived Partisan Polarization with Physical and Mental Health Outcomes Among Adults in the United States. Social Science & Medicine, 113976.
+17. **Timothy Fraser**, Daniel P. Aldrich, and Andrew Small. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
+18. **Timothy Fraser** and Daniel P. Aldrich (2021). The dual effect of social ties on COVID-19 spread in Japan. [Scientific Reports](https://doi.org/10.1038/s41598-021-81001-4) 11(1). [Open Access]
+19. **Timothy Fraser**, Lily Cunningham, and Amos Nasongo. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
+20. **Timothy Fraser** (2021). [Japanese Social Capital and Social Vulnerability Indices: Measuring Drivers of Community Resilience 2000-2017](https://github.com/timothyfraser/cv/files/7790558/2021_Fraser_IJDRR.pdf). International Journal of Disaster Risk Reduction 52, 101965.
+21. **Timothy Fraser**. (2021). Does Social Capital Boost or Block Renewable Energy Siting? South African Solar Politics in Comparison. Energy Research & Social Science 71, 101845.
+22. **Timothy Fraser**, Daniel P. Aldrich, Andrew Small, and Andrew Littlejohn. (2021). In the Hands of a Few: Disaster Recovery Committee Networks. Journal of Environmental Management 280, 111643.
+23. **Timothy Fraser**, Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee, and Amos Nasongo. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
+24. **Timothy Fraser** and Daniel P. Aldrich. (2020). The Fukushima Effect at Home: The changing role of domestic actors in Japanese energy policy. WIREs Climate Change. 
+25. **Timothy Fraser** and Andrew J. Chapman. (2020). Drivers of social equity in renewable energy at the municipal level: The case of local Japanese energy policy and preferences. Journal of Environmental Policy and Planning 22(3), 397-412. 
+26. **Timothy Fraser**. (2020). Japan's Resilient, Renewable Cities: How Socioeconomics and Local Policy drive Japan's Renewable Energy Transition. Environmental Politics 29(3), 500-523. 
+27. Taghizadeh-Hesary, Farhad, Aline Mortha, Hadi Farabi-Asl, Tapan Sarker, Andrew Chapman, Yosuke Shigetomi, and **Timothy Fraser**. (2020). Role of energy finance in geothermal power development in Japan. International Review of Economics and Finance 70, 398-412.
+28. **Timothy Fraser**. (2019). How Governance and Disasters shape Renewable Energy Transitions: The case of Japanese mega-solar. Social Science Quarterly 100(3), 975-990. 
+29. Andrew J. Chapman, **Timothy Fraser**, & Melanie Dennis. (2019). Investigating Ties between Energy Policy and Social Equity Research: A Citation Network Analysis. Social Sciences 8 (5), 135.
+30. Juheon Lee & **Timothy Fraser**. (2019). How do disasters affect individuals’ social ties? The impacts of disaster experiences and the perceived risks of disasters on participation in voluntary associations. International Journal of Disaster Risk Reduction 34, 108-115. 
+31. Andrew Chapman and **Timothy Fraser**. (2019). Japan’s Mega Solar Boom: Quantifying Social Equity Expectations and Realities at the Local Scale. Sustainability Science 14, 355–374. 
+32. **Timothy Fraser** and Andrew Chapman. (2018). Social Equity Impacts in Japan’s Mega Solar Siting Process. Energy for Sustainable Development 42, 136-151.
+33. Daniel P. Aldrich and **Timothy Fraser**. (2017). All Politics is Local: Judicial and Electoral Institutions’ Role in Japan’s Nuclear Restarts. Pacific Affairs 90, no. 3, 433-457. 
+34. Chapman, Andrew, **Timothy Fraser**, and Kenshi Itaoka. (2017). Hydrogen Import Pathway Comparison Framework incorporating Cost and Social Preference: Case studies from Australia to Japan. International Journal of Energy Research 41, no. 14, 2374-2391. 
 
 ### Preprints (+5)
 - **Timothy Fraser**. [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
