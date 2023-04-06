@@ -36,11 +36,8 @@
 
 ## <a id="current">Positions</a>
 
-- **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
-- **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University, 2022-Present
-- Teaching and Research Assistant
-
-### <a id="consulting">Consulting & Data Science for Hire</a>
+- 2022-Present: **Ezra Systems Postdoctoral Associate**, Cornell University, Systems Engineering Program.
+- 2022-Present: **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University.
 - 2021-2023: **Research Team: Resilient Cloverdale**: social network analysis and survey weighting analyses for evaluating community resilience in California.
 - 2019-2022: **Research Team: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
 - 2021: **Stanton Foundation**: public opinion survey design and weighting.
@@ -49,8 +46,8 @@
 - 2020: **Research Project: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.
 - 2020: **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
 - 2020: **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
-
-
+- 2020-2022: Instructor of Record, Political Science Department, Northeastern University
+- 2017-2022: Teaching & Research Assistant, Political Science Department, Northeastern University
 
 
 <br>
@@ -199,7 +196,6 @@
 - 2022: Best Reviewer Award 2022 for Journal *Energy Research & Social Science*
 - 2021: Northeastern University GIS Day Poster Competition First Prize
 - 2019: Passed Candidacy Exams in Public Policy with distinction (High Pass)
-- 2017-2022: Northeastern University Student Graduate Teaching Assistantship
 - 2016: Middlebury College Award for Best Thesis in International & Global Studies
 
 
