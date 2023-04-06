@@ -1,6 +1,7 @@
 ## Timothy Fraser, PhD
 - **Researcher and Data Scientist**
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
+- **Coordinator**, Center for Transportation, Environment, and Community Health (CTECH)
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
@@ -17,7 +18,6 @@
 ## <a id="current">Current Position</a>
 
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
-
 
 <br>
 <br>
