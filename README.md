@@ -2,11 +2,27 @@
 - **Researcher and Data Scientist**
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
-- Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
+<table>
+  <tr>
+    <td>[My Website](https://www.timothyfraser.com/)</td>
+    <td>[Twitter](https://twitter.com/Timothy_Fraser1)</td>
+    <td>[ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2)</td>
+    <td>[Github](https://github.com/timothyfraser/)</td>
+    <td>[Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/)</td>
+  </tr>
+    <td><a href="#current">Positions</a></td>
+    <td><a href="#skills">Skills</a></td>
+    <td><a href="#education">Education</a></td>
+    <td><a href="#publications">Publications</a></td>
+    <td><a href="#funding">Funding & Grants</a></td>
+    <td><a href="#awards">Awards</a></td>
+  <tr>
+  </tr>
+</table>
 
 **Table of Contents** (*Click to Jump to Sections!*)
 
-<a href="#current">Current Position</a> | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#publications">Research & Publications</a> | <a href="#grants">Grants & Service</a> | <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
+| <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
 
 <a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a> | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
 
@@ -14,7 +30,7 @@
 <br>
 <br>
 
-## <a id="current">Professional Positions</a>
+## <a id="current">Positions</a>
 
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
 - **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University, 2022-Present
