@@ -36,8 +36,28 @@
 
 ## <a id="current">Positions</a>
 
-- 2022-Present: **Ezra Systems Postdoctoral Associate**, Cornell University, Systems Engineering Program.
-- 2022-Present: **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University.
+<table>
+  <tr>
+    <td>2022-Present</td>
+    <td>**Ezra Systems Postdoctoral Associate**<br>Cornell University, Systems Engineering Program</td>
+  </tr>
+  
+  <tr>
+    <td>2022-Present</td>
+    <td>**Grant Coordinator**<br>Center for Transportation, Environment, and Community Health (CTECH)<br>Cornell University</td>
+  </tr>
+
+    <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+    <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+</table>
 - 2021-2023: **Research Team: Resilient Cloverdale**: social network analysis and survey weighting analyses for evaluating community resilience in California.
 - 2019-2022: **Research Team: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
 - 2021: **Stanton Foundation**: public opinion survey design and weighting.
