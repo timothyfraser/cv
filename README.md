@@ -27,12 +27,12 @@
     <td><a href="#outreach">Community Outreach</a></td>
     <td><a href="#language">Japanese</a></td>
   </tr>
+  <tr>
+    <td><b>Statements</b></td>
+    <td colspan="2"><a href="https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf"><b>Download Research Statement</b></a></td>
+    <td colspan="3"><a href="https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf"><b>Download Teaching Portfolio</b></a></td>
+  </tr>
 </table>
-
-|  | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
-
- | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
-
 
 <br>
 <br>
