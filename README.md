@@ -11,11 +11,9 @@
     <td><a href="https://github.com/timothyfraser/">Github</a> </td>
     <td><a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
     <td><a href="https://twitter.com/Timothy_Fraser1">Twitter</a></td>
-
   </tr>
     <td><a href="#current">Positions</a></td>
-    <td><a href="#skills">Skills</a></td>
-    <td><a href="#education">Education</a></td>
+    <td><a href="#education">Education & Skills</a></td>
     <td><a href="#publications">Publications</a></td>
     <td><a href="#funding">Funding & Grants</a></td>
     <td><a href="#awards">Awards</a></td>
@@ -23,6 +21,7 @@
     <td><a href="#teaching">Teaching</a></td>
     <td><a href="#mentoring">Student Mentoring & Research</a></td>
     <td><a href="#consulting">Consulting</a></td>
+    <td><a href="#outreach">Community Outreach</a></td>
     <td><a href="#language">Japanese</a></td>
   </tr>
 </table>
@@ -39,32 +38,18 @@
 
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
 - **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University, 2022-Present
+- Teaching and Research Assistant
 
-### <a id="consulting">Consulting</a>
-- **United Nations Development Program Mexico Accelerator Lab**
-    - Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
-- **United Nations Development Program Paraguay Accelerator Lab**
-    - Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
-- **Stanton Foundation**
-    - public opinion survey design and weighting.
-    - **Resilient Cloverdale**
-    - social network analysis and survey weighting analyses for evaluating community resilience in California.
+### <a id="consulting">Consulting & Data Science for Hire</a>
+- 2021-2023: **Research Team: Resilient Cloverdale**: social network analysis and survey weighting analyses for evaluating community resilience in California.
+- 2019-2022: **Research Team: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
+- 2021: **Stanton Foundation**: public opinion survey design and weighting.
+- 2019-2021: **Research Team: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**: Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
+- 2021: **Congressional Challengers: Candidate Quality in US Elections to Congress**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.
+- 2020: **Research Project: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.
+- 2020: **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
+- 2020: **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
 
-### Research Assistance for Teams
-- **2019-2022: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**
-  - Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
-- **2019-2021: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**
-   - Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
-- **2021: Congressional Challengers: Candidate Quality in US Elections to Congress**
-  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- **2020: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**
-  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- **2015: James Martin Center for Nonproliferation Studies**
-  - Mapped trafficking of nuclear materials and nuclear security policy quality. Studied nuclear security issues from experts in seminar-style classes. Paid intern.
-- **2014: Changemakers Talent Mapping Project, Ashoka Japan**
-  - Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
-- **2014: International Environmental Policy Research Assistance**
-  - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
 
 
 
@@ -73,12 +58,8 @@
 
 ---
 
-### <a id="skills">Skills</a>
-**Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
-- R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
-- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
+### <a id="skills">Education & Skills</a>
 
-### <a id="education">Education</a>
 - **Ph.D. Political Science**	(*Public Policy and Comparative Politics*)
 <br>Northeastern University, Boston, 2017-2022
 - **M.A. Political Science**	(*Public Policy*)
@@ -87,6 +68,10 @@
 <br>Kyushu University, Japan, 2016-2017
 - **B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
 <br>Middlebury College, Vermont, 2012-2016
+
+**Skills**: **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
+- R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
+- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
 
 ---
 
@@ -279,19 +264,6 @@
   - American Political Thought with Dr. William Mayer
   - Sexuality, Gender, and the Law with Dr. Libby Adler
 
-### Community Outreach
-
-- 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
-
-- 2016-2017: **Susenji Elementary School Student Supporter in Fukuoka, Japan**
-  - Tutored Japanese students in ESL and non-native students in math and Japanese language
-
-- 2015-2016: **Language in Motion Program Support Assistant at Middlebury College**
-  - Arranged intercultural education training and programming in local Vermont high schools in paid internship. Presented on Japanese culture and disaster studies and Turkish politics.
-
-- 2015: **Community Engagement Intern at Middlebury College**
-  - Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
-
 ---
 
 <br>
@@ -330,6 +302,23 @@
 - Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
 - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**) (Published in *Urban Climate*!)
 
+
+### <a href="#outreach">Community Outreach</a>
+
+- 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
+
+- 2016-2017: **Susenji Elementary School Student Supporter in Fukuoka, Japan**
+  - Tutored Japanese students in ESL and non-native students in math and Japanese language
+
+- 2015-2016: **Language in Motion Program Support Assistant at Middlebury College**
+  - Arranged intercultural education training and programming in local Vermont high schools in paid internship. Presented on Japanese culture and disaster studies and Turkish politics.
+
+- 2015: **Community Engagement Intern at Middlebury College**
+  - Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
+
+- 2015: **James Martin Center for Nonproliferation Studies**: Produced public-facing map of trafficking of nuclear materials and nuclear security policy quality. Studied nuclear security issues from experts in seminar-style classes. Paid intern.
+
+- 2014: **Changemakers Talent Mapping Project, Ashoka Japan**: Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
 
 
 ### <a href="#japanese">Japanese Language Training</a>
