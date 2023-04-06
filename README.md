@@ -49,9 +49,14 @@
     <td>2022-Present</td>
     <td><b>Ezra Systems Postdoctoral Associate</b></td>
     <td>Cornell University, Systems Engineering Program</td>
-    <td>Faculty</td>
+    <td>Research</td>
   </tr>
   
+  <tr>
+    <td>2022-Present</td>
+    <td><b>Instructor, Statistics Courses</b>
+    <td>Cornell University, Systems Engineering Program</td>
+    <td>Teaching</td>
   <tr>
     <td>2022-Present</td>
     <td><b>Grant Coordinator</b></td>
