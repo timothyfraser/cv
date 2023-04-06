@@ -54,8 +54,8 @@
   
   <tr>
     <td>2022-Present</td>
-    <td><b>Instructor, Statistics Courses</b>
-    <td>Cornell University, Systems Engineering Program</td>
+    <td><b>Instructor</b>
+    <td>Cornell University, Systems Engineering Program, statistics-related courses</td>
     <td>Teaching</td>
   <tr>
     <td>2022-Present</td>
