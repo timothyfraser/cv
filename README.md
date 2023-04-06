@@ -36,15 +36,23 @@
 
 ## <a id="current">Positions</a>
 
+
 <table>
   <tr>
+    <th>Years</th>
+    <th>Position</th>
+    <th>Group</th>
+  </tr>
+  <tr>
     <td>2022-Present</td>
-    <td>**Ezra Systems Postdoctoral Associate**<br>Cornell University, Systems Engineering Program</td>
+    <td>**Ezra Systems Postdoctoral Associate**</td>
+    <td>Cornell University, Systems Engineering Program</td>
   </tr>
   
   <tr>
     <td>2022-Present</td>
-    <td>**Grant Coordinator**<br>Center for Transportation, Environment, and Community Health (CTECH)<br>Cornell University</td>
+    <td>**Grant Coordinator**<br>Center for Transportation, Environment, and Community Health (CTECH)</td>
+      <td>Cornell University</td>
   </tr>
 
     <tr>
