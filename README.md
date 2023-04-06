@@ -165,6 +165,7 @@
 
 ## <a id="grants">Grants & Awards</a>
 
+- 2022: Best Reviewer Award 2022 for Journal *Energy Research & Social Science*
 - 2021: Northeastern University GIS Day Poster Competition First Prize
 - 2021: Northeastern University Lab for Texts, Maps, and Networks Seedling Grant ($3,000)
 - 2020: Japan Foundation Doctoral Fellowship (declined due to pandemic)
@@ -181,11 +182,11 @@
 
 ### Academic Service
 
-- Reviewer for 22 journals: 
-  - 7 Journals on Energy, Environment, & Disasters: *Applied Energy, Cleaner Production Letters, Environmental Politics, Energy Research & Social Science, Journal of Environmental Management, Utilities Policy, Environmental Sociology, 
-  - 5 Journals on Disasters & Health: Nature: Scientific Reports, PLOS ONE, Social Science & Medicine, International Journal of Disaster Risk Reduction, International Journal of Disaster Risk Science.
-  - 6 Journals on Political Science: *Social Science Research, Journal of Public and Nonprofit Affairs, Politics and Governance, European Policy Analysis, Social Science Japan Journal, and Oxford University Press.*
-  - 4 Journals on Urban Systems: Socio-Economic Planning Sciences, International Journal of Project Management, Journal of Management in Engineering, Sustainability (MDPI), Journal of Marine Science and Engineering (MDPI).
+- Reviewer for 30 journals:
+  - 11 journals on **Energy & Environment**: *Energy Research & Social Science, Applied Energy, Cleaner Production Letters, Environmental Politics, Journal of Environmental Management, Utilities Policy, Environmental Sociology, Ecology & Society, Sustainability Science, Frontiers In Sustainable Cities, Energies (MDPI).* 
+  - 5 journals on **Urban Systems**: *Socio-Economic Planning Sciences, International Journal of Project Management, Journal of Management in Engineering, Sustainability (MDPI), Journal of Marine Science and Engineering (MDPI).*
+  - 6 journals on **Disasters & Health**: *Nature: Scientific Reports, PLOS ONE, Social Science & Medicine, International Journal of Disaster Risk Reduction, International Journal of Disaster Risk Science, Disasters.*
+  - 8 journals on **Political Science**: *Politics and Life Sciences, Social Science Research, Journal of Public and Nonprofit Affairs, Politics and Governance, European Policy Analysis, Social Science Japan Journal, Oxford University Press, Social Sciences (MDPI)*
 
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Political Networks in Comparative Politics.*
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Impacts of Climate Change: New Directions.*
