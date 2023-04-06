@@ -13,16 +13,17 @@
     <td><a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
     <td><a href="https://twitter.com/Timothy_Fraser1">Twitter</a></td>
   </tr>
-    <td><b>Professional</td>
+    <td><b>Background</td>
     <td><a href="#current">Positions</a></td>
     <td><a href="#education">Education & Skills</a></td>
     <td><a href="#publications">Publications</a></td>
     <td><a href="#funding">Funding & Grants</a></td>
     <td><a href="#awards">Awards</a></td>
   <tr>
+    <td><b>Teaching & Mentoring</b></td>
     <td><a href="#teaching">Teaching</a></td>
-    <td><a href="#mentoring">Student Mentoring & Research</a></td>
-    <td><a href="#consulting">Consulting</a></td>
+    <td><a href="#mentoring">Student Research & Mentoring</a></td>
+    <td><a href="#service">Academic Service</a></td>
     <td><a href="#outreach">Community Outreach</a></td>
     <td><a href="#language">Japanese</a></td>
   </tr>
@@ -253,6 +254,23 @@
 - Do All Roads Lead to Sapporo: A Social Network Analysis of Evacuation. Presented at New England Political Science Association Conference, Portland, ME, April 24, 2019.
 - Youth Politics in Japan after 3.11: Political Geographies of Tokyo and Tohoku. Presented at Bard College Sustainability in Asia Conference, April 17, 2015.
 
+### Public Scholarship & Press (4)
+- Reviewed by: Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376) Social Science & Medicine 287, 114376.
+- Quoted in: Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
+- Quoted in: Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
+- Timothy Fraser and Daniel P. Aldrich. [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/) Advanced Science News. June 9, 2020
+
+#### R Packages for Public Data Science
+
+- `simulate`. (2022). Package for tidyverse friendly statistical simulation! [Hosted on Github](https://github.com/timothyfraser/simulate).
+- `tidyfault`. (2022). Package for tidy fault tree analysis! [Hosted on Github](https://github.com/timothyfraser/tidyfault)
+
+#### Dashboards for Public Data Communication & Visualization (4)
+- [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
+- [Community Resilience in Japan](https://timfraser.shinyapps.io/community_resilience_in_japan)
+- [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
+- [Testing the Fukushima Effect on Japanese Elections with Inferential Statistics](https://timfraser.shinyapps.io/lesson_5_inferential_stats/)
+
 ---
 
 <br>
@@ -279,7 +297,8 @@
 - 2019: Passed Candidacy Exams in Public Policy with distinction (High Pass)
 - 2016: Middlebury College Award for Best Thesis in International & Global Studies
 
-
+<br>
+<br>
 ### <a id="service">Academic Service</a>
 
 #### Reviewer for 30 journals:
@@ -294,23 +313,8 @@
 - Discussant for: American Political Science Association 2021 Conference Panel: *From Framing to Shaming: Generating Support for Environmental Policy.*
 - Methods Tutorials for [Environmental Social Science in R](https://www.timothyfraser.com/tutorials-in-r)
 - Lead organizer for conference: Power and Protest: Global Responses to Atomic Energy, Middlebury College Rohatyn Center for Global Affairs. January 21-22, 2016.
-
-#### Public Scholarship & Press (4)
-- Reviewed by: Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376) Social Science & Medicine 287, 114376.
-- Quoted in: Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
-- Quoted in: Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
-- Timothy Fraser and Daniel P. Aldrich. [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/) Advanced Science News. June 9, 2020
-
-#### Dashboards for Public Data Communication & Visualization (4)
-- [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
-- [Community Resilience in Japan](https://timfraser.shinyapps.io/community_resilience_in_japan)
-- [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
-- [Testing the Fukushima Effect on Japanese Elections with Inferential Statistics](https://timfraser.shinyapps.io/lesson_5_inferential_stats/)
-
+-
 ---
-
-<br>
-<br>
 
 ### <a id="teaching">Teaching</a>
 
@@ -376,7 +380,7 @@
 - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**) (Published in *Urban Climate*!)
 
 
-### <a href="#outreach">Community Outreach</a>
+### <a id="outreach">Community Outreach</a>
 
 - 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
 
@@ -394,7 +398,7 @@
 - 2014: **Changemakers Talent Mapping Project, Ashoka Japan**: Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
 
 
-### <a href="#japanese">Japanese Language Training</a>
+### <a id="japanese">Japanese Language Training</a>
 
 10 years using and learning Japanese
   
