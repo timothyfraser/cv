@@ -66,22 +66,21 @@
     <td>Consulting</td>
   </tr>
 
-
-    <tr>
+  <tr>
     <td>2019-2022</td>
-      <td><b>Data Analyst</b></td>
-      <td>For Project: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities": Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)</td>
-      <td>Research</td>
+    <td><b>Data Analyst</b></td>
+    <td>For Project: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities": Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)</td>
+    <td>Research</td>
   </tr>
 
-   <tr>
+  <tr>
     <td>2019-2021</td>
-     <td><b>Data Analyst</b></td>
+    <td><b>Data Analyst</b></td>
     <td>For Project: "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health": Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).</td>
-     <td>Research</td>
+    <td>Research</td>
   </tr>
 
-      <tr>
+  <tr>
     <td>2021</td>
         <td>Data Analyst</td>
         <td>For Project: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
