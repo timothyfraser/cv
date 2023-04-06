@@ -40,6 +40,32 @@
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
 - **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University, 2022-Present
 
+### <a id="consulting">Consulting</a>
+- **United Nations Development Program Mexico Accelerator Lab**
+    - Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
+- **United Nations Development Program Paraguay Accelerator Lab**
+    - Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
+- **Stanton Foundation**
+    - public opinion survey design and weighting.
+    - **Resilient Cloverdale**
+    - social network analysis and survey weighting analyses for evaluating community resilience in California.
+
+### Research Assistance for Teams
+- **2019-2022: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**
+  - Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
+- **2019-2021: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**
+   - Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
+- **2021: Congressional Challengers: Candidate Quality in US Elections to Congress**
+  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
+- **2020: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**
+  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
+- **2015: James Martin Center for Nonproliferation Studies**
+  - Mapped trafficking of nuclear materials and nuclear security policy quality. Studied nuclear security issues from experts in seminar-style classes. Paid intern.
+- **2014: Changemakers Talent Mapping Project, Ashoka Japan**
+  - Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
+- **2014: International Environmental Policy Research Assistance**
+  - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
+
 
 
 <br>
@@ -50,10 +76,7 @@
 ### <a id="skills">Skills</a>
 **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
 - R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
-- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
-- Areas: US, Japan, Cities
-
-
+- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
 
 ### <a id="education">Education</a>
 - **Ph.D. Political Science**	(*Public Policy and Comparative Politics*)
@@ -219,33 +242,6 @@
 
 <br>
 <br>
-
-### <a id="consulting">Consulting</a>
-- **United Nations Development Program Mexico Accelerator Lab**
-    - Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
-- **United Nations Development Program Paraguay Accelerator Lab**
-    - Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
-- **Stanton Foundation**
-    - public opinion survey design and weighting.
-    - **Resilient Cloverdale**
-    - social network analysis and survey weighting analyses for evaluating community resilience in California.
-
-### Research Assistance for Teams
-- **2019-2022: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**
-  - Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
-- **2019-2021: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**
-   - Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
-- **2021: Congressional Challengers: Candidate Quality in US Elections to Congress**
-  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- **2020: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**
-  - Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- **2015: James Martin Center for Nonproliferation Studies**
-  - Mapped trafficking of nuclear materials and nuclear security policy quality. Studied nuclear security issues from experts in seminar-style classes. Paid intern.
-- **2014: Changemakers Talent Mapping Project, Ashoka Japan**
-  - Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
-- **2014: International Environmental Policy Research Assistance**
-  - Devised globalization syllabus content and edited faculty study on international environmental policy for Dr. Kemi Fuentes-George, Middlebury College.
-
 
 ### Dashboards for Public Data Communication & Visualization (4)
 - [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
