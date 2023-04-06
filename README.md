@@ -6,12 +6,14 @@
 <table>
   <caption><b>Table of Contents</b> (<i>Click to Jump to Sections!</i>) </caption>
   <tr>
+    <td><b>Sites</b></td>
     <td><a href="https://www.timothyfraser.com/">My Website</a></td>
     <td><a href="https://www.researchgate.net/profile/Timothy_Fraser2">ResearchGate</a></td>
     <td><a href="https://github.com/timothyfraser/">Github</a> </td>
     <td><a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
     <td><a href="https://twitter.com/Timothy_Fraser1">Twitter</a></td>
   </tr>
+    <td><b>Professional</td>
     <td><a href="#current">Positions</a></td>
     <td><a href="#education">Education & Skills</a></td>
     <td><a href="#publications">Publications</a></td>
@@ -193,42 +195,44 @@
 36. Daniel P. Aldrich and **Timothy Fraser**. (2017). All Politics is Local: Judicial and Electoral Institutions’ Role in Japan’s Nuclear Restarts. Pacific Affairs 90, no. 3, 433-457. 
 37. Chapman, Andrew, **Timothy Fraser**, and Kenshi Itaoka. (2017). Hydrogen Import Pathway Comparison Framework incorporating Cost and Social Preference: Case studies from Australia to Japan. International Journal of Energy Research 41, no. 14, 2374-2391. 
 
-### Preprints (+5)
+### Preprints
 - **Timothy Fraser**. [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
-- **Timothy Fraser**, Alex Poniatowksi, Nick Hersey, Haoran Zhang, & Daniel P. Aldrich. [Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita](https://dx.doi.org/10.2139/ssrn.4004216).
 - **Timothy Fraser**, Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, & Pamela Lalli. [Cycling Cities: Measuring Transportation Equity in Bikeshare Networks](https://dx.doi.org/10.2139/ssrn.4076776).
-- **Timothy Fraser**, Napuck Cherdchaiyapong, Winta Tekle, Erin Thomas, Joel Zayas, Courtney Page-Tan, & Daniel P. Aldrich. [Trust but Verify: Validating New Measures for Mapping Social Infrastructure in Cities.](http://dx.doi.org/10.2139/ssrn.4065162)
-- **Timothy Fraser**, and Nicole Naquin. [Better Together? The role of Social Capital in Urban Social Vulnerability.](http://dx.doi.org/10.2139/ssrn.4033751)
 
-### Chapters in Edited Volumes (5)
+### Reports (2)
+- Daniel Aldrich, Courtney Page-Tan, **Timothy Fraser**, & Takahiro Yabe. (2022). Social Capital, Mobility, and Evacuation Destinations During the Marshall Fire. [Natural Hazards Center Quick Response Grant Report Series](https://hazards.colorado.edu/quick-response-report/social-capital-mobility-and-evacuation-destinations-during-the-marshall-fire), 348. Boulder, CO: Natural Hazards Center, University of Colorado Boulder.
+- Daniel Aldrich, **Timothy Fraser**, Juheon Lee, Courtney Page-Tan, & Toshiaki Yoshida. (2020). Social Ties, Quarantine Policy, and the Spread of COVID-19. [Natural Hazards Center Quick Response Grant Report Series](https://hazards.colorado.edu/quick-response-report/social-ties-quarantine-policy-and-the-spread-of-covid-19), 314. Boulder, CO: Natural Hazards Center, University of Colorado Boulder.
 
+### Chapters in Edited Volumes (7)
+- **Timothy Fraser** (2023). It's Who You Know: How social networks help cities rebuild with renewables after disaster. In Paola Cavaliere, ed. Handbook of Disaster Studies in Japan. Amsterdam University Press/MHM Limited. (forthcoming)
+- **Timothy Fraser** (2023). Stronger Together: The Critical Role of Bridging and Linking Social Capital in Evacuation Outcomes. In Paola Cavaliere, ed. Handbook of Disaster Studies in Japan. Amsterdam University Press/MHM Limited. (forthcoming)
 - **Timothy Fraser**, Courtney Page-Tan, & Daniel P. Aldrich. (2021). [Social Network Analysis for Disasters.](https://www.researchgate.net/publication/351283811_Social_Network_Analysis_for_Disaster_Management_Research) In Jason Rivera, ed. Research Methods of Disaster and Emergency Management: Social Science Approaches in Application.
 - Courtney Page-Tan, **Timothy Fraser**, & Daniel P. Aldrich. (2021). [Mapping Resilience: GIS Techniques for Disaster Studies.](https://www.researchgate.net/publication/351283898_Mapping_Resilience_GIS_Techniques_for_Disaster_Studies) In Jason Rivera, ed. Research Methods of Disaster and Emergency Management: Social Science Approaches in Application.
 - **Timothy Fraser** & Andrew J. Chapman. (2020). [Social Sustainability in Cities: Urban Energy.](https://www.researchgate.net/publication/344196674_Sustainability_of_Urban_Energy?_sg=ozKKOM4138T2xnoefuxus60AbYJzy10JR1-5uCDKGB-7PdNexeoPKIssPqP7FMiCDY87UgqDEadMeuloLnlOlfXs3V0eDLWP2LG8w7kh.lRCg37Dj8FDrfz9qlZx1WNllujoXNvuot1BfMTXBw0qKAjQxo2PIMTLjUKdw0UcPyxU0TbAcgmrZSKsCwNQqfA) In Alvarez-Risco, A., Rosen, M., Del-Aguila-Arcentales, S, & Marinova, D. Building sustainable cities: Social, Economic and Environmental Factors, Springer-Nature.
 - **Timothy Fraser** and Daniel P. Aldrich. (2019). [East Asia's Nuclear Policies: Fukushima Effect or a Nuclear Renaissance?](https://issuu.com/georgetownsfs/docs/gjaa_vol.4_no.2/65) Georgetown Journal of Asian Affairs. 
 - Daniel P. Aldrich, Courtney Page-Tan, and **Timothy Fraser**. (2018). [A Janus Faced Resource: Social Capital and Resilience Trade-offs.](https://irgc.epfl.ch/wp-content/uploads/2018/11/Aldrich-et-al-for-IRGC-Resilience-Guide-Vol-2-2018.pdf) International Risk Governance Council Resource Guide, vol 2.
 
-### Under Review (8)
+### Under Review
 
+- Big Spenders: Large-N Measures of Urban Regimes in Japanese Cities.
 - Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19
 - How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (with Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, & Gianna Worthington)
 - Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
 - Cycling Cities: Measuring Transportation Equity in Bikeshare Networks (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
 
+## Working Papers
 
-
-## Working Papers (4)
-
-- The Value of Urban Regimes and Social Capital in Building Solar Cities
 - Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
 - Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
 - Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
-
+- Networks of Solar Cities.
 ---
 
-### Invited Talks (7+)
+### Invited Talks (10+)
 
-- Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19. UTokyo Center for Contemporary Japanese Studies. June 7, 2022. **TBD.**
+- Won't You be My Neighbor? Mapping Social Infrastructure and Social Capital across North America with Big Data. Guest lecture presented for Course "Industrial Big Data Analytics and Machine Learning", Systems Engineering Program, Cornell Unviersity. April 19, 2023.
+- Leapfrogging or Lagging? Drivers of social equity from renewable energy transitions globally. Guest lecture presented for Course "Quantitative Techniques", Political Science Department, Cornell University. March 20, 2023.
+- Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19. Presented for UTokyo Center for Contemporary Japanese Studies [Virtual]. June 7, 2022.
 - Fleeing the Unsustainable City: Social Capital’s Role in Hurricane Evacuation. Presented for Department of Environmental Science & Policy, George Mason University. March 18, 2022.
 - Mapping Social Infrastructure: Validating API Measures. Presented for the Northeastern University Lab for Text, Maps, and Networks, February 16, 2022.
 - Mapping Urban Policy: Social Infrastructure in US Cities. Presented for the Dept. of Urban Studies at Worcester State University, January 26, 2022.
@@ -238,9 +242,9 @@
 - Restarting the Sendai Reactor: Japanese Civic Activism after Fukushima. Presented at Middlebury College Rohatyn Center for Global Affairs, February 24, 2017.
 - Public Opinion Survey Design and Weighting. Presented for the Stanton Foundation, September 2021.
 
-### Conference Talks (7+)
+### Conference Talks (8+)
 
-- Won't You Be My Neighbor? Social Capital's Impact on COVID-19 Outcomes at Local Levels. Presented for Society for the Study of Social Problems Conference. May 18, 2022. **TBD**
+- Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. Presented for Political Networks Annual Conference 2022 (PolNet), June 22, 2022.
 - Opportunists and Organizers: The Value of Urban Regimes and Social Capital in Building Solar Cities. Presented for Midwestern Political Science Association Annual Conference, April 9, 2022.
 - Getting to Know You: Mapping Social Infrastructure in American Neighborhoods for Community Resilience. Presented for Midwestern Political Science Association Annual Conference, April 8, 2022.
 - In Friends We Trust: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. Presented for American Political Science Association Annual Conference, October 3, 2021.
@@ -278,30 +282,26 @@
 
 ### <a id="service">Academic Service</a>
 
-- Reviewer for 30 journals:
+#### Reviewer for 30 journals:
   - 11 journals on **Energy & Environment**: *Energy Research & Social Science, Applied Energy, Cleaner Production Letters, Environmental Politics, Journal of Environmental Management, Utilities Policy, Environmental Sociology, Ecology & Society, Sustainability Science, Frontiers In Sustainable Cities, Energies (MDPI).* 
   - 5 journals on **Urban Systems**: *Socio-Economic Planning Sciences, International Journal of Project Management, Journal of Management in Engineering, Sustainability (MDPI), Journal of Marine Science and Engineering (MDPI).*
   - 6 journals on **Disasters & Health**: *Nature: Scientific Reports, PLOS ONE, Social Science & Medicine, International Journal of Disaster Risk Reduction, International Journal of Disaster Risk Science, Disasters.*
   - 8 journals on **Political Science**: *Politics and Life Sciences, Social Science Research, Journal of Public and Nonprofit Affairs, Politics and Governance, European Policy Analysis, Social Science Japan Journal, Oxford University Press, Social Sciences (MDPI)*
 
+#### Conference Roles
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Political Networks in Comparative Politics.*
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Impacts of Climate Change: New Directions.*
 - Discussant for: American Political Science Association 2021 Conference Panel: *From Framing to Shaming: Generating Support for Environmental Policy.*
 - Methods Tutorials for [Environmental Social Science in R](https://www.timothyfraser.com/tutorials-in-r)
 - Lead organizer for conference: Power and Protest: Global Responses to Atomic Energy, Middlebury College Rohatyn Center for Global Affairs. January 21-22, 2016.
 
-### Public Scholarship & Press (4)
+#### Public Scholarship & Press (4)
 - Reviewed by: Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376) Social Science & Medicine 287, 114376.
 - Quoted in: Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
 - Quoted in: Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
 - Timothy Fraser and Daniel P. Aldrich. [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/) Advanced Science News. June 9, 2020
 
----
-
-<br>
-<br>
-
-### Dashboards for Public Data Communication & Visualization (4)
+#### Dashboards for Public Data Communication & Visualization (4)
 - [Mapping Social Infrastructure in Boston](https://timfraser.shinyapps.io/boston_social_infra/)
 - [Community Resilience in Japan](https://timfraser.shinyapps.io/community_resilience_in_japan)
 - [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
