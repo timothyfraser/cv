@@ -26,7 +26,7 @@
 
 ### <a id="skills">Skills</a>
 **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
-- R, RMarkdown, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`, dashboards, package development
+- R, RMarkdown, ShinyApps, Dashboards, Package development, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
 - **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
 - Areas: US, Japan, Cities
 
