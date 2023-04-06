@@ -1,7 +1,6 @@
 ## Timothy Fraser, PhD
 - **Researcher and Data Scientist**
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
-- **Coordinator**, Center for Transportation, Environment, and Community Health (CTECH)
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
 - Profiles: [My Website](https://www.timothyfraser.com/) | [Twitter](https://twitter.com/Timothy_Fraser1) | [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) | [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) | [Northeastern](https://cssh.northeastern.edu/polisci/people/graduate-students/timothy-fraser/)
 
@@ -15,9 +14,12 @@
 <br>
 <br>
 
-## <a id="current">Current Position</a>
+## <a id="current">Professional Positions</a>
 
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University, 2022-Present
+- **Grant Coordinator**, Center for Transportation, Environment, and Community Health (CTECH), Cornell University, 2022-Present
+
+
 
 <br>
 <br>
@@ -163,24 +165,30 @@
 <br>
 <br>
 
-## <a id="grants">Grants & Awards</a>
+## <a id="funding">Research Funding & Grants</a>
+
+- 2022: Natural Hazards Center Quick Response Grant. Drivers of evacuation: A multi-level study of social capital and mobility during Covid-19. Natural Hazards Center Quick Response Program. Co-Principal Investigator. Credit: $5,000
+- 2021: NULab for Texts, Maps, and Networks Seedling Grant. [Mapping Social Infrastructure for Disaster and Pandemic Resilience](https://cssh.northeastern.edu/nulab/mapping-social-infrastructure-disaster-resilience/). Northeastern University. Co-Principal Investigator. Credit: $3,000
+- 2020: Fulbright Graduate Fellowship. Credit: Full Year Fellowship.	(declined due to pandemic)
+- 2020: Japan Foundation Doctoral Fellowship. Credit: Full Year Fellowship.  (declined due to pandemic)
+- 2020: Social Science Research Council’s Nomination for Japan Society for Promotion of Science Fellowship. Credit: Full Year Fellowship.  (declined due to pandemic)
+- 2020: Natural Hazards Center Quick Response Grant. CONVERGE Covid -19 Working Group for Social Ties, Mobility, and Covid-19 Spread Rates. Natural Hazards Center Quick Response Program. Collaborator. Credit: $5,000
+- 2018: Northeastern University Asian Studies Research Award. Credit: $2000
+- 2016: Fulbright Study/Research Fellowship in Japan. Credit: $20,000.
+- 2015: Middlebury College Rohatyn Center Grant for Summer Research. Credit: $5000
+- 2015: Middlebury College Cross-Cultural Community Engagement Grant. Credit: $1000
+- 2014: Middlebury College Mellon Grant for Study Abroad Research. Credit: $2500
+- 
+## <a id="awards">Awards</a>
 
 - 2022: Best Reviewer Award 2022 for Journal *Energy Research & Social Science*
 - 2021: Northeastern University GIS Day Poster Competition First Prize
-- 2021: Northeastern University Lab for Texts, Maps, and Networks Seedling Grant ($3,000)
-- 2020: Japan Foundation Doctoral Fellowship (declined due to pandemic)
-- 2020: Fulbright Graduate Fellowship	(declined due to pandemic)
-- 2020: Social Science Research Council’s Nomination for Japan Society for Promotion of Science Fellowship (declined due to pandemic)	
 - 2019: Passed Candidacy Exams in Public Policy with distinction (High Pass)
-- 2018: Northeastern University Asian Studies Research Award
 - 2017-2022: Northeastern University Student Graduate Teaching Assistantship
-- 2016: Fulbright Study/Research Fellowship in Japan
 - 2016: Middlebury College Award for Best Thesis in International & Global Studies
-- 2015: Middlebury College Rohatyn Center Grant for Summer Research
-- 2015: Middlebury College Cross-Cultural Community Engagement Grant
-- 2014: Middlebury College Mellon Grant for Study Abroad Research
 
-### Academic Service
+
+### <a id="service">Academic Service</a>
 
 - Reviewer for 30 journals:
   - 11 journals on **Energy & Environment**: *Energy Research & Social Science, Applied Energy, Cleaner Production Letters, Environmental Politics, Journal of Environmental Management, Utilities Policy, Environmental Sociology, Ecology & Society, Sustainability Science, Frontiers In Sustainable Cities, Energies (MDPI).* 
@@ -245,6 +253,10 @@
 
 ### <a id="teaching">Teaching</a>
 
+- **2022-present: Instructor, Cornell University**
+  - Systems Reliability & Six Sigma (Fall 2022)
+  - Systems Architecture (Spring 2023)
+
 - **2020-2021: Instructor of Record, Northeastern University Political Science**
   - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
   - Research Methods in Political Science (Summer 2021)
@@ -266,6 +278,8 @@
 
 ### Community Outreach
 
+- 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
+
 - 2016-2017: **Susenji Elementary School Student Supporter in Fukuoka, Japan**
   - Tutored Japanese students in ESL and non-native students in math and Japanese language
 
@@ -285,9 +299,9 @@
 
 2020-2022: **Environmental Politics and Computational Social Science Working Group**
 
-- Timothy Fraser, **Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, Gianna Worthington.** (2022). How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (Working Paper)
+- Timothy Fraser, **Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, Gianna Worthington.** (2022). How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (Under Review)
   - Presented for the College of Social Sciences & Humanities Undergraduate Research Forum at Northeastern University, March 23, 2022.
-- Timothy Fraser, **Katherine Van Woert, Sophia Olivieri, Pamela Lalli, Katelyn Buckley, Jonathan Baron.** (2022) Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. (Working Paper)
+- Timothy Fraser, **Katherine Van Woert, Sophia Olivieri, Pamela Lalli, Katelyn Buckley, Jonathan Baron.** (2022) Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. (Under Review)
   - Presented for the College of Social Sciences & Humanities Undergraduate Research Forum at Northeastern University, March 24, 2022.
   - Presented for the Research, Innovation, Scholarship and Entrepreneurial Expo (RISE) at Northeastern University, April 2022. [See my students' talk here!](https://youtu.be/es1jtFSZVxk)
 - Timothy Fraser and **Khushi Patel**. Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems. (Working Paper).
@@ -309,8 +323,8 @@
 - Timothy Fraser, Daniel P. Aldrich, & **Andrew Small**. (2021). Seawalls or social recovery? The role of policy networks and design in disaster recovery. Global Environmental Change 70, 102342.
 
 2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
-- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**)
+- Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**) (Published in *J. Environental Management*!)
 - Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
-- Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**)
+- Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**) (Published in *Urban Climate*!)
 
 
