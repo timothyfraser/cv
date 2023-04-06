@@ -54,8 +54,8 @@
   
   <tr>
     <td>2022-Present</td>
-    <td><b>Grant Coordinator</b><br>Center for Transportation, Environment, and Community Health (CTECH)</td>
-    <td>Cornell University</td>
+    <td><b>Grant Coordinator</b></td>
+    <td>Cornell University, Center for Transportation, Environment, and Community Health (CTECH)</td>
     <td>Admin</td>
   </tr>
   
@@ -82,45 +82,45 @@
 
   <tr>
     <td>2021</td>
-        <td>Data Analyst</td>
-        <td>For Project: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
-          <td>Research</td>
-  </tr>
-
-      <tr>
-    <td>2020</td>
-        <td>Data Analyst</td>
-        <td>For Project: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+    <td>Data Analyst</td>
+    <td>For Project: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
     <td>Research</td>
   </tr>
 
-          <tr>
-            <td>2020</td>
-            <td>Consultant for UNDP Mexico Lab</td>
-            <td><b>United Nations Development Program Mexico Accelerator Lab</b>: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.</td>
-            <td>Consulting</td>
-          </tr>
+  <tr>
+    <td>2020</td>
+    <td>Data Analyst</td>
+    <td>For Project: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+    <td>Research</td>
+  </tr>
 
-                    <tr>
-            <td>2020</td>
-            <td>Consultant for UNDP Paraguay Lab</td>
-                      <td><b>United Nations Development Program Paraguay Accelerator Lab</b>: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.</td>
-            <td>Consulting</td>
-          </tr>
+  <tr>
+     <td>2020</td>
+     <td>Consultant for UNDP Mexico Lab</td>
+     <td><b>United Nations Development Program Mexico Accelerator Lab</b>: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.</td>
+     <td>Consulting</td>
+  </tr>
 
-          <tr>
-            <td>2020-2022</td>
-            <td>Instructor</td>
-            <td>Northeastern University Political Science Department</td>
-            <td>Teaching</td>
-          </tr>
+  <tr>
+     <td>2020</td>
+     <td>Consultant for UNDP Paraguay Lab</td>
+     <td><b>United Nations Development Program Paraguay Accelerator Lab</b>: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.</td>
+     <td>Consulting</td>
+  </tr>
 
-          <tr>
-            <td>2017-2019</td>
-            <td>Teaching Assistant</td>
-            <td>Northeastern University Political Science Department</td>
-            <td>Teaching</td>
-          </tr>
+  <tr>
+     <td>2020-2022</td>
+     <td>Instructor</td>
+     <td>Northeastern University Political Science Department</td>
+     <td>Teaching</td>
+  </tr>
+
+  <tr>
+     <td>2017-2019</td>
+     <td>Teaching Assistant</td>
+     <td>Northeastern University Political Science Department</td>
+     <td>Teaching</td>
+  </tr>
 </table>
 
 
