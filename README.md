@@ -66,63 +66,63 @@
   
   <tr>
     <td>2021-2023</td>
-    <td><b>Consultant for Resilient Cloverdale</b></td>
-    <td>Social network analysis and survey weighting analyses for evaluating community resilience in California.</td>
+    <td><b>Data Consultant</b></td>
+    <td>NGO Resilient Cloverdale<br>Social network analysis and survey weighting analyses for evaluating community resilience in California.</td>
     <td>Consulting</td>
   </tr>
 
   <tr>
     <td>2019-2022</td>
     <td><b>Data Analyst</b></td>
-    <td>For Project: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities": Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)</td>
+    <td>NSF Grant Project, Northeastern University Sociology Dept.<br>"Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities".<br>Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)</td>
     <td>Research</td>
   </tr>
 
   <tr>
     <td>2019-2021</td>
     <td><b>Data Analyst</b></td>
-    <td>For Project: "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health": Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).</td>
+    <td>Grant Project, Northeastern University Political Science Dept.<br>"Impacts of Partisan Polarization and Voting Preferences on the Public’s Health".<br>Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).</td>
     <td>Research</td>
   </tr>
 
   <tr>
     <td>2021</td>
     <td>Data Analyst</td>
-    <td>For Project: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+    <td>Book Project, Northeastern University Political Science Dept.<br>"Congressional Challengers: Candidate Quality in US Elections to Congress".<br>Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
     <td>Research</td>
   </tr>
 
   <tr>
     <td>2020</td>
     <td>Data Analyst</td>
-    <td>For Project: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+    <td>Book Project, Northeastern University Political Science Dept.<br>"Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
     <td>Research</td>
   </tr>
 
   <tr>
      <td>2020</td>
-     <td>Consultant for UNDP Mexico Lab</td>
+     <td>Data Consultant</td>
      <td><b>United Nations Development Program Mexico Accelerator Lab</b>: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.</td>
      <td>Consulting</td>
   </tr>
 
   <tr>
      <td>2020</td>
-     <td>Consultant for UNDP Paraguay Lab</td>
+     <td>Data Consultant</td>
      <td><b>United Nations Development Program Paraguay Accelerator Lab</b>: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.</td>
      <td>Consulting</td>
   </tr>
 
   <tr>
      <td>2020-2022</td>
-     <td>Instructor</td>
+     <td>Instructor, Political Science</td>
      <td>Northeastern University Political Science Department</td>
      <td>Teaching</td>
   </tr>
 
   <tr>
      <td>2017-2019</td>
-     <td>Teaching Assistant</td>
+     <td>Teaching Assistant, Political Science</td>
      <td>Northeastern University Political Science Department</td>
      <td>Teaching</td>
   </tr>
