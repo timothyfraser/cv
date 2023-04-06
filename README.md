@@ -4,12 +4,12 @@
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
 
 <table>
-  <caption>**Table of Contents** (*Click to Jump to Sections!*) </caption>
+  <caption><b>Table of Contents</b> (<i>Click to Jump to Sections!</i>) </caption>
   <tr>
     <td><a href="https://www.timothyfraser.com/">My Website</a></td>
-    <td> <a href="https://www.researchgate.net/profile/Timothy_Fraser2">ResearchGate</a></td>
-    <td> <a href="https://github.com/timothyfraser/">Github</a> </td>
-    <td> <a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
+    <td><a href="https://www.researchgate.net/profile/Timothy_Fraser2">ResearchGate</a></td>
+    <td><a href="https://github.com/timothyfraser/">Github</a> </td>
+    <td><a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
     <td><a href="https://twitter.com/Timothy_Fraser1">Twitter</a></td>
 
   </tr>
@@ -20,12 +20,16 @@
     <td><a href="#funding">Funding & Grants</a></td>
     <td><a href="#awards">Awards</a></td>
   <tr>
+    <td><a href="#teaching">Teaching</a></td>
+    <td><a href="#mentoring">Student Mentoring & Research</a></td>
+    <td><a href="#consulting">Consulting</a></td>
+    <td><a href="#language">Japanese</a></td>
   </tr>
 </table>
 
-| <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
+|  | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
 
-<a href="#teaching">Teaching</a> | <a href="#mentoring">Mentoring & Research with Students</a> | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
+ | [**Download Teaching Portfolio**](https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf) |
 
 
 <br>
@@ -45,7 +49,7 @@
 
 ### <a id="skills">Skills</a>
 **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
-- R, RMarkdown, ShinyApps, Dashboards, Package development, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
+- R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
 - **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy
 - Areas: US, Japan, Cities
 
@@ -61,20 +65,6 @@
 - **B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
 <br>Middlebury College, Vermont, 2012-2016
 
-
-### Japanese Language Training
-10 years using and learning Japanese
-  
-- <b>Middlebury College</b> (<i>1st-2nd Year Japanese, 5th year Japanese, 2012-2016</i>)
-  
-- <b>Middlebury Summer Language Schools</b> (<i>3rd Year Japanese, Summer 2014</i>)
-
-- <b>International Christian University, Tokyo</b> (<i>4th Year Japanese,	Fall 2014</i>)
-  
-- <b>Private Tutoring, Fukuoka</b> (<i>Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017</i>)
-  
-- <b>Private Tutoring, Boston</b> (<i>Advanced Japanese, Communicating Research in Japanese, 2021</i>)
- 
 ---
 
 <br>
@@ -344,4 +334,19 @@
 - Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
 - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**) (Published in *Urban Climate*!)
 
+
+
+### <a href="#japanese">Japanese Language Training</a>
+
+10 years using and learning Japanese
+  
+- <b>Middlebury College</b> (<i>1st-2nd Year Japanese, 5th year Japanese, 2012-2016</i>)
+  
+- <b>Middlebury Summer Language Schools</b> (<i>3rd Year Japanese, Summer 2014</i>)
+
+- <b>International Christian University, Tokyo</b> (<i>4th Year Japanese,	Fall 2014</i>)
+  
+- <b>Private Tutoring, Fukuoka</b> (<i>Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017</i>)
+  
+- <b>Private Tutoring, Boston</b> (<i>Advanced Japanese, Communicating Research in Japanese, 2021</i>)
 
