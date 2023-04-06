@@ -160,6 +160,8 @@
 <br>
 <br>
 
+## Publications
+
 ### <a id="publications">Publications in Peer-Reviewed Journals (37)</a>
 
 1. **Timothy Fraser**, Andrew J. Chapman, & Yosuke Shigetomi. (2023). Leapfrogging or Lagging? Drivers of Social Equity from Renewable Energy Transitions Globally. [Energy Research & Social Sciences](https://doi.org/10.1016/j.erss.2023.103006) 98, 103006.
@@ -225,12 +227,13 @@
 - Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
 - Cycling Cities: Measuring Transportation Equity in Bikeshare Networks (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
 
-## Working Papers
+### Working Papers
 
 - Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
 - Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
 - Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
 - Networks of Solar Cities.
+
 ---
 
 ### Invited Talks (10+)
@@ -293,7 +296,7 @@
 - 2015: Middlebury College Rohatyn Center Grant for Summer Research. Credit: $5000
 - 2015: Middlebury College Cross-Cultural Community Engagement Grant. Credit: $1000
 - 2014: Middlebury College Mellon Grant for Study Abroad Research. Credit: $2500
-- 
+
 ## <a id="awards">Awards</a>
 
 - 2022: Best Reviewer Award 2022 for Journal *Energy Research & Social Science*
@@ -303,24 +306,25 @@
 
 <br>
 <br>
-### <a id="service">Academic Service</a>
 
-#### Reviewer for 30 journals:
+## <a id="service">Academic Service</a>
+
+### Reviewer for 30 journals:
   - 11 journals on **Energy & Environment**: *Energy Research & Social Science, Applied Energy, Cleaner Production Letters, Environmental Politics, Journal of Environmental Management, Utilities Policy, Environmental Sociology, Ecology & Society, Sustainability Science, Frontiers In Sustainable Cities, Energies (MDPI).* 
   - 5 journals on **Urban Systems**: *Socio-Economic Planning Sciences, International Journal of Project Management, Journal of Management in Engineering, Sustainability (MDPI), Journal of Marine Science and Engineering (MDPI).*
   - 6 journals on **Disasters & Health**: *Nature: Scientific Reports, PLOS ONE, Social Science & Medicine, International Journal of Disaster Risk Reduction, International Journal of Disaster Risk Science, Disasters.*
   - 8 journals on **Political Science**: *Politics and Life Sciences, Social Science Research, Journal of Public and Nonprofit Affairs, Politics and Governance, European Policy Analysis, Social Science Japan Journal, Oxford University Press, Social Sciences (MDPI)*
 
-#### Conference Roles
+### Conference Roles
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Political Networks in Comparative Politics.*
 - Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Impacts of Climate Change: New Directions.*
 - Discussant for: American Political Science Association 2021 Conference Panel: *From Framing to Shaming: Generating Support for Environmental Policy.*
 - Methods Tutorials for [Environmental Social Science in R](https://www.timothyfraser.com/tutorials-in-r)
 - Lead organizer for conference: Power and Protest: Global Responses to Atomic Energy, Middlebury College Rohatyn Center for Global Affairs. January 21-22, 2016.
--
+
 ---
 
-### <a id="teaching">Teaching</a>
+## <a id="teaching">Teaching</a>
 
 - **2022-present: Instructor, Cornell University**
   - Systems Reliability & Six Sigma (Fall 2022)
@@ -350,10 +354,10 @@
 <br>
 <br>
 
-### <a id="mentoring">Mentoring & Research with Students</a> (21 undergrads and 10 masters students)
+## <a id="mentoring">Mentoring & Research with Students</a> (21 undergrads and 10 masters students)
 (Students' names marked in **bold**!)
 
-2020-2022: **Environmental Politics and Computational Social Science Working Group**
+### 2020-2022: **Environmental Politics and Computational Social Science Working Group**
 
 - Timothy Fraser, **Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, Gianna Worthington.** (2022). How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (Under Review)
   - Presented for the College of Social Sciences & Humanities Undergraduate Research Forum at Northeastern University, March 23, 2022.
@@ -369,22 +373,25 @@
 - Timothy Fraser, **Lily Cunningham**, & **Amos Nasongo**. (2021). Build back better? Effects of crisis on climate change adaptation in Japan and the US. Global Environmental Politics 21(1), 54-75.
 - Timothy Fraser, **Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee,** & **Amos Nasongo**. (2020). Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. Environmental Innovations and Societal Transitions. Accepted September 30, 2020.
 
-2020-2021: **Disaster Evacuation in Japan**
+### 2020-2021: **Disaster Evacuation in Japan**
+
 - Timothy Fraser, **Larissa Morikawa,** and Daniel P. Aldrich (2021). Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster. Climate Risk Management 33, 100320. [Open Access]
 - Timothy Fraser, Daniel P. Aldrich, and **Larissa Morikawa.** (2021). Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions. Ecology & Society. Accepted December 7, 2021.
 
-2019-2020: **Disaster Recovery Committee Projects**
+### 2019-2020: **Disaster Recovery Committee Projects**
+
 - Timothy Fraser, Daniel P. Aldrich, **Andrew Small**, and Andrew Littlejohn. (2021). In the Hands of a Few: Disaster Recovery Committee Networks. Journal of Environmental Management 280, 111643.
 - Timothy Fraser, Daniel P. Aldrich, and **Andrew Small**. (2021). Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. Natural Hazards Review 22(3).
 - Timothy Fraser, Daniel P. Aldrich, & **Andrew Small**. (2021). Seawalls or social recovery? The role of policy networks and design in disaster recovery. Global Environmental Change 70, 102342.
 
-2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
+### 2020-2021: **Masters Capstone Advising for NU School of Public Policy and Urban Affairs**
+
 - Uneven Paths: Recovery in Louisiana Parishes after Hurricanes Katrina and Rita (with students **Alex Poniatowski, Nicholas Hersey,  & Haoran Zheng**) (Published in *J. Environental Management*!)
 - Disaster Recovery Committees in New York City after Hurricane Sandy (with students **Lucy Hewitt, Ziyue Chen, & Matthew Cherkerzian**)
 - Mapping Social Infrastructure in Boston Neighborhoods (with students **Winta Tekle, Napuck Cherdchaiyapong, Joel Zayas, & Erin Thomas**) (Published in *Urban Climate*!)
 
 
-### <a id="outreach">Community Outreach</a>
+## <a id="outreach">Community Outreach</a>
 
 - 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
 
@@ -402,7 +409,7 @@
 - 2014: **Changemakers Talent Mapping Project, Ashoka Japan**: Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
 
 
-### <a id="japanese">Japanese Language Training</a>
+## <a id="japanese">Japanese Language Training</a>
 
 10 years using and learning Japanese
   
