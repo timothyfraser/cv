@@ -4,6 +4,7 @@
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
 
 <table>
+  <caption>**Table of Contents** (*Click to Jump to Sections!*) </caption>
   <tr>
     <td><a href="https://www.timothyfraser.com/">My Website</a></td>
     <td> <a href="https://www.researchgate.net/profile/Timothy_Fraser2">ResearchGate</a></td>
@@ -21,8 +22,6 @@
   <tr>
   </tr>
 </table>
-
-**Table of Contents** (*Click to Jump to Sections!*)
 
 | <a href="#consulting">Consulting</a> | [**Download Research Statement**](https://github.com/timothyfraser/cv/files/7790815/Fraser_research_statement.pdf) |
 
