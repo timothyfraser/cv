@@ -41,23 +41,27 @@
   <tr>
     <th>Years</th>
     <th>Position</th>
-    <th>Group</th>
+    <th>Description</th>
+    <th>Type</th>
   </tr>
   <tr>
     <td>2022-Present</td>
     <td>**Ezra Systems Postdoctoral Associate**</td>
     <td>Cornell University, Systems Engineering Program</td>
+    <td>Faculty</td>
   </tr>
   
   <tr>
     <td>2022-Present</td>
     <td>**Grant Coordinator**<br>Center for Transportation, Environment, and Community Health (CTECH)</td>
-      <td>Cornell University</td>
+    <td>Cornell University</td>
+    <td>Admin</td>
   </tr>
-
-    <tr>
-    <td></td>
-    <td></td>
+  <tr>
+    <td>2021-2023</td>
+    <td>Consultant for Resilient Cloverdale</td>
+    <td>social network analysis and survey weighting analyses for evaluating community resilience in California.</td>
+    <td>Research for Hire</td>
   </tr>
 
     <tr>
@@ -66,7 +70,6 @@
   </tr>
 
 </table>
-- 2021-2023: **Research Team: Resilient Cloverdale**: social network analysis and survey weighting analyses for evaluating community resilience in California.
 - 2019-2022: **Research Team: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
 - 2021: **Stanton Foundation**: public opinion survey design and weighting.
 - 2019-2021: **Research Team: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**: Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
