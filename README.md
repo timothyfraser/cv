@@ -57,28 +57,71 @@
     <td>Cornell University</td>
     <td>Admin</td>
   </tr>
+  
   <tr>
     <td>2021-2023</td>
     <td>Consultant for Resilient Cloverdale</td>
     <td>social network analysis and survey weighting analyses for evaluating community resilience in California.</td>
-    <td>Research for Hire</td>
+    <td>Consulting</td>
   </tr>
+
 
     <tr>
-    <td></td>
-    <td></td>
+    <td>2019-2022</td>
+    <td>Data Analyst</td>
+      <td>For Project: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
+      <td>Research</td>
   </tr>
 
+   <tr>
+    <td>2019-2021</td>
+     <td>Data Analyst</td>
+    <td>For Project: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**: Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).</td>
+     <td>Research</td>
+  </tr>
+
+      <tr>
+    <td>2021</td>
+        <td>Data Analyst</td>
+        <td>For Project: <b>Congressional Challengers: Candidate Quality in US Elections to Congress<b>. Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+          <td>Research</td>
+  </tr>
+
+      <tr>
+    <td>2020</td>
+        <td>Data Analyst</td>
+        <td>**For Project: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.</td>
+    <td>Research</td>
+  </tr>
+
+          <tr>
+            <td>2020</td>
+            <td>Consultant for UNDP Mexico Lab</td>
+            <td>**United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.</td>
+            <td>Consulting</td>
+          </tr>
+
+                    <tr>
+            <td>2020</td>
+            <td>Consultant for UNDP Paraguay Lab</td>
+            <td>**United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.</td>
+            <td>Consulting</td>
+          </tr>
+
+          <tr>
+            <td>2020-2022</td>
+            <td>Instructor</td>
+            <td>Northeastern University Political Science Department</td>
+            <td>Teaching</td>
+          </tr>
+
+          <tr>
+            <td>2017-2019</td>
+            <td>Teaching Assistant</td>
+            <td>Northeastern University Political Science Department</td>
+            <td>Teaching</td>
+          </tr>
 </table>
-- 2019-2022: **Research Team: Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities**: Applied Data science and Network Analysis for NSF-funded project, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months).
-- 2021: **Stanton Foundation**: public opinion survey design and weighting.
-- 2019-2021: **Research Team: Impacts of Partisan Polarization and Voting Preferences on the Public’s Health**: Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
-- 2021: **Congressional Challengers: Candidate Quality in US Elections to Congress**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- 2020: **Research Project: Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters**. Modeling and Visualization for book project for Dr. Costas Panagopoulos.
-- 2020: **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods.
-- 2020: **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations.
-- 2020-2022: Instructor of Record, Political Science Department, Northeastern University
-- 2017-2022: Teaching & Research Assistant, Political Science Department, Northeastern University
 
 
 <br>
@@ -191,6 +234,7 @@
 - Mapping Social Infrastructure for Disaster and Pandemic Resilience: A Case Study of Boston. Presented for the Dept. of American Studies at Indiana University–Purdue University Indianapolis, June 3, 2021.
 - Who Governs in Fukushima’s Wastewater Problem? Lessons from Nuclear Power Plant Restarts. Presented for the Nuclear Fusion Project, May 17, 2021.
 - Restarting the Sendai Reactor: Japanese Civic Activism after Fukushima. Presented at Middlebury College Rohatyn Center for Global Affairs, February 24, 2017.
+- Public Opinion Survey Design and Weighting. Presented for the Stanton Foundation, September 2021.
 
 ### Conference Talks (7+)
 
