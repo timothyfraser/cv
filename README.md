@@ -5,11 +5,12 @@
 
 <table>
   <tr>
-    <td> [My Website](https://www.timothyfraser.com/) </td>
-    <td> [Twitter](https://twitter.com/Timothy_Fraser1) </td>
-    <td> [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) </td>
-    <td> [Github](https://github.com/timothyfraser/) </td>
-    <td> [Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) </td>
+    <td><a href="https://www.timothyfraser.com/">My Website</a></td>
+    <td> <a href="https://www.researchgate.net/profile/Timothy_Fraser2">ResearchGate</a></td>
+    <td> <a href="https://github.com/timothyfraser/">Github</a> </td>
+    <td> <a href="https://dataverse.harvard.edu/dataverse/timothyfraser/">Dataverse</a> </td>
+    <td><a href="https://twitter.com/Timothy_Fraser1">Twitter</a></td>
+
   </tr>
     <td><a href="#current">Positions</a></td>
     <td><a href="#skills">Skills</a></td>
