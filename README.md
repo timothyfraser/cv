@@ -2,13 +2,14 @@
 - **Researcher and Data Scientist**
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
+
 <table>
   <tr>
-    <td>[My Website](https://www.timothyfraser.com/)</td>
-    <td>[Twitter](https://twitter.com/Timothy_Fraser1)</td>
-    <td>[ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2)</td>
-    <td>[Github](https://github.com/timothyfraser/)</td>
-    <td>[Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/)</td>
+    <td> [My Website](https://www.timothyfraser.com/) </td>
+    <td> [Twitter](https://twitter.com/Timothy_Fraser1) </td>
+    <td> [ResearchGate](https://www.researchgate.net/profile/Timothy_Fraser2) </td>
+    <td> [Github](https://github.com/timothyfraser/) </td>
+    <td> [Dataverse](https://dataverse.harvard.edu/dataverse/timothyfraser/) </td>
   </tr>
     <td><a href="#current">Positions</a></td>
     <td><a href="#skills">Skills</a></td>
