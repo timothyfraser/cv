@@ -3,7 +3,6 @@
 - **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
 - Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
 
-```html
 <table>
   <caption><b>Table of Contents</b></caption>
   <tr>
@@ -38,7 +37,6 @@
     <td colspan="3"><a href="https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf"><b>Download Teaching Portfolio</b></a></td>
   </tr>
 </table>
-```
 
 <br>
 <br>
