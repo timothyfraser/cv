@@ -44,9 +44,9 @@
 <br>
 <hr> 
 
-<h3><a id="current">Positions</a></h3>
 
 <table>
+  <caption><b><a id="current">Positions</a></b></caption>
   <tr>
     <th>Years</th>
     <th>Position</th>
