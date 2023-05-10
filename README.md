@@ -1,8 +1,13 @@
-## Timothy Fraser, PhD
-- **Researcher and Data Scientist**
-- **Ezra Systems Postdoctoral Associate**, Systems Engineering Program, Cornell University
-- Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850
-
+<head>
+  <title>Timothy Fraser, PhD</title>  
+</head>
+<h2>Timothy Fraser, PhD</h2>
+<ul>
+  <li><b>Researcher and Data Scientist</b></li>
+  <li><b>Ezra Systems Postdoctoral Associate</b>, Systems Engineering Program, Cornell University</li>
+  <li>Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850</li>
+</ul>
+<hr>
 <table>
   <caption><b>Table of Contents</b></caption>
   <tr>
