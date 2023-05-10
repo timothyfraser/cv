@@ -5,6 +5,7 @@
   <li>Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850</li>
 </ul>
 <hr>
+<h3></h3>
 <table>
   <caption><b>Table of Contents</b></caption>
   <tr>
@@ -41,9 +42,9 @@
 </table>
 
 <br>
-<br>
 <hr> 
 
+<h3></h3>
 
 <table>
   <caption><b><a id="current">Positions</a></b></caption>
@@ -138,7 +139,8 @@
 </table>
 
 
-<br>
+<h3></h3>
+
 <br>
 <hr>
 
