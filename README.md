@@ -1,6 +1,3 @@
-<head>
-  <title>Timothy Fraser, PhD</title>  
-</head>
 <h2>Timothy Fraser, PhD</h2>
 <ul>
   <li><b>Researcher and Data Scientist</b></li>
@@ -47,7 +44,7 @@
 <br>
 <hr> 
 
-<h1><a id="current">Positions</a></h1>
+<h3><a id="current">Positions</a></h3>
 
 <table>
   <tr>
@@ -143,20 +140,26 @@
 
 <br>
 <br>
+<hr>
 
----
+<h3> <a id="skills">Education & Skills</a></h3>
 
-### <a id="skills">Education & Skills</a>
-
-- **Ph.D. Political Science**	(*Public Policy and Comparative Politics*)
-<br>Northeastern University, Boston, 2017-2022
-- **M.A. Political Science**	(*Public Policy*)
-<br>Northeastern University, Boston, 2017-2019
-- **Fulbright Fellowship** (Geography)
+<ul>
+  <li>**Ph.D. Political Science**	(*Public Policy and Comparative Politics*) 
+  <br>Northeastern University, Boston, 2017-2022
+    </li>
+  <li>
+  **M.A. Political Science**	(*Public Policy*)
+  <br>Northeastern University, Boston, 2017-2019
+  </li>
+  <li> **Fulbright Fellowship** (Geography)
 <br>Kyushu University, Japan, 2016-2017
-- **B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
+  </li>
+  <li>**B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
 <br>Middlebury College, Vermont, 2012-2016
-
+  </li>
+</ul>
+    
 **Skills**: **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
 - R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
 - **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
