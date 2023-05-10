@@ -40,8 +40,9 @@
 
 <br>
 <br>
+<hr> 
 
-## <a id="current">Positions</a>
+<h1><a id="current">Positions</a></h1>
 
 <table>
   <tr>
