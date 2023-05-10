@@ -162,9 +162,11 @@
   </li>
 </ul>
     
-**Skills**: **Expert in R** | **Data Visualization and Design** | **Mixed Methods** | **GIS, Social Network Analysis, & Big Data**
-- R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`
-- **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
+<b>Skills: Expert in R | Data Visualization and Design | Mixed Methods | GIS, Social Network Analysis, & Big Data</b>
+<ul>
+  <li>R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`</li>
+<li> **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities</li>
+  </ul>
 
 ---
 
