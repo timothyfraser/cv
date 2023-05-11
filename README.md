@@ -1,11 +1,15 @@
-<h2>Timothy Fraser, PhD</h2>
+## Timothy Fraser, PhD
+
 <ul>
   <li><b>Researcher and Data Scientist</b></li>
   <li><b>Ezra Systems Postdoctoral Associate</b>, Systems Engineering Program, Cornell University</li>
   <li>Email: timothy.fraser.1@gmail.com | Address: 633 Rhodes Hall, 136 Hoy Road, Ithaca, NY 14850</li>
 </ul>
+
 <hr>
+
 <h3></h3>
+
 <table>
   <caption><b>Table of Contents</b></caption>
   <tr>
@@ -147,17 +151,17 @@
 <h3> <a id="skills">Education & Skills</a></h3>
 
 <ul>
-  <li>**Ph.D. Political Science**	(*Public Policy and Comparative Politics*) 
+  <li><b>Ph.D. Political Science</b>	(<i>Public Policy and Comparative Politics</i>) 
   <br>Northeastern University, Boston, 2017-2022
     </li>
   <li>
-  **M.A. Political Science**	(*Public Policy*)
+    <b>M.A. Political Science</b>	(<i>Public Policy</i>)
   <br>Northeastern University, Boston, 2017-2019
   </li>
-  <li> **Fulbright Fellowship** (Geography)
+  <li> <b>Fulbright Fellowship</b> (Geography)
 <br>Kyushu University, Japan, 2016-2017
   </li>
-  <li>**B.A. International & Global Studies** (*East Asian Studies, summa cum laude*)	
+  <li><b>B.A. International & Global Studies</b> (<i>East Asian Studies, summa cum laude</i>)	
 <br>Middlebury College, Vermont, 2012-2016
   </li>
 </ul>
@@ -165,8 +169,8 @@
 <b>Skills: Expert in R | Data Visualization and Design | Mixed Methods | GIS, Social Network Analysis, & Big Data</b>
 <ul>
   <li>R, RMarkdown, ShinyApps, Dashboards, HTML, CSS, MariaDB, MySQL, SQLite, Network Analysis, ERGMs, GIS, ArcGIS, SPSS, Tableau, `ggplot2`</li>
-<li> **Expertise:** Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities</li>
-  </ul>
+  <li> <b>Expertise:</b> Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities</li>
+</ul>
 
 ---
 
