@@ -172,7 +172,7 @@
   <li> <b>Expertise:</b> Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities</li>
 </ul>
 
----
+<hr>
 
 <br>
 <br>
