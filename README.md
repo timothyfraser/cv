@@ -52,7 +52,8 @@
 
 <h3></h3>
 
-<table>
+<div>
+<table class="display">
   <caption><b><a id="current">Positions</a></b></caption>
   <tr>
     <th>Years</th>
@@ -143,7 +144,7 @@
      <td>Teaching</td>
   </tr>
 </table>
-
+</div>
 
 <h3></h3>
 
