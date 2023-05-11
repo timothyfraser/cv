@@ -251,7 +251,7 @@
 - Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
 - Networks of Solar Cities.
 
----
+<hr>
 
 ### Invited Talks (10+)
 
@@ -295,7 +295,7 @@
 - [Measuring Environmental Racism in US Counties](https://timfraser.shinyapps.io/environmental_racism)
 - [Testing the Fukushima Effect on Japanese Elections with Inferential Statistics](https://timfraser.shinyapps.io/lesson_5_inferential_stats/)
 
----
+<hr>
 
 <br>
 <br>
@@ -339,7 +339,7 @@
 - Methods Tutorials for [Environmental Social Science in R](https://www.timothyfraser.com/tutorials-in-r)
 - Lead organizer for conference: Power and Protest: Global Responses to Atomic Energy, Middlebury College Rohatyn Center for Global Affairs. January 21-22, 2016.
 
----
+<hr>
 
 ## <a id="teaching">Teaching</a>
 
@@ -366,7 +366,7 @@
   - American Political Thought with Dr. William Mayer
   - Sexuality, Gender, and the Law with Dr. Libby Adler
 
----
+<hr>
 
 <br>
 <br>
