@@ -10,7 +10,8 @@
 
 <h3></h3>
 
-<table>
+<div>
+<table class="display">
   <caption><b>Table of Contents</b></caption>
   <tr>
     <th><b>Type</b></th>
@@ -44,6 +45,7 @@
     <td colspan="3"><a href="https://github.com/timothyfraser/cv/files/7790816/Fraser_teaching_portfolio.pdf"><b>Download Teaching Portfolio</b></a></td>
   </tr>
 </table>
+</div>
 
 <br>
 <hr> 
