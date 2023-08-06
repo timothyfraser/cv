@@ -1,0 +1,1008 @@
+---
+title: "Timothy Fraser, PhD"
+author: Timothy Fraser, PhD
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+
+Aside
+================================================================================
+
+
+--------------------------------------------------------------------------------
+
+<img src="Fraser_headshot_2022.jpg" width="100%;">
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> timothy.fraser.1@gmail.com
+- <i class="fa fa-github"></i> [github.com/timothyfraser](https://github.com/timothyfraser)
+- <i class="fa fa-home"></i> www.timothyfraser.com
+- <i class="fa fa-map"></i> B01 Carpenter Hall, 313 Campus Rd, Ithaca, NY 14850
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+`R`, ShinyApps, Dashboards, GIS, MOVES, DataViz, `html`, `css`, MySQL, MariaDB, SQLite, MATLAB, Github Actions, Docker, `ggplot2`, `mermaid`, Network Analysis, ERGMs, SPSS. 
+
+Expertise {#expertise}
+--------------------------------------------------------------------------------
+
+Environmental Policy, Emissions, Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
+
+Main
+================================================================================
+
+Timothy Fraser, PhD {#title}
+--------------------------------------------------------------------------------
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Ezra Systems Postdoctoral Research Associate
+
+Cornell University Systems Engineering Program
+
+Ithaca, NY
+
+2022 - Present
+
+- Develop tools and web applications for quantifying and communicating emissions from transportation to decisionmakers and the public.
+- Deploy Dashboards using R, HTML, CSS, Docker, Github, Shiny, and more. 
+
+
+### Instructor for Statistical Methods
+
+Cornell University Systems Engineering Program
+
+Ithaca, NY
+
+2022 - Present
+
+- Co-taught System Reliability and Six Sigma (SYSEN 5300) and System Architecture (5400), developing new materials for teaching masters students R and MATLAB.
+
+
+### Grant Coordinator for Center for Transportation, Environment, and Community Health (CTECH)
+
+Cornell University
+
+Ithaca, NY
+
+2022 - Present
+
+### Instructor, Quantitative Techniques & Research Methods 
+
+Northeastern University Political Science Department
+
+Boston, MA
+
+2020 - 2022
+
+### Graduate Teaching Assistant, Political Science & Public Policy
+
+Northeastern University Political Science Department
+
+Boston, MA
+
+2017 - 2019
+
+
+Consulting Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Consultant for NGOs
+
+Consulting on Surveys, Networks, and Big Data for Partners
+
+Boston, MA
+
+2020 - 2022
+
+- **NGO Resilient Cloverdale**: Social network analysis and survey weighting analyses for evaluating community resilience in California. (2021-2022)
+- **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods. (2020)
+- **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations. (2022)
+
+
+### Data Analyst for Academic Teams
+
+Northeastern University (NU)
+
+Boston, MA
+
+2020-2022
+
+- **NSF Grant Project, NU Sociology Dept**: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities". Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
+- **Grant Project, NU Political Science Dept:** "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health". Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
+- **Book Project, NU Political Science Dept**: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2022)
+- **Book Project, NU Political Science Dept**: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2021)
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### **Ph.D. in Political Science** <sub>(*Public Policy & Comparative Politics*)</sub>
+
+Northeastern University<br>Advisors: Daniel Aldrich, David Lazer
+
+Boston, MA
+
+2022
+
+### **M.A. in Political Science** <sub>(*Public Policy*)</sub>
+
+Northeastern University<br>Advisor: Daniel Aldrich
+
+Boston, MA
+
+2019
+
+### **Fulbright Fellowship** <sub>(*Geography*)</sub>
+
+Kyushu University<br>Advisor: Yoshioka Hitoshi
+
+Fukuoka, Japan
+
+2016-2017
+
+### **B.A. in International & Global Studies** <sub>(*East Asian Studies*)</sub>	
+
+Middlebury College (*summa cum laude*)<br>Advisors: Linda White, Max Ward
+
+Middlebury, VT
+
+2016
+
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Elections and Post Traumatic Stress: Evidence from the 2020 U.S. Presidential Election. 
+
+[Politics and the Life Sciences](https://doi.org/10.1017/pls.2023.8) (2023), 1-59.
+
+N/A
+
+2023
+
+**Timothy Fraser**, Costas Panagopoulos, & Kevin Smith.
+
+
+### Leapfrogging or Lagging? Drivers of Social Equity from Renewable Energy Transitions Globally. 
+
+[Energy Research & Social Sciences](https://doi.org/10.1016/j.erss.2023.103006) 98 (2023), 103006.
+
+N/A
+
+2023
+
+**Timothy Fraser**, Andrew J. Chapman, & Yosuke Shigetomi.
+
+
+### Opposing Views: Associations of Political Polarization, Political Party Affiliation, and Social Trust with COVID-19 Vaccination Intent and Receipt.
+
+[Journal of Public Health](https://doi.org/10.1093/pubmed/fdab401) 45(1) (2023), 35-39.
+
+N/A
+
+2023
+
+Andrew Dolman, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, & Daniel Kim.
+
+### Trust but Verify: Validating New Measures for Mapping Social Infrastructure in Cities. 
+
+[Urban Climate](https://doi.org/10.1016/j.uclim.2022.101287) 46 (2022), 101287.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Napuck Cherdchaiyapong, Winta Tekle, Erin Thomas, Joel Zayas, Courtney Page-Tan, & Daniel P. Aldrich.
+
+
+### Uneven paths: Soft Policy's benefits to recovery in Louisiana Parishes after Hurricanes Katrina and Rita.
+
+[Journal of Environmental Management](https://doi.org/10.1016/j.jenvman.2022.115722Get) 321 (2022), 115722.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Alex R. Poniatowski, Nicholas Hersey, Haoran Zheng, & Daniel P. Aldrich.
+
+
+### Better together? The role of social capital in urban social vulnerability. 
+
+[Habitat International](https://doi.org/10.1016/j.habitatint.2022.102561) 124 (2022), 102561.
+
+N/A
+
+2022
+
+**Timothy Fraser** & Nicole Naquin
+
+### The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan.
+
+[*Environment & Behavior*]( https://doi.org/10.1177/00139165221090159) 54(4) (2022), 833-863.
+
+N/A
+
+2022
+
+**Timothy Fraser**
+
+
+### Field Research When There Is Limited Access to the Field: Lessons from Japan.
+
+[PS: Political Science & Politics](https://doi.org/10.1017/S1049096522000932) (2022), 1-7.
+
+N/A
+
+2022
+
+Kenya Amano, Melanie Sayuri Dominguez,* **Timothy Fraser**, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, . . .  & Charles Crabtree.
+
+
+### Social Capital's Impact on COVID-19 Outcomes at Local Levels
+
+[*Nature Scientific Reports*](https://doi.org/10.1038/s41598-022-10275-z) 12 (2022), 6566.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Courtney Page-Tan, and Daniel P. Aldrich.
+
+
+### The Harmful Effects of Partisan Polarization on Health. 
+
+[*PNAS Nexus*](https://doi.org/10.1093/pnasnexus/pgac011) 1 (1) (2022), pgac011.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Daniel Aldrich, Costas Panagopoulos, David Hummel, and Daniel Kim.
+
+
+### Fleeing the Unsustainable City: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. 
+
+[*Sustainability Science*](http://dx.doi.org/10.1007/s11625-022-01098-y) 17 (2022), 1995-2011.
+
+N/A
+
+2022
+
+**Timothy Fraser**
+
+
+### [COVID-19 To Go? The Role of Disasters and Evacuation in the COVID-19 Pandemic](https://dx.doi.org/10.2139/ssrn.3836258).
+
+ *[Global Environmental Change](https://doi.org/10.1016/j.gloenvcha.2022.102471)* 73 (2022), 102471.
+
+N/A
+
+2022
+
+Courtney Page-Tan and **Timothy Fraser**.
+
+
+### Leaders or Networkers? The Role of Mayors in Renewable Energy Transition. 
+
+[*Environmental Innovations & Societal Transitions*](https://doi.org/10.1016/j.eist.2022.01.003) 42 (2022), 301-316.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Mary Bancroft, Andrew Small, & Lily Cunningham. 
+
+
+### Do All Roads Lead to Sapporo? The Role of Linking and Bridging Ties in Evacuation Decisions.
+
+[*Ecology & Society*](https://doi.org/10.5751/ES-13097-270203) 27(2) (2022), 3.
+
+N/A
+
+2022
+
+**Timothy Fraser**, Daniel P. Aldrich, & Larissa Morikawa.
+
+### [Bridging the Divide: Does Social Capital Moderate the Impact of Polarization on Health?](https://github.com/timothyfraser/cv/files/7790586/2021_Panagopoulos_et_al_PRQ.pdf)
+
+[*Political Research Quarterly*](https://doi.org/10.1177/10659129211034561) 75(3) (2022), 875-891.
+
+N/A
+
+2022
+
+Costas Panagopoulos, **Timothy Fraser**, Daniel P. Aldrich, Daniel Kim, & David Hummel.
+
+### [Grassroots vs. Greenhouse: The Role of Environmental Organizations in Reducing Carbon Emissions](https://github.com/timothyfraser/cv/files/7790564/2021_Fraser_Temocin_CC.pdf). 
+
+[*Climatic Change*](https://doi.org/10.1007/s10584-021-03260-4) 169(22) (2021), 1-21.
+
+N/A
+
+2021
+
+**Timothy Fraser** & Pinar Temocin.
+
+
+### [Seawalls or social recovery? The role of policy networks and design in disaster recovery](https://github.com/timothyfraser/cv/files/7790566/2021_Fraser_Aldrich_Small_GEC.pdf). 
+
+[*Global Environmental Change*](https://doi.org/10.1016/j.gloenvcha.2021.102342) 70 (2021), 102342.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Daniel P. Aldrich, & Andrew Small.
+
+
+### [Bowling alone or distancing together? The role of social capital in excess death rates from COVID19](https://github.com/timothyfraser/cv/files/7790571/2021_Fraser_Aldrich_PageTan_SSM.pdf). 
+
+[*Social Science & Medicine*](https://doi.org/10.1016/j.socscimed.2021.114241) 284 (2021), 114241.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Daniel P. Aldrich, & Courtney Page-Tan.
+
+
+### [Rumor has it: The role of social ties and misinformation in evacuation to nearby shelters after disaster.](https://github.com/timothyfraser/cv/files/7790596/2021_Fraser_Morikawa_Aldrich_CRM.pdf) 
+
+[Climate Risk Management](https://doi.org/10.1016/j.crm.2021.100320) 33 (2021), 100320.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Larissa Morikawa, & Daniel P. Aldrich
+
+
+### Is Divisive Politics Making Americans Sick? Associations of Perceived Partisan Polarization with Physical and Mental Health Outcomes Among Adults in the United States.
+
+[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2021.113976), 284 (2021), 113976.
+
+N/A
+
+2021
+
+Sameera Nayak, **Timothy Fraser**, Costas Panagopoulos, Daniel P. Aldrich, & Daniel Kim. 
+
+
+### Connecting Social Capital and Vulnerability: A Citation Network Analysis of Disaster Studies. 
+
+[Natural Hazards Review](https://doi.org/10.1061/(ASCE)NH.1527-6996.0000469) 22(3) (2021).
+
+N/A
+
+2021
+
+**Timothy Fraser**, Daniel P. Aldrich, & Andrew Small.
+
+
+### The dual effect of social ties on COVID-19 spread in Japan. 
+
+[Scientific Reports](https://doi.org/10.1038/s41598-021-81001-4) 11(1) (2021). [Open Access]
+
+N/A
+
+2021
+
+**Timothy Fraser** & Daniel P. Aldrich
+
+### Build back better? Effects of crisis on climate change adaptation in Japan and the US. 
+
+[Global Environmental Politics](https://doi.org/10.1162/glep_a_00588) 21(1), 54-75.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Lily Cunningham, & Amos Nasongo.
+
+
+### [Japanese Social Capital and Social Vulnerability Indices: Measuring Drivers of Community Resilience 2000-2017](https://github.com/timothyfraser/cv/files/7790558/2021_Fraser_IJDRR.pdf).
+
+[International Journal of Disaster Risk Reduction](https://doi.org/10.1016/j.ijdrr.2020.101965) 52 (2021), 101965.
+
+N/A
+
+2021
+
+**Timothy Fraser**
+
+
+### Does Social Capital Boost or Block Renewable Energy Siting? South African Solar Politics in Comparison.
+
+[Energy Research & Social Science](https://doi.org/10.1016/j.erss.2020.101845) 71 (2021), 101845.
+
+N/A
+
+2021
+
+**Timothy Fraser**.
+
+
+### In the Hands of a Few: Disaster Recovery Committee Networks.
+
+[Journal of Environmental Management](https://doi.org/10.1016/j.jenvman.2020.111643) 280 (2021), 111643.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Daniel P. Aldrich, Andrew Small, & Andrew Littlejohn.
+
+
+### Climate Crisis at City Hall: How Japanese communities mobilize to eliminate emissions. 
+
+[Environmental Innovations and Societal Transitions](https://doi.org/10.1016/j.eist.2020.09.006) 37 (2020), 361-380.
+
+N/A
+
+2020
+
+**Timothy Fraser**, Lily Cunningham, Mary Bancroft, Amy Hunt, Eri Lee, & Amos Nasongo.
+
+
+### The Fukushima Effect at Home: The changing role of domestic actors in Japanese energy policy. 
+
+[WIREs Climate Change](https://doi.org/10.1002/wcc.655) 11(5) (2020), e655.
+
+N/A
+
+2020
+
+**Timothy Fraser** & Daniel P. Aldrich.
+
+
+### Drivers of social equity in renewable energy at the municipal level: The case of local Japanese energy policy and preferences.
+
+[Journal of Environmental Policy and Planning](https://doi.org/10.1080/1523908X.2020.1740659) 22(3) (2020), 397-412. 
+
+N/A
+
+2020
+
+**Timothy Fraser** & Andrew J. Chapman.
+
+
+### Japan's Resilient, Renewable Cities: How Socioeconomics and Local Policy drive Japan's Renewable Energy Transition.
+
+[Environmental Politics](https://doi.org/10.1080/09644016.2019.1589037) 29(3) (2020), 500-523. 
+
+N/A
+
+2020
+
+**Timothy Fraser**.
+
+
+### Role of energy finance in geothermal power development in Japan. 
+
+[International Review of Economics and Finance](https://doi.org/10.1016/j.iref.2020.06.011) 70 (2020), 398-412.
+
+N/A
+
+2020
+
+Taghizadeh-Hesary, Farhad, Aline Mortha, Hadi Farabi-Asl, Tapan Sarker, Andrew Chapman, Yosuke Shigetomi, & **Timothy Fraser**. 
+
+
+### How Governance and Disasters shape Renewable Energy Transitions: The case of Japanese mega-solar. 
+
+[Social Science Quarterly](https://doi.org/10.1111/ssqu.12603) 100(3) (2019), 975-990.
+
+N/A
+
+2019
+
+**Timothy Fraser**.
+
+
+### Investigating Ties between Energy Policy and Social Equity Research: A Citation Network Analysis. 
+
+[Social Sciences](https://doi.org/10.3390/socsci8050135) 8 (5) (2019), 135.
+
+N/A
+
+2019
+
+Andrew J. Chapman, **Timothy Fraser**, & Melanie Dennis. 
+
+
+### How do disasters affect individuals’ social ties? The impacts of disaster experiences and the perceived risks of disasters on participation in voluntary associations. 
+
+[International Journal of Disaster Risk Reduction](https://doi.org/10.1016/j.ijdrr.2018.11.009) 34 (2019), 108-115. 
+
+N/A
+
+2019
+
+Juheon Lee & **Timothy Fraser**
+
+
+### Japan’s Mega Solar Boom: Quantifying Social Equity Expectations and Realities at the Local Scale. 
+
+[Sustainability Science](https://doi.org/10.1007/s11625-018-0613-y) 14 (2019), 355–374. 
+
+N/A
+
+2019
+
+Andrew Chapman & **Timothy Fraser**.
+
+
+### Social Equity Impacts in Japan’s Mega Solar Siting Process.
+
+[Energy for Sustainable Development](https://doi.org/10.1016/j.esd.2017.11.002) 42 (2018), 136-151.
+
+N/A
+
+2018
+
+**Timothy Fraser** & Andrew Chapman.
+
+
+### All Politics is Local: Judicial and Electoral Institutions’ Role in Japan’s Nuclear Restarts. 
+
+[Pacific Affairs](https://www.jstor.org/stable/44874505) 90, no. 3, 433-457. 
+
+N/A
+
+2017
+
+Daniel P. Aldrich and **Timothy Fraser**.
+
+
+### Hydrogen Import Pathway Comparison Framework incorporating Cost and Social Preference: Case studies from Australia to Japan.
+
+[International Journal of Energy Research](https://doi.org/10.1002/er.3807) 41(14) (2017), 2374-2391. 
+
+N/A
+
+2017
+
+Chapman, Andrew, **Timothy Fraser**, & Kenshi Itaoka.
+
+
+Work In Progress {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Under Review
+
+- Big Spenders: Large-N Measures of Urban Regimes in Japanese Cities.
+- Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19
+- How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (with Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, & Gianna Worthington)
+- Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
+- Cycling Cities: Measuring Transportation Equity in Bikeshare Networks (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
+
+N/A
+
+N/A
+
+### Working Papers
+
+- Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
+- Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
+- Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
+- Networks of Solar Cities.
+
+N/A
+
+N/A
+
+Invited Talks {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Won't You be My Neighbor? Mapping Social Infrastructure and Social Capital across North America with Big Data. 
+
+Guest lecture presented for Course "Industrial Big Data Analytics and Machine Learning", Systems Engineering Program, Cornell University. April 19, 2023.
+
+N/A
+
+2023
+
+### Leapfrogging or Lagging? Drivers of social equity from renewable energy transitions globally. 
+
+Guest lecture presented for Course "Quantitative Techniques", Political Science Department, Cornell University. March 20, 2023.
+
+N/A
+
+2023
+
+### Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19. 
+
+Presented for UTokyo Center for Contemporary Japanese Studies [Virtual]. June 7, 2022.
+
+N/A
+
+2022
+
+### Fleeing the Unsustainable City: Social Capital’s Role in Hurricane Evacuation. 
+
+Presented for Department of Environmental Science & Policy, George Mason University. March 18, 2022.
+
+N/A
+
+2022
+
+### Mapping Social Infrastructure: Validating API Measures.
+
+Presented for the Northeastern University Lab for Text, Maps, and Networks, February 16, 2022.
+
+N/A
+
+2022
+
+### Mapping Urban Policy: Social Infrastructure in US Cities. 
+
+Presented for the Dept. of Urban Studies at Worcester State University, January 26, 2022.
+
+N/A
+
+2022
+
+### Power to the People: The Value of Urban Regimes and Social Capital in Building Solar Cities. 
+
+Presented for the International Institute of Carbon Neutral Energy Research, Kyushu University, October 27, 2021.
+
+N/A
+
+2021
+
+### Public Opinion Survey Design and Weighting. Presented for the Stanton Foundation, September 2021.
+
+N/A
+
+2021
+
+### Mapping Social Infrastructure for Disaster and Pandemic Resilience: A Case Study of Boston. 
+
+Presented for the Dept. of American Studies at Indiana University–Purdue University Indianapolis, June 3, 2021.
+
+N/A
+
+2021
+
+### Who Governs in Fukushima’s Wastewater Problem? Lessons from Nuclear Power Plant Restarts. 
+
+Presented for the Nuclear Fusion Project, May 17, 2021.
+
+N/A
+
+2021
+
+### Restarting the Sendai Reactor: Japanese Civic Activism after Fukushima. Presented at Middlebury College Rohatyn Center for Global Affairs, February 24, 2017.
+
+N/A
+
+2017
+
+
+Conference Talks {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. 
+
+Presented for Political Networks Annual Conference 2022 (PolNet), June 22, 2022.
+
+N/A
+
+2022
+
+### Opportunists and Organizers: The Value of Urban Regimes and Social Capital in Building Solar Cities. 
+
+Presented for Midwestern Political Science Association Annual Conference, April 9, 2022.
+
+N/A
+
+2022
+
+### Getting to Know You: Mapping Social Infrastructure in American Neighborhoods for Community Resilience. 
+
+Presented for Midwestern Political Science Association Annual Conference, April 8, 2022.
+
+N/A
+
+2022
+
+### In Friends We Trust: Soft Policy and the Janus-Faced Nature of Social Capital in Evacuation Networks. 
+
+Presented for American Political Science Association Annual Conference, October 3, 2021.
+
+N/A
+
+2021
+
+### Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel). 
+
+Presented for American Sociological Association Annual Conference, August 9, 2021.
+
+N/A
+
+2021
+
+### Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy. 
+
+Presented for the Asian Online Political Science Seminar Series, May 12, 2021.
+
+N/A
+
+2021
+
+### Do All Roads Lead to Sapporo: A Social Network Analysis of Evacuation. 
+
+Presented at New England Political Science Association Conference, Portland, ME, April 24, 2019.
+
+N/A
+
+2019
+
+### Youth Politics in Japan after 3.11: Political Geographies of Tokyo and Tohoku. 
+
+Presented at Bard College Sustainability in Asia Conference, April 17, 2015.
+
+N/A
+
+2015
+
+
+Press & Public Scholarship (4) {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Quoted in *El Mercurio*
+
+Sofía Beuchat. [When Politics Makes Us Sick (Cuando La Política Enferma)](https://www.litoralpress.cl/sitio/Prensa_Texto?LPKey=LIV7PFWNN6CD7GEJFCVNVFGJEXAAKLUEIYL64CR52IYJQF7NHF6A). El Mercurio (Chilean Newspaper), September 8, 2022.
+
+N/A
+
+2022
+
+### Reviewed in *Social Science & Medicine*
+
+Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376). Social Science & Medicine 287 (2021), 114376.
+
+N/A
+
+2021
+
+### Quoted in *Academic Times*
+
+Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
+
+N/A
+
+2021
+
+### Quoted in *Huffington Post*
+
+Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
+
+N/A
+
+2020
+
+### Op-Ed in *Advanced Science News*
+
+Timothy Fraser and Daniel P. Aldrich. (2020). [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/). Advanced Science News. June 9, 2020
+
+N/A
+
+2020
+
+Grants & Funding {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Natural Hazards Center Quick Response Grant
+
+Drivers of evacuation: A multi-level study of social capital and mobility during Covid-19. Natural Hazards Center Quick Response Program. Co-Principal Investigator. Credit: $5,000
+
+N/A
+
+2022
+
+### NULab for Texts, Maps, and Networks Seedling Grant. 
+
+[Mapping Social Infrastructure for Disaster and Pandemic Resilience](https://cssh.northeastern.edu/nulab/mapping-social-infrastructure-disaster-resilience/). Northeastern University. Co-Principal Investigator. Credit: $3,000
+
+N/A
+
+2021
+
+### Fulbright Graduate Fellowship. 
+
+Credit: Full Year Fellowship.	(declined due to pandemic)
+
+N/A
+
+2020
+
+
+### Japan Foundation Doctoral Fellowship. 
+
+Credit: Full Year Fellowship.  (declined due to pandemic)
+
+N/A
+
+2020
+
+### Social Science Research Council’s Nomination for Japan Society for Promotion of Science Fellowship. 
+
+Credit: Full Year Fellowship.  (declined due to pandemic)
+
+N/A 
+
+2020
+
+
+### Natural Hazards Center Quick Response Grant. 
+
+CONVERGE Covid -19 Working Group for Social Ties, Mobility, and Covid-19 Spread Rates. Natural Hazards Center. Collaborator. Credit: $5,000
+
+N/A
+
+2020
+
+### Northeastern University Asian Studies Research Award.
+
+Credit: $2000
+
+N/A
+
+2018
+
+### Fulbright Study/Research Fellowship in Japan. 
+
+Year of Research at Kyushu University in Japan. Credit: $20,000.
+
+N/A
+
+2016
+
+### Middlebury College Rohatyn Center Grant for Summer Research. 
+
+Credit: $5000
+
+N/A 
+
+2015
+
+### Middlebury College Cross-Cultural Community Engagement Grant. 
+
+Credit: $1000
+
+N/A
+
+2015
+
+### Middlebury College Mellon Grant for Study Abroad Research. 
+
+Credit: $2500
+
+N/A
+
+2014
+
+
+Awards {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Best Reviewer Award 2022 
+
+for Journal *Energy Research & Social Science*
+
+N/A
+
+2022
+
+### GIS Day Poster Competition First Prize
+
+@ Northeastern University NULab
+
+N/A
+
+2021
+
+### Passed Candidacy Exams with Distinction 
+
+High Pass in Public Policy
+
+N/A
+
+2019
+
+### Awarded Best Thesis in International & Global Studies
+
+Middlebury College
+
+N/A 
+
+2016
+
+
+Academic Service {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Reviewer for 30 journals
+
+- 11 journals on **Energy & Environment**: *Energy Research & Social Science, Applied Energy, Cleaner Production Letters, Environmental Politics, Journal of Environmental Management, Utilities Policy, Environmental Sociology, Ecology & Society, Sustainability Science, Frontiers In Sustainable Cities, Energies (MDPI).* 
+- 5 journals on **Urban Systems**: *Socio-Economic Planning Sciences, International Journal of Project Management, Journal of Management in Engineering, Sustainability (MDPI), Journal of Marine Science and Engineering (MDPI).*
+- 6 journals on **Disasters & Health**: *Nature: Scientific Reports, PLOS ONE, Social Science & Medicine, International Journal of Disaster Risk Reduction, International Journal of Disaster Risk Science, Disasters.*
+- 8 journals on **Political Science**: *Politics and Life Sciences, Social Science Research, Journal of Public and Nonprofit Affairs, Politics and Governance, European Policy Analysis, Social Science Japan Journal, Oxford University Press, Social Sciences (MDPI)*
+
+N/A
+
+### Conference Roles
+
+- Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Political Networks in Comparative Politics.*
+- Chair and Discussant for: Midwestern Political Science Association 2022 Conference Panel: *Impacts of Climate Change: New Directions.*
+- Discussant for: American Political Science Association 2021 Conference Panel: *From Framing to Shaming: Generating Support for Environmental Policy.*
+- Lead organizer for conference: Power and Protest: Global Responses to Atomic Energy, Middlebury College Rohatyn Center for Global Affairs. January 21-22, 2016.
+
+N/A
+
+### R Tutorials for [Environmental Social Science in R](https://rpubs.com/timothyfraser)
+
+N/A
+
+N/A
+
+N/A
+
+### Community Outreach
+
+- 2023: Invited Panelist for **Cornell University Neurodiversity Week Event: Stories of Neurodiversity** (March 13, 2023).
+- 2016-2017: **Susenji Elementary School Student Supporter in Fukuoka, Japan**. Tutored Japanese students in ESL and non-native students in math and Japanese language
+- 2015-2016: **Language in Motion Program Support Assistant at Middlebury College**. Arranged intercultural education training and programming in local Vermont high schools in paid internship. Presented on Japanese culture and disaster studies and Turkish politics.
+- 2015: **Community Engagement Intern at Middlebury College**. Networked with community and college organizations to facilitate service-learning opportunities on Vermont public education, health, and poverty in paid internship.
+- 2015: **James Martin Center for Nonproliferation Studies**: Produced public-facing map of trafficking of nuclear materials and nuclear security policy quality. Studied nuclear security issues from experts in seminar-style classes. Paid intern.
+- 2014: **Changemakers Talent Mapping Project, Ashoka Japan**: Researched potential of social campaigns on education, environment, healthcare, and economy. English-Japanese translation services for Changemakers Talent Mapping Project.
+
+N/A
+
+### Teaching
+
+- **2022-present: Instructor, Cornell University**
+  - Systems Reliability & Six Sigma (Fall 2022)
+  - Systems Architecture (Spring 2023)
+
+- **2020-2021: Instructor of Record, Northeastern University Political Science**
+  - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
+  - Research Methods in Political Science (Summer 2021)
+  - Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
+
+- **2021: Methods Tutorials for Quantitative Social Science in R** (22)
+  - See my online tutorials on [RPubs](https://rpubs.com/timothyfraser)! 
+    - [Statistical Simulation and Food Deserts](https://rpubs.com/timothyfraser/statistical_simulation_food_deserts)
+    - [Multiple Regression and Disaster Effects](https://rpubs.com/timothyfraser/multiple_regression)
+    - [Mapping Raster Data](https://rpubs.com/timothyfraser/mapping_raster_data_in_the_tidyverse)
+
+- **2017-2019: Graduate Teaching Assistant, Northeastern University Political Science**
+  - Introduction to Comparative Politics with Dr. Ioannis Livanis, Dr. Colin Brown (2 times)
+  - Introduction to American Government and Politics with Dr. Michael Tolley (2 times)
+  - Quantitative Techniques & Statistics with Dr. Colin Brown
+  - Disasters and Recovery Summer Course in Japan with Dr. Daniel Aldrich
+  - American Political Thought with Dr. William Mayer
+  - Sexuality, Gender, and the Law with Dr. Libby Adler
+
+
+---
+
+::: aside
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+:::

@@ -17,3 +17,6 @@ g = read_lines("generate.html")
 write_lines(g, file = "README.md")
 
 rm(list = ls())
+
+install.packages("pagedown")
+pagedown::html_resume()
