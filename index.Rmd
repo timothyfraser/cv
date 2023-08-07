@@ -48,7 +48,7 @@ Main
 **Dr. Timothy Fraser** {#title}
 --------------------------------------------------------------------------------
 
-<i style="font-size:16.0pt">Computational Social Scientist</i>
+<i style="font-size:14.0pt">Computational Social Scientist</i>
 
 ---
 
@@ -57,9 +57,7 @@ Main
 - Passionate about teaching statistics and coding, and leading student research. 
 - Current Work: Dashboards for visualizing local emissions from transportation.
 
----
-
-Professional Experience {data-icon=suitcase}
+Positions {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Ezra Systems Postdoctoral Research Associate
@@ -82,7 +80,7 @@ Ithaca, NY
 
 2022 - Present
 
-- Co-taught System Reliability and Six Sigma (SYSEN 5300) and System Architecture (5400), developing new materials for teaching masters students R and MATLAB.
+- Co-taught System Reliability and Six Sigma (SYSEN 5300) and System Architecture (5400), teaching masters students R & MATLAB.
 
 
 ### Grant Coordinator for Center for Transportation, Environment, and Community Health (CTECH)
@@ -103,45 +101,13 @@ Boston, MA
 
 2020 - 2022
 
-### Graduate Teaching Assistant, Political Science & Public Policy
+### Graduate Teaching Assistant, Political Science
 
 Northeastern University Political Science Department
 
 Boston, MA
 
 2017 - 2019
-
-
-Consulting Experience {data-icon=handshake-angle}
---------------------------------------------------------------------------------
-
-### Data Consultant for NGOs
-
-Consulting on Surveys, Networks, and Big Data for Partners
-
-Boston, MA
-
-2020 - 2022
-
-- **NGO Resilient Cloverdale**: Social network analysis and survey weighting analyses for evaluating community resilience in California. (2021-2022)
-- **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods. (2020)
-- **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations. (2022)
-
-
-### Data Analyst for Academic Teams
-
-Northeastern University (NU)
-
-Boston, MA
-
-2020-2022
-
-- **NSF Grant Project, NU Sociology Dept**: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities". Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
-- **Grant Project, NU Political Science Dept:** "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health". Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
-- **Book Project, NU Political Science Dept**: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2022)
-- **Book Project, NU Political Science Dept**: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2021)
-
-
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -177,6 +143,39 @@ Middlebury College (*summa cum laude*)<br>Advisors: Linda White, Max Ward
 Middlebury, VT
 
 2016
+
+
+Consulting Experience {data-icon=handshake-angle}
+--------------------------------------------------------------------------------
+
+### Data Consultant for NGOs
+
+Consulting on Surveys, Networks, and Big Data for Partners
+
+Boston, MA
+
+2020 - 2022
+
+- **NGO Resilient Cloverdale**: Social network analysis and survey weighting analyses for evaluating community resilience in California. (2021-2022)
+- **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods. (2020)
+- **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations. (2022)
+
+
+### Data Analyst for Academic Teams
+
+Northeastern University (NU)
+
+Boston, MA
+
+2020-2022
+
+- **NSF Grant Project, NU Sociology Dept**: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities". Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
+- **Grant Project, NU Political Science Dept:** "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health". Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
+- **Book Project, NU Political Science Dept**: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2022)
+- **Book Project, NU Political Science Dept**: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2021)
+
+
+
 
 
 Software {data-icon=screwdriver-wrench}
@@ -262,6 +261,16 @@ N/A
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### Elections and Post Traumatic Stress: Evidence from the 2020 U.S. Presidential Election. 
+
+[Politics and the Life Sciences](https://doi.org/10.1017/pls.2023.8) (2023), 1-59.
+
+N/A
+
+2023
+
+**Timothy Fraser**, Costas Panagopoulos, & Kevin Smith.
+
 ::: aside
 
 Peer-reviewed Papers: [37]
@@ -273,17 +282,6 @@ By Topic:
 - Political Polarization [5]
 
 :::
-
-### Elections and Post Traumatic Stress: Evidence from the 2020 U.S. Presidential Election. 
-
-[Politics and the Life Sciences](https://doi.org/10.1017/pls.2023.8) (2023), 1-59.
-
-N/A
-
-2023
-
-**Timothy Fraser**, Costas Panagopoulos, & Kevin Smith.
-
 
 ### Leapfrogging or Lagging? Drivers of Social Equity from Renewable Energy Transitions Globally. 
 
