@@ -17,6 +17,8 @@ Aside
 
 <img src="Fraser_headshot_2022.jpg" width="100%;">
 
+---
+
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
@@ -28,18 +30,34 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-`R`, ShinyApps, Dashboards, GIS, MOVES, DataViz, `html`, `css`, MySQL, MariaDB, SQLite, MATLAB, Github Actions, Docker, `ggplot2`, `mermaid`, Network Analysis, ERGMs, SPSS. 
+`R`, Dashboards/ShinyApps, GIS, MOVES, DataViz, `html`, `css`, MySQL, MariaDB, SQLite, MATLAB, Github Actions, Docker, `ggplot2`, `mermaid`, Network Analysis, ERGMs, SPSS. 
 
 Expertise {#expertise}
 --------------------------------------------------------------------------------
 
-Environmental Policy, Emissions, Community Resilience, Disasters, Evacuation, Health, Environment, Renewable Energy, US, Japan, Cities
+<i class="fa fa-square"></i> Public Data Communication, Big Data, Cities, US, Japan
+
+<i class="fa fa-square"></i> Environmental Policy, Emissions, & Renewable Energy
+
+<i class="fa fa-square"></i> Community Resilience, Disasters, Evacuation, & Health
+
 
 Main
 ================================================================================
 
-Timothy Fraser, PhD {#title}
+**Dr. Timothy Fraser** {#title}
 --------------------------------------------------------------------------------
+
+<i style="font-size:16.0pt">Computational Social Scientist</i>
+
+---
+
+- I develop software & methods to *help communities combat climate change.*
+- I published 37 peer-reviewed studies, plus dashboards, R packages, and databases, using big data analytics, networks, & GIS.
+- Passionate about teaching statistics and coding, and leading student research. 
+- Current Work: Dashboards for visualizing local emissions from transportation.
+
+---
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -53,7 +71,7 @@ Ithaca, NY
 2022 - Present
 
 - Develop tools and web applications for quantifying and communicating emissions from transportation to decisionmakers and the public.
-- Deploy Dashboards using R, HTML, CSS, Docker, Github, Shiny, and more. 
+- Deploy Dashboards using R, HTML, Docker, Github, & Shiny.
 
 
 ### Instructor for Statistical Methods
@@ -75,6 +93,8 @@ Ithaca, NY
 
 2022 - Present
 
+- Administer multimillion dollar research grant from US Dept. of Transportation. Coordinate grant reporting and deliverables from dozens of researcher teams at 4 recipient universities.
+
 ### Instructor, Quantitative Techniques & Research Methods 
 
 Northeastern University Political Science Department
@@ -92,7 +112,7 @@ Boston, MA
 2017 - 2019
 
 
-Consulting Experience {data-icon=suitcase}
+Consulting Experience {data-icon=handshake-angle}
 --------------------------------------------------------------------------------
 
 ### Data Consultant for NGOs
@@ -159,9 +179,100 @@ Middlebury, VT
 2016
 
 
+Software {data-icon=screwdriver-wrench}
+--------------------------------------------------------------------------------
+
+::: aside
+
+7 R packages and dashboards
+
+:::
+
+### `catr` R package for querying EPA's MOVES software
+
+A proprietary R package for estimating emissions from transportation for US counties, using the EPA's MOVES software, to support Climate Action in Transportation using R (catr). Extends MOVES functionality by allowing for iterative MOVES runs, with custom policy scenarios and output formatting for easy visualization.
+
+N/A
+
+2023
+
+### `visualizer` App for Comparing Emissions in US States & Counties
+
+A suite of ShinyApp modules that visualize US state and county emissions from transportation. These include line charts, donut charts, rank charts, multi-line charts, infographics, maps, profile boxes, and more.
+
+N/A
+
+2023
+
+### `calculator` App for Comparing Emissions Policy Scenarios
+
+A ShinyApp Dashboard that for visualizing and comparing transportation emissions scenarios based on custom user-supplied information about transportation activity levels and fleet composition. Uses my `moveslite` R package as an engine.
+
+N/A
+
+2023
+
+
+### `moveslite` R package for Fast Emissions Estimation
+
+A proprietary R package for speedy approximating county, state, or nation level emissions from custom inputs, using county-specific models of existing default air pollution emissions estimates from the EPA's MOVES software.
+
+N/A
+
+2023
+
+### `geoshiny-verse` Docker image for Deploying Dashboards
+
+A geospatial-enabled ShinyApp dashboard deployment environment publicly available for any dashboard developer as a Docker image on Dockerhub. Will help anyone deploy a ShinyApp with mapping capabilities. At: https://hub.docker.com/repository/docker/tmf77/geoshiny-verse/general 
+
+N/A
+
+2023
+
+### `simulate` R package for statistical simulation
+
+R package for tidyverse-friendly statistical simulation, to account for estimation and fundamental uncertainty when simulating quantities of interest from statistical models. At: https://github.com/timothyfraser/simulate 
+
+N/A
+
+2023
+
+### `tidyfault` R package for fault tree analysis
+
+R Package for tidy fault tree analysis! Visualizes fault trees, identifies minimal cutsets, and calculates other quantities of interest. At: https://github.com/timothyfraser/tidyfault 
+
+N/A
+
+2023
+
+
+Book Project {data-icon=book-open}
+--------------------------------------------------------------------------------
+
+### Sigma: Coding Tutorials for Statistics, System Reliability, and Six Sigma in R
+
+- +15 workshops to teach students statistics & R coding for systems engineering.
+- Interactive, step-by-step exercises and learning checks; No prior coding experience required.
+- Open-source, Masters-Level textbook. **In-Development. Available at: [timothyfraser.com/sigma/introduction](https://timothyfraser.com/sigma/introduction)
+
+N/A
+
+2023
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
+
+::: aside
+
+Peer-reviewed Papers: [37]
+
+By Topic:
+
+- Emissions/Environmental Policy [16]
+- Community Resilience, Evacuation, & Health [16]
+- Political Polarization [5]
+
+:::
 
 ### Elections and Post Traumatic Stress: Evidence from the 2020 U.S. Presidential Election. 
 
@@ -576,16 +687,117 @@ N/A
 Chapman, Andrew, **Timothy Fraser**, & Kenshi Itaoka.
 
 
-Work In Progress {data-icon=file}
+Reports {data-icon=file}
+--------------------------------------------------------------------------------
+ 
+### Social Capital, Mobility, and Evacuation Destinations During the Marshall Fire.
+
+[Natural Hazards Center Quick Response Grant Report Series](https://hazards.colorado.edu/quick-response-report/social-capital-mobility-and-evacuation-destinations-during-the-marshall-fire), 348. Boulder, CO: Natural Hazards Center, University of Colorado Boulder.
+
+N/A
+
+2022
+
+Daniel Aldrich, Courtney Page-Tan, **Timothy Fraser**, & Takahiro Yabe.
+
+
+### Social Ties, Quarantine Policy, and the Spread of COVID-19. 
+
+[Natural Hazards Center Quick Response Grant Report Series](https://hazards.colorado.edu/quick-response-report/social-ties-quarantine-policy-and-the-spread-of-covid-19), 314. Boulder, CO: Natural Hazards Center, University of Colorado Boulder.
+
+N/A
+
+2020
+
+Daniel Aldrich, **Timothy Fraser**, Juheon Lee, Courtney Page-Tan, & Toshiaki Yoshida.
+
+
+Chapters in Edited Volumes {data-icon=file}
+--------------------------------------------------------------------------------
+
+### It's Who You Know: How social networks help cities rebuild with renewables after disaster. 
+
+In Paola Cavaliere, ed. Handbook of Disaster Studies in Japan. Amsterdam University Press/MHM Limited. (forthcoming)
+
+N/A
+
+2023
+
+**Timothy Fraser**
+
+### Stronger Together: The Critical Role of Bridging and Linking Social Capital in Evacuation Outcomes. 
+
+In Paola Cavaliere, ed. Handbook of Disaster Studies in Japan. Amsterdam University Press/MHM Limited. (forthcoming)
+
+N/A
+
+2023
+
+**Timothy Fraser**
+
+### [Social Network Analysis for Disasters.](https://www.researchgate.net/publication/351283811_Social_Network_Analysis_for_Disaster_Management_Research) 
+
+In Jason Rivera, ed. Research Methods of Disaster and Emergency Management: Social Science Approaches in Application.
+
+N/A
+
+2021
+
+**Timothy Fraser**, Courtney Page-Tan, & Daniel P. Aldrich.
+
+
+### [Mapping Resilience: GIS Techniques for Disaster Studies.](https://www.researchgate.net/publication/351283898_Mapping_Resilience_GIS_Techniques_for_Disaster_Studies) 
+
+In Jason Rivera, ed. Research Methods of Disaster and Emergency Management: Social Science Approaches in Application.
+
+N/A
+
+2021
+
+Courtney Page-Tan, **Timothy Fraser**, & Daniel P. Aldrich
+
+
+### [Social Sustainability in Cities: Urban Energy.](https://www.researchgate.net/publication/344196674_Sustainability_of_Urban_Energy?_sg=ozKKOM4138T2xnoefuxus60AbYJzy10JR1-5uCDKGB-7PdNexeoPKIssPqP7FMiCDY87UgqDEadMeuloLnlOlfXs3V0eDLWP2LG8w7kh.lRCg37Dj8FDrfz9qlZx1WNllujoXNvuot1BfMTXBw0qKAjQxo2PIMTLjUKdw0UcPyxU0TbAcgmrZSKsCwNQqfA) 
+
+In Alvarez-Risco, A., Rosen, M., Del-Aguila-Arcentales, S, & Marinova, D. Building sustainable cities: Social, Economic and Environmental Factors, Springer-Nature.
+
+N/A
+
+2020
+
+**Timothy Fraser** & Andrew J. Chapman
+
+
+### [East Asia's Nuclear Policies: Fukushima Effect or a Nuclear Renaissance?](https://issuu.com/georgetownsfs/docs/gjaa_vol.4_no.2/65) 
+
+Georgetown Journal of Asian Affairs 4(2) (2019), 65.
+
+N/A
+
+2019
+
+**Timothy Fraser** and Daniel P. Aldrich
+
+### [A Janus Faced Resource: Social Capital and Resilience Trade-offs.](https://irgc.epfl.ch/wp-content/uploads/2018/11/Aldrich-et-al-for-IRGC-Resilience-Guide-Vol-2-2018.pdf) 
+
+International Risk Governance Council Resource Guide, vol 2.
+
+N/A
+
+2018
+
+Daniel P. Aldrich, Courtney Page-Tan, and **Timothy Fraser**
+
+
+Work In Progress {data-icon=spinner}
 --------------------------------------------------------------------------------
 
 ### Under Review
 
 - Big Spenders: Large-N Measures of Urban Regimes in Japanese Cities.
-- Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19
-- How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (with Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, & Gianna Worthington)
+- How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (with Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, & Gianna Worthington, )
 - Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
-- Cycling Cities: Measuring Transportation Equity in Bikeshare Networks (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
+
 
 N/A
 
@@ -593,6 +805,11 @@ N/A
 
 ### Working Papers
 
+- Making MOVES move: Cornell MOVESLite for Fast Estimation of Clean Transportation Scenarios (with MS Student Yan Guo and Oliver Gao)
+- Co-benefits of transportation congestion mitigation, air quality improvement, and health implication in U.S. between 1992 and 2022 (with Xinwei Li and Oliver Gao)
+- A Tale of Many Cities: Mapping Social Infrastructure and Social Capital across North America (with BA student Osama Awadalla, and colleagues)
+- [Cycling Cities: Measuring Transportation Equity in Bikeshare Networks](https://dx.doi.org/10.2139/ssrn.4076776) (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
+- [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
 - Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
 - Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
 - Bottom-up or Top-Down? Bridging Academics in the ADVANCE Network for Gender Equity (with Laura K. Nelson and Kathrin Zippel)
@@ -602,7 +819,7 @@ N/A
 
 N/A
 
-Invited Talks {data-icon=file}
+Invited Talks {data-icon=comments}
 --------------------------------------------------------------------------------
 
 ### Won't You be My Neighbor? Mapping Social Infrastructure and Social Capital across North America with Big Data. 
@@ -690,7 +907,7 @@ N/A
 2017
 
 
-Conference Talks {data-icon=file}
+Conference Talks {data-icon=person-chalkboard}
 --------------------------------------------------------------------------------
 
 ### Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. 
@@ -758,50 +975,9 @@ N/A
 2015
 
 
-Press & Public Scholarship (4) {data-icon=file}
---------------------------------------------------------------------------------
 
-### Quoted in *El Mercurio*
 
-Sofía Beuchat. [When Politics Makes Us Sick (Cuando La Política Enferma)](https://www.litoralpress.cl/sitio/Prensa_Texto?LPKey=LIV7PFWNN6CD7GEJFCVNVFGJEXAAKLUEIYL64CR52IYJQF7NHF6A). El Mercurio (Chilean Newspaper), September 8, 2022.
-
-N/A
-
-2022
-
-### Reviewed in *Social Science & Medicine*
-
-Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376). Social Science & Medicine 287 (2021), 114376.
-
-N/A
-
-2021
-
-### Quoted in *Academic Times*
-
-Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
-
-N/A
-
-2021
-
-### Quoted in *Huffington Post*
-
-Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
-
-N/A
-
-2020
-
-### Op-Ed in *Advanced Science News*
-
-Timothy Fraser and Daniel P. Aldrich. (2020). [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/). Advanced Science News. June 9, 2020
-
-N/A
-
-2020
-
-Grants & Funding {data-icon=file}
+Grants & Funding {data-icon=sack-dollar}
 --------------------------------------------------------------------------------
 
 ### Natural Hazards Center Quick Response Grant
@@ -895,7 +1071,7 @@ N/A
 2014
 
 
-Awards {data-icon=file}
+Awards {data-icon=star}
 --------------------------------------------------------------------------------
 
 ### Best Reviewer Award 2022 
@@ -930,8 +1106,197 @@ N/A
 
 2016
 
+Press & Public Scholarship (4) {data-icon=newspaper}
+--------------------------------------------------------------------------------
 
-Academic Service {data-icon=file}
+### Quoted in *El Mercurio*
+
+Sofía Beuchat. [When Politics Makes Us Sick (Cuando La Política Enferma)](https://www.litoralpress.cl/sitio/Prensa_Texto?LPKey=LIV7PFWNN6CD7GEJFCVNVFGJEXAAKLUEIYL64CR52IYJQF7NHF6A). El Mercurio (Chilean Newspaper), September 8, 2022.
+
+N/A
+
+2022
+
+### Reviewed in *Social Science & Medicine*
+
+Carlos Irwin Oronce and Yusuke Tsugawa. [Bonding and linking social capital are key determinants for successful pandemic policy.](https://doi.org/10.1016/j.socscimed.2021.114376). Social Science & Medicine 287 (2021), 114376.
+
+N/A
+
+2021
+
+### Quoted in *Academic Times*
+
+Marcos Cabello. [Rumors during a natural disaster may facilitate greater evacuation — even when unnecessary.](https://academictimes.com/rumors-during-a-natural-disaster-may-facilitate-greater-evacuation-even-when-unnecessary/) The Academic Times, June 8, 2021.
+
+N/A
+
+2021
+
+### Quoted in *Huffington Post*
+
+Sophie Yeo. [When Climate Disaster Strikes, It's Renewable Energy That Keeps The Lights On.](https://www.huffingtonpost.co.uk/entry/renewables-clean-energy-climate-disasters_n_5fad67d1c5b6cae94043c56b) Huffington Post, December 1, 2020. 
+
+N/A
+
+2020
+
+### Op-Ed in *Advanced Science News*
+
+Timothy Fraser and Daniel P. Aldrich. (2020). [The Fukushima Effect at Home: New roles for local actors in Japan's energy policy.](https://www.advancedsciencenews.com/the-fukushima-effect-at-home-new-roles-for-local-actors-in-japans-energy-policy/). Advanced Science News. June 9, 2020
+
+N/A
+
+2020
+
+Teaching {data-icon=chalkboard-user}
+--------------------------------------------------------------------------------
+
+
+### Instructor (Statistical Methods)
+
+Cornell University Systems Engineering Program
+
+Ithaca, NY
+
+2022 - 2023
+
+  - Systems Reliability & Six Sigma (Fall 2022)
+  - Systems Architecture (Spring 2023)
+
+### Educational Software Developer
+
+Develop methods tutorials for coding in MATLAB, R, and SQL, for using in environmental policy and systems engineering.
+
+N/A
+
+2021 - present
+
+- 22 Methods Tutorials for Quantitative Social Science in R. See my online tutorials on [RPubs](https://rpubs.com/timothyfraser)! 
+  - [Statistical Simulation and Food Deserts](https://rpubs.com/timothyfraser/statistical_simulation_food_deserts)
+  - [Multiple Regression and Disaster Effects](https://rpubs.com/timothyfraser/multiple_regression)
+  - [Mapping Raster Data](https://rpubs.com/timothyfraser/mapping_raster_data_in_the_tidyverse)
+- `moves_tutorials`: A github repository and CTECH webinar series of trainings for graduate students on how to use MOVES with modern computational tools in R. 
+  - At: https://github.com/timothyfraser/moves_tutorials 
+- Systems Architecture Recitation Code Series
+  - A series of ~10 MATLAB workshops, teaching students how to implement systems architecture techniques in MATLAB.
+
+### Instructor (Quantitative Techniques)
+
+Northeastern University Political Science Dept.
+
+Boston, MA
+
+2020 - 2021
+
+  - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
+  - Research Methods in Political Science (Summer 2021)
+  - Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
+
+### Graduate Teaching Assistant
+
+Northeastern University Political Science Dept.
+
+Boston, MA
+
+2017 - 2019
+
+  - Introduction to Comparative Politics (2 times)
+  - Introduction to American Government and Politics (2 times)
+  - Quantitative Techniques & Statistics
+  - Disasters and Recovery Summer Course in Japan
+  - American Political Thought
+  - Sexuality, Gender, and the Law
+
+
+Mentorship {data-icon=users}
+--------------------------------------------------------------------------------
+
+Lead multiple teams of students to do collaborative research, coauthor, and publish studies on environmental policy using data analytics in R. 
+
+::: aside
+
+*Students listed below, noting: @Institution, # of peer-reviewed papers coauthored together, and # talks about our work they gave.*
+
+:::
+
+### Masters Students
+
+N/A
+
+N/A
+
+2020 - present
+
+::: aside
+
+- 13 Masters Research Students
+
+- 3 capstone teams
+
+- 4 coauthored publications
+
+:::
+
+- **@Cornell University**, Systems Engineering
+  - Yan Guo [1 working paper]
+- **@Northeastern University**, Political Science/Public Policy
+  - Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
+  - Napuck Cherdchaiyapong [1 paper, capstone]
+  - Winta Tekle [1 paper, capstone]
+  - Erin Thomas [1 paper, capstone]
+  - Joel Zayas [1 paper, capstone]
+  - Alex Poniatowski [1 paper, capstone]
+  - Nicholas Hersey [1 paper, capstone]
+  - Haoran Zheng [1 paper, capstone]
+  - Lucy Hewitt [1 working paper, capstone]
+  - Ziyue Chen [1  working paper, capstone]
+  - Matthew Cherkerzian [1 working paper, capstone]
+- **@George Washington**
+  - Dustin Hinkley [1 working paper]
+
+### Undergraduate Students
+
+N/A
+
+N/A
+
+2019 - present
+
+::: aside
+
+21 Undergraduate Research Students
+
+9 coauthored publications, more under review!
+
+:::
+
+- **@Cornell University**, Systems Engineering
+  - Osama Awadalla @Cornell [1 working paper]
+
+- **@Northeastern University**, Political Science
+  - Andrew Small (currently Fulbrighter) [4 papers]
+  - Nikki Naquin (currently MA student @LSE) [1 paper]
+  - Mary Bancroft [2 papers]
+  - Lily Cunningham [3 papers]
+  - Eri Lee [1 paper]
+  - Amos Nasongo [1 paper]
+  - Olivia Feeley [1 under review, 2 talks]
+  - Andres Ridge [1 under review, 2 talks]
+  - Ava Cervini [1 under review, 2 talks]
+  - Vincent Rago [1 under review, 2 talks]
+  - Kelly Gilmore [1 under review, 2 talks]
+  - Gianna Worthington [1 under review, 2 talks]
+  - Ilana Berliavski [1 under review]
+  - Katherine Van Woert [1 working paper, 2 talks]
+  - Sophia Olivieri [1 working paper, 2 talks]
+  - Pamela Lalli [1 working paper, 2 talks]
+  - Katelyn Buckley [1 working paper, 2 talks]
+  - Jonathan Baron [1 working paper, 2 talks]
+  - Khushi Patel [1 working paper, 1 talk]
+  - Mireya Dorado
+
+Service {data-icon=school}
 --------------------------------------------------------------------------------
 
 ### Reviewer for 30 journals
@@ -952,13 +1317,6 @@ N/A
 
 N/A
 
-### R Tutorials for [Environmental Social Science in R](https://rpubs.com/timothyfraser)
-
-N/A
-
-N/A
-
-N/A
 
 ### Community Outreach
 
@@ -971,37 +1329,29 @@ N/A
 
 N/A
 
-### Teaching
 
-- **2022-present: Instructor, Cornell University**
-  - Systems Reliability & Six Sigma (Fall 2022)
-  - Systems Architecture (Spring 2023)
+Other Skills {data-icon=language}
+--------------------------------------------------------------------------------
 
-- **2020-2021: Instructor of Record, Northeastern University Political Science**
-  - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
-  - Research Methods in Political Science (Summer 2021)
-  - Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
+### Japanese Language Training
 
-- **2021: Methods Tutorials for Quantitative Social Science in R** (22)
-  - See my online tutorials on [RPubs](https://rpubs.com/timothyfraser)! 
-    - [Statistical Simulation and Food Deserts](https://rpubs.com/timothyfraser/statistical_simulation_food_deserts)
-    - [Multiple Regression and Disaster Effects](https://rpubs.com/timothyfraser/multiple_regression)
-    - [Mapping Raster Data](https://rpubs.com/timothyfraser/mapping_raster_data_in_the_tidyverse)
+10 years using and learning Japanese
 
-- **2017-2019: Graduate Teaching Assistant, Northeastern University Political Science**
-  - Introduction to Comparative Politics with Dr. Ioannis Livanis, Dr. Colin Brown (2 times)
-  - Introduction to American Government and Politics with Dr. Michael Tolley (2 times)
-  - Quantitative Techniques & Statistics with Dr. Colin Brown
-  - Disasters and Recovery Summer Course in Japan with Dr. Daniel Aldrich
-  - American Political Thought with Dr. William Mayer
-  - Sexuality, Gender, and the Law with Dr. Libby Adler
+N/A
 
+2012-Present
+
+- <b>Middlebury College</b> (<i>1st-2nd Year Japanese, 5th year Japanese, 2012-2016</i>)
+- <b>Middlebury Summer Language Schools</b> (<i>3rd Year Japanese, Summer 2014</i>)
+- <b>International Christian University, Tokyo</b> (<i>4th Year Japanese,	Fall 2014</i>)
+- <b>Private Tutoring, Fukuoka</b> (<i>Advanced Japanese, Fulbright Thesis in Japanese, 2016-2017</i>)
+- <b>Private Tutoring, Boston</b> (<i>Advanced Japanese, Communicating Research in Japanese, 2021</i>)
 
 ---
 
 ::: aside
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
