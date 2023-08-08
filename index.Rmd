@@ -15,7 +15,7 @@ Aside
 
 --------------------------------------------------------------------------------
 
-<img src="Fraser_headshot_2022.jpg" width="100%;">
+<img src="headshot_mini.jpg" width="100%;">
 
 ---
 
@@ -799,8 +799,6 @@ Work In Progress {data-icon=spinner}
 
 N/A
 
-N/A
-
 ### Working Papers
 
 - Making MOVES move: Cornell MOVESLite for Fast Estimation of Clean Transportation Scenarios (with MS Student Yan Guo and Oliver Gao)
@@ -1212,87 +1210,113 @@ Mentorship {data-icon=users}
 
 Lead multiple teams of students to do collaborative research, coauthor, and publish studies on environmental policy using data analytics in R. 
 
-::: aside
-
 *Students listed below, noting: @Institution, # of peer-reviewed papers coauthored together, and # talks about our work they gave.*
 
-:::
+## {-}
 
-### Masters Students
-
-N/A
-
-N/A
-
-2020 - present
+**Masters Students**
 
 ::: aside
 
-- 13 Masters Research Students
+- **13** Masters Research Students
 
-- 3 capstone teams
+- **3** capstone teams
 
-- 4 coauthored publications
+- **4** coauthored publications
 
 :::
 
-- **@Cornell University**, Systems Engineering
-  - Yan Guo [1 working paper]
-- **@Northeastern University**, Political Science/Public Policy
-  - Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
-  - Napuck Cherdchaiyapong [1 paper, capstone]
-  - Winta Tekle [1 paper, capstone]
-  - Erin Thomas [1 paper, capstone]
-  - Joel Zayas [1 paper, capstone]
-  - Alex Poniatowski [1 paper, capstone]
-  - Nicholas Hersey [1 paper, capstone]
-  - Haoran Zheng [1 paper, capstone]
-  - Lucy Hewitt [1 working paper, capstone]
-  - Ziyue Chen [1  working paper, capstone]
-  - Matthew Cherkerzian [1 working paper, capstone]
-- **@George Washington**
-  - Dustin Hinkley [1 working paper]
-
-### Undergraduate Students
+### **@Cornell University**, Systems Engineering
 
 N/A
 
 N/A
 
-2019 - present
+2023 - present
+
+- Yan Guo [1 working paper]
+
+###  **@Northeastern University**, Political Science/Public Policy
+
+N/A
+
+N/A
+
+2020 - 2022
+
+- Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
+- Napuck Cherdchaiyapong [1 paper, capstone]
+- Winta Tekle [1 paper, capstone]
+- Erin Thomas [1 paper, capstone]
+- Joel Zayas [1 paper, capstone]
+- Alex Poniatowski [1 paper, capstone]
+- Nicholas Hersey [1 paper, capstone]
+- Haoran Zheng [1 paper, capstone]
+- Lucy Hewitt [1 working paper, capstone]
+- Ziyue Chen [1  working paper, capstone]
+- Matthew Cherkerzian [1 working paper, capstone]
+
+  
+### **@George Washington**
+
+N/A
+
+N/A
+
+2021
+
+- Dustin Hinkley [1 working paper]
+
+## {-}
+
+**Undergraduate Students**
 
 ::: aside
 
-21 Undergraduate Research Students
+- **21** Undergraduate Research Students
 
-9 coauthored publications, more under review!
+- **9** coauthored publications, more under review!
 
 :::
 
-- **@Cornell University**, Systems Engineering
-  - Osama Awadalla @Cornell [1 working paper]
+### **@Cornell University**, Systems Engineering
 
-- **@Northeastern University**, Political Science
-  - Andrew Small (currently Fulbrighter) [4 papers]
-  - Nikki Naquin (currently MA student @LSE) [1 paper]
-  - Mary Bancroft [2 papers]
-  - Lily Cunningham [3 papers]
-  - Eri Lee [1 paper]
-  - Amos Nasongo [1 paper]
-  - Olivia Feeley [1 under review, 2 talks]
-  - Andres Ridge [1 under review, 2 talks]
-  - Ava Cervini [1 under review, 2 talks]
-  - Vincent Rago [1 under review, 2 talks]
-  - Kelly Gilmore [1 under review, 2 talks]
-  - Gianna Worthington [1 under review, 2 talks]
-  - Ilana Berliavski [1 under review]
-  - Katherine Van Woert [1 working paper, 2 talks]
-  - Sophia Olivieri [1 working paper, 2 talks]
-  - Pamela Lalli [1 working paper, 2 talks]
-  - Katelyn Buckley [1 working paper, 2 talks]
-  - Jonathan Baron [1 working paper, 2 talks]
-  - Khushi Patel [1 working paper, 1 talk]
-  - Mireya Dorado
+N/A
+
+N/A
+
+2023 - present
+
+- Osama Awadalla @Cornell [1 working paper]
+
+### **@Northeastern University**, Political Science
+
+N/A
+
+N/A
+
+2019-2022
+
+- Andrew Small (currently Fulbrighter) [4 papers]
+- Nikki Naquin (currently MA student @LSE) [1 paper]
+- Mary Bancroft [2 papers]
+- Lily Cunningham [3 papers]
+- Eri Lee [1 paper]
+- Amos Nasongo [1 paper]
+- Olivia Feeley [1 under review, 2 talks]
+- Andres Ridge [1 under review, 2 talks]
+- Ava Cervini [1 under review, 2 talks]
+- Vincent Rago [1 under review, 2 talks]
+- Kelly Gilmore [1 under review, 2 talks]
+- Gianna Worthington [1 under review, 2 talks]
+- Ilana Berliavski [1 under review]
+- Katherine Van Woert [1 working paper, 2 talks]
+- Sophia Olivieri [1 working paper, 2 talks]
+- Pamela Lalli [1 working paper, 2 talks]
+- Katelyn Buckley [1 working paper, 2 talks]
+- Jonathan Baron [1 working paper, 2 talks]
+- Khushi Patel [1 working paper, 1 talk]
+- Mireya Dorado
 
 Service {data-icon=school}
 --------------------------------------------------------------------------------
