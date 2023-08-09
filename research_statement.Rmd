@@ -67,19 +67,24 @@ h3 {
 
 
 :root {
-  --sidebar-width: 0.5in;
+  --sidebar-width: 0in;
   --sidebar-background-color: #FFFFFF;
 }
 
 .pagedjs_pagebox > .pagedjs_area {
-  padding-right: 0.5in;
+  padding-right: 0.25in;
   padding-left: 0.5in;
 }
+
 
 
 [data-id="title"] {
   left: 0.05in;
   margin-bottom: 0in;
+}
+
+[class="section level1"] {
+  padding-right: 0.75in;
 }
 ```
 
@@ -137,6 +142,7 @@ In addition to my core work on transportation systems, my recent GIS work focuse
 - **Social Infrastructure and Mobility:** Together with Takahiro Yabe at MIT and Daniel Aldrich at Northeastern, I am investigating who uses these social infrastructure sites in Boston, by leveraging (anonymized) cell phone user geolocation data over time. For each site, we are measuring usage levels over time and usage rates among different income and racial/ethnic groups. For instance, who uses the Boston Common, or the Boston Public Library? Are the majority of users Black, Latinx, Asian, White? Are they mostly upper income, lower income, etc? These measures will allow us to examine which types of social infrastructure bring together residents of the same social strata, and which types bring together residents across different social strata, helping build the key bridging ties that support democracy and civic life.
 
 
+---
 
 PRIOR RESEARCH (1): NETWORKS IN URBAN CLIMATE POLICY {data-icon=circle-nodes}
 --------------------------------------------------------------------------------
@@ -151,6 +157,8 @@ My first area of prior research investigated the role of networks in urban clima
 - **Public Acceptance of Energy Transition in Japan:** I investigated resident participation in renewable energy adoption, using quantitative and qualitative toolkits. This stems from my research as a Fulbright fellow at Kyushu University in Japan in 2017, where I interviewed and surveyed policymakers about renewable energy adoption in dozens of Japanese communities. Using content analysis of surveys and interviews, I found that solar developers often built solar farms in rural towns with few costs but also few local benefits, except tax base and employment (Fraser & Chapman 2018). However, these solar farms imparted net-improvements in social equity, compared to fossil fuel sources (Chapman & Fraser 2019; Fraser & Chapman 2020). In the field, I also found that local actors effectively slowed the restart of nuclear power plants through courts (Aldrich & Fraser 2017, Fraser & Aldrich 2020).
 - **Social Capital and Renewable Energy**: Despite these controversial impacts, my statistical analyses found that residents largely organize in favor of renewables, where cities with stronger bonding, in-group social ties mobilize effectively to build more wind (Fraser 2020), and prefectural governments help improve solar adoption overall (Fraser 2019). International comparisons show similar results. My matching experiments in the US and Japan have shown that disaster hit communities tend to build more solar than unaffected communities, but strong social ties help residents mobilize to build even more (Fraser, Cunningham, & Nasongo 2021). Finally, analyses in Japan, Germany, the US, and South Africa reveal that strong social capital can boost renewable energy, but these ties may also block it if unpopular (Fraser 2021b).
 - **Networks of Solar Cities and Companies:** Most recently, my dissertation research mapped a preliminary network of solar companies operating in Japanese cities, finding that cities with strong social capital and aggressive spending practices on disaster priorities tended to adopt more renewables, and these spending priorities increase with every year (Fraser R&R). In the future, I aim to expand this, measuring the effectiveness of residents’ social networks compared to traits of companies and city spending on adoption.
+
+---
 
 PRIOR RESEARCH (2): MAPPING COMMUNITY RESILIENCE TO DISASTERS AND PANDEMICS {data-icon=house-chimney-crack}
 --------------------------------------------------------------------------------
@@ -211,6 +219,7 @@ N/A
 
 Climate adaptation initiatives are modern redistributive policies that struggle to achieve electoral support because their benefits are diffuse, except to the most vulnerable in society who need them; given these disincentives to action, cities need robust networks that mobilize residents and pressure officials to adapt. By analyzing how community resources and policy toolkits affect recovery, evacuation, and renewables, this dissertation aimed to clarify how multiple actors, including cities, companies, & elected officials, can intervene in socially and physically vulnerable cities to improve climate change adaptation.
 
+---
 
 RESEARCH WITH STUDENTS {data-icon=users}
 --------------------------------------------------------------------------------
