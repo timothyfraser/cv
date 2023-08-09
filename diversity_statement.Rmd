@@ -68,13 +68,13 @@ h3 {
   padding-left: 0.5in;
 }
 
+
 [data-id="title"] {
   left: 0.05in;
   margin-bottom: 0in;
 }
 
 ```
-
 
 ```{css columns, echo = FALSE}
 /*--- Column Spacing Options ----*/
@@ -335,7 +335,7 @@ knitr::include_graphics("fa-brain.png")
 ::: col-2
 
 
-<p style="text-indent: 20px">My teaching approach centers on making my classes welcoming and accessible to a neurodiverse student body. [“Neurodiversity”](https://www.understood.org/articles/en/neurodiversity-what-you-need-to-know) refers to the idea that brain differences among people are normal, not deficits; given that [nearly 20% of the population is neurodivergent](https://academic.oup.com/bmb/article/135/1/108/5913187) (having ADHD, autism, dyslexia, learning disabilities, or other neurological differences) and [25% have a diagnosed mental health condition](https://www.hopkinsmedicine.org/health/wellness-and-prevention/mental-health-disorder-statistics) (eg. anxiety or depression), this indicates that neurodivergent students are much, much more common in the classroom than traditionally perceived. To respond, I design my classes with broad, sweeping improvements to be more accessible to students who think and learn differently.</p>
+<p style="text-indent: 20px">My teaching approach centers on making my classes welcoming and accessible to a neurodiverse student body. [“Neurodiversity”](https://www.understood.org/articles/en/neurodiversity-what-you-need-to-know) refers to the idea that brain differences among people are normal, not deficits; given that [nearly 20% of the population is neurodivergent](https://academic.oup.com/bmb/article/135/1/108/5913187) (having ADHD, autism, dyslexia, learning disabilities, or other neurological differences) and [25% have a diagnosed mental health condition](https://www.hopkinsmedicine.org/health/wellness-and-prevention/mental-health-disorder-statistics) (eg. anxiety or depression), this indicates that neurodivergent students are much, much more common in the classroom than traditionally perceived. As an ADHDer myself, I realize many of my students face learning challenges with limited support, and many are undiagnosed. To respond, I design my classes with broad, sweeping improvements to be more accessible to students who think and learn differently.</p>
 
 At Cornell, I am actively involved in the Cornell Neurodivergent Employees group, and I help refer my students to appropriate services at the college. For 2023 Cornell Neurodiversity Week, I spoke as an invited panelist for "Stories of Neurodiversity", as a faculty/staff voice.
 
@@ -410,4 +410,71 @@ In my systems engineering courses, I redesigned several assignments to highlight
 Additionally, in my systems engineering classes, I work step-by-step with 5-to-8 teams in their term projects as they evaluate the reliability of a real-world technology or architect a new system. Through regular group meetings and one-on-ones, I try to support and highlight the voices of underrepresented students, to build more inclusive teams. I have also developed course surveys to evaluate how inclusive student teams are, chaining these to participation grades to reward effective and inclusive teamwork. These techniques have been well received to date.
 
 <p style="text-indent: 20px">Using 1) multimodal, inclusive teaching strategies, 2) building social ties in the classroom, and 3) increasing representation from women and under-represented minorities in the classroom and the curriculum, my teaching methods help students of different backgrounds build skills in data science, methods, and policy analysis, growing their confidence and increasing their long-term professional opportunities.</p>
+
+
+<br>
+<br>
+<br>
+
+---
+
+### Student Perspectives {-}
+
+In evaluations, students highlight my active, accessible course design and class structure, and the atmosphere I facilitate. See several excerpts below.
+
+::: box 
+
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>*"He is the most enthusiastic professor I have ever had and he did a great [job] at engaging the class and explaining the concepts clearly and with interesting examples."* (Cornell, Six Sigma)</text></p>
+
+:::
+
+::: box
+
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>*“Professor Fraser does a great job incorporating different teaching styles and activities to keep the class fresh,” citing “labs, group-work, discussion, [and] lecture.”* (Northeastern, Quantitative Techniques)</text></p>
+:::
+
+
+::: box
+
+<p style="text-indent: 20px">Others reported that <text style='color:#7B0D1E'>*‘[he] was always enthusiastic and prepared… [and] structured class time in a way that was really engaging. I really feel like I learned a lot from him.”*(Northeastern, Quantitative Techniques)</text></p>
+
+:::
+
+::: box
+
+<p style="text-indent: 20px">They also indicate that I am flexible and responsive: <text style='color:#7B0D1E'>*“He listens to student responses about what he can do better and communicates well with students.”* (Northeastern, Quantitative Techniques)</text></p>
+
+:::
+
+::: box
+<p style="text-indent: 20px">Others said I taught engaging virtual classes, providing <text style='color:#7B0D1E'>“*a really good variety of activities, including breakout rooms, lectures, discussions, guest lecturers, readings, videos, and in-class labs that were helpful in making the class interesting/informative… it was actually really engaging.”* (Northeastern, Research Methods)</text></p>
+:::
+
+::: box
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>*"I love the way he delivered lectures. His clear instructions made all the projects successful. His approach to R was splendid and I learnt by the fact that he himself was so adept at it. His thinking, teaching and oration are skills I want to strive for. He is so jovial in class and always ecstatic, the energy he got to the class is irreplaceable. I wish all my teachers were like this! If we had a Normal Distribution representing good teachers, he would be on the right end. Way more than 3 sigma away from the mean!"* (Cornell, Six Sigma)</text></p>
+
+:::
+
+::: box
+
+<p style="text-indent: 20px">My evaluations show that students value this atmosphere. One student wrote that I *<text style='color:#7B0D1E'>“did a wonderful job of creating a welcoming and inclusive atmosphere.”* (Northeastern, Quantitative Techniques)</text></p>
+
+:::
+
+::: box
+
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>*"I have never seen a professor more willing to help their students."* (Cornell, Six Sigma)</text></p>
+
+::: 
+
+::: box
+
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>*"Professor Fraser is amazing!!! His lecture is* ***very clear, inspiring, and engaging even for someone without strong background in relating fields. He truly cares about his students*** *and his course strongly increases my enthusiasm in the field of statistics"* (Cornell, Six Sigma)</text></p>.
+
+:::
+
+::: box
+
+<p style="text-indent: 20px"><text style='color:#7B0D1E'>Others valued my attention to accessibility, saying, <text style='color:#7B0D1E'>*“[he] is really mindful of all his students' different situations and that really reflects in his teaching,"</text> and <text style='color:#7B0D1E'>"he was always available to help us better understand the course.”* (Northeastern, Quantitative Techniques)</text></p>
+:::
 

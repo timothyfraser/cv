@@ -1,0 +1,192 @@
+---
+title: "Timothy Fraser, PhD"
+author: Timothy Fraser, PhD
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{css text, echo=FALSE}
+
+/*---------------- Text sizing --------------*/
+
+element.style {
+    font-size: 10pt;
+}
+/*---------------- List Item --------------*/
+
+p, ul, ol {
+    font-size: 9pt;
+    color: #373737;
+    margin-right: 0%;
+    margin-block-end: 0.25em;
+    margin-block-start: 0.25em;
+    line-height: 16.5px;
+}
+
+
+li {
+    font-size: 9pt;
+}
+
+/*---------------- Header sizing --------------*/
+
+h1 {
+  padding-top: 0px;
+  font-size: 16pt;
+  padding-bottom: 0px;
+  margin-top: -25px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  padding-top: 0px;
+  font-size: 12pt;
+  padding-bottom: 0px;
+  margin-block-start: 0.50px;
+  margin-block-end: 0.25px;
+}
+
+[data-id="main"] h2 {
+  left: 0in;
+}
+
+h3 {
+  padding-top: 0px;
+  font-size: 12pt;
+  padding-bottom: 0px;
+  margin-block-start: 0.50px;
+  margin-block-end: 0.25px;
+}
+
+[data-id="title"] {
+  left: 0.05in;
+}
+
+.date {
+  max-width: 0in;
+}
+
+:root {
+  --sidebar-width: 15rem;
+  --sidebar-background-color: #ed6968;
+}
+```
+
+Aside
+================================================================================
+
+
+--------------------------------------------------------------------------------
+
+<img src="headshot_mini.jpg" width="100%;">
+
+---
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> timothy.fraser.1@gmail.com
+- <i class="fa fa-github"></i> [github.com/timothyfraser](https://github.com/timothyfraser)
+- <i class="fa fa-home"></i> www.timothyfraser.com
+- <i class="fa fa-map"></i> B01 Carpenter Hall, 313 Campus Rd, Ithaca, NY 14850
+- For more information, please contact me via email.
+
+
+Main
+================================================================================
+
+**Dr. Timothy Fraser** {#title}
+--------------------------------------------------------------------------------
+
+<i style="font-size:14.0pt">Computational Social Scientist</i>
+
+---
+
+- Areas: Environmental Policy, Resilience, Social Networks, GIS, Mixed Methods
+- Ezra Systems Postdoctoral Research Associate, Systems Engineering, Cornell University
+
+RESEARCH SUMMARY {#research-summary data-icon=leaf}
+--------------------------------------------------------------------------------
+
+I am a political scientist, applying data science and mixed methods to help communities become more resilient to crisis. My research examines why some communities adapt to climatic hazards more than others, looking at cities in the US and Japan. I focus on the critical role of community-level resources, namely social capital and social networks, the social ties that enable trust, reciprocity, and collective action among residents. 
+
+Since 2017, I published **37 peer-reviewed studies** on adaptation to crisis in US and Japanese cities in top journals on environmental policy and crisis resilience. These include Global Environmental Change (Impact Factor = 9.5), Environmental Innovations and Societal Transitions (9.7), Energy Research & Social Science (6.8), and Nature: Scientific Reports (4.3), as well as disciplinary journals such as Environmental Politics (6.7), among others. My dissertation synthesized this work, measuring the effects of social capital in cities’ adaptation to climate change via evacuation, disaster recovery, and energy transitions in the US and Japan. 
+
+In addition, I have collaborated with +18 scholars and +34 students studying energy, disasters, environment, urban planning, and health policies. I also published 7 chapters, reviewed for +30 journals, and worked as a data consultant for 3 NGOs, including the United Nations Development Programme’s Accelerator Labs in Mexico and Paraguay. My past research has been funded by **local and national grants**, including a Fulbright fellowship. I also received Fulbright Hays and Japan Foundation doctoral fellowships (declined due to COVID-19).
+
+My research finds that communities rich in social capital tend to adapt better to climate change by mobilizing to reduce emissions, build more renewables, recover from crisis, and evacuate faster, while those with weak social networks struggle to adapt in these ways. More information on my research is available at: <i class="fa fa-magnifying-glass"></i> www.timothyfraser.com
+
+DOCTORAL DISSERATION {#doctoral-dissertation data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+I received my PhD in Political Science from Northeastern University in April 2022. For my doctoral dissertation, Communities in Crisis: How Cities Adapt to Climate Change in the US and Japan, I examined why some cities adapt better than others, investigating (1) recovery, (2) evacuation, and (3) renewable energy adoption as indicators of adaptation to hazards. Conventional wisdom holds that cities adapt better due to better technocratic policy like infrastructure quality, or struggle to adapt because they have host vulnerable populations, but these traits of cities are difficult to intervene in. Instead, I hypothesized that greater community resources like **social capital** and “soft” community focused policy toolkits help cities to mobilize and accelerate adaptation to climate change. I draw from case studies in Japan and the US.
+
+### Paper #1: Japanese Social Capital and Social Vulnerability Indices: Measuring Drivers of Community Resilience 2000-2017
+
+- Why do some municipalities **recover** from disaster better than others? I examined the 2011 triple disaster in Japan, generalizing a method of measuring social capital to Japan and using it to predict recovery. (See Figure 1.) 
+- [Published in International Journal of Disaster Risk Reduction, 2021](https://github.com/timothyfraser/cv/files/7790558/2021_Fraser_IJDRR.pdf).
+
+N/A
+
+### Paper #2: Fleeing the Unsustainable City? Soft Policy and the Dual Effect of Social Capital in Evacuation
+
+- Why do cities see greater **evacuation** than others? I explained evacuation of Facebook users during Hurricane Dorian in Florida in 2019. (See Figure 2.)
+- [Published in Sustainability Science, 2022](http://dx.doi.org/10.1007/s11625-022-01098-y).
+
+N/A
+
+### Paper #3: The Value of Urban Regimes and Social Capital in Building Solar Cities
+
+- Why do some towns adopt **renewable energy** more than others? I explained solar power adoption from 2012-2019 in Japan. This dissertation tested its hypotheses using multiple methods, including statistical modeling, social network analysis, geographic information systems, matching experiments, surveys, fieldwork, and interviews. (See Figure 3.)
+- Revise-and-Resubmit, Cities
+
+N/A
+
+
+## {-}
+
+Climate adaptation initiatives are modern redistributive policies that struggle to achieve electoral support because their benefits are diffuse, except to the most vulnerable in society who need them; given these disincentives to action, cities need robust networks that mobilize residents and pressure officials to adapt. By analyzing how community resources and policy toolkits affect recovery, evacuation, and renewables, this dissertation aimed to clarify how multiple actors, including cities, companies, & elected officials, can intervene in socially and physically vulnerable cities to improve climate change adaptation.
+
+
+CURRENT RESEARCH (1): NETWORKS IN URBAN CLIMATE POLICY {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+My first area of research investigates the role of networks in urban climate policy, specifically resident mobilization and participatory governance in recovery and adaptation to hazards. Past scholars argued that social capital and social infrastructure help improve resilience and health in communities, while my research offers comparative evidence that bridging and linking social capital in particular matter to resilience. I have examined this question through 6 projects with colleagues.
+
+- **Recovery from Japan’s 2011 Triple Disaster:** In Japan, we examined over 600 members involved in 39 committees after the 2011 triple disaster, where a combination of representatives from government, businesses, civil society, and residents designed and proposed custom recovery policies for each local municipality. Using social network analysis, we found that engineers, businesses, and men were strongly represented on committees, often serving on multiple committees, at the expense of women, civil society, and local residents (Fraser, Aldrich, Small, & Littlejohn 2021; See Figure 4). Later, we found that cities with more interconnected committees, especially those which invested in more community centers, tended to see better economic recovery, highlighting that committees, their structure, and their policy recommendations do measurably affect urban resilience (Fraser, Aldrich, & Small 2021).
+- **Recovery from Hurricane Sandy in New York:** Next, together with master’s capstone students, we investigated whether similar patterns could be found in recovery committees after Hurricane Sandy in 2012, using text analysis to code committee policy recommendations (working paper).
+- **Cutting Emissions in Tokyo Wards:** Together with students, I am currently investigating whether representation and interaction between committees occurs also in environmental planning committees, measuring the effect of committees in Tokyo’s urban wards on emissions and renewable energy adoption (Fraser & Hinkley, working paper).
+- **Public Acceptance of Energy Transition in Japan:** I investigated resident participation in renewable energy adoption, using quantitative and qualitative toolkits. This stems from my research as a Fulbright fellow at Kyushu University in Japan in 2017, where I interviewed and surveyed policymakers about renewable energy adoption in dozens of Japanese communities. Using content analysis of surveys and interviews, I found that solar developers often built solar farms in rural towns with few costs but also few local benefits, except tax base and employment (Fraser & Chapman 2018). However, these solar farms imparted net-improvements in social equity, compared to fossil fuel sources (Chapman & Fraser 2019; Fraser & Chapman 2020). In the field, I also found that local actors effectively slowed the restart of nuclear power plants through courts (Aldrich & Fraser 2017, Fraser & Aldrich 2020).
+- **Social Capital and Renewable Energy**: Despite these controversial impacts, my statistical analyses found that residents largely organize in favor of renewables, where cities with stronger bonding, in-group social ties mobilize effectively to build more wind (Fraser 2020), and prefectural governments help improve solar adoption overall (Fraser 2019). International comparisons show similar results. My matching experiments in the US and Japan have shown that disaster hit communities tend to build more solar than unaffected communities, but strong social ties help residents mobilize to build even more (Fraser, Cunningham, & Nasongo 2021). Finally, analyses in Japan, Germany, the US, and South Africa reveal that strong social capital can boost renewable energy, but these ties may also block it if unpopular (Fraser 2021b).
+- **Networks of Solar Cities and Companies:** Most recently, my dissertation research mapped a preliminary network of solar companies operating in Japanese cities, finding that cities with strong social capital and aggressive spending practices on disaster priorities tended to adopt more renewables, and these spending priorities increase with every year (Fraser R&R). In the future, I aim to expand this, measuring the effectiveness of residents’ social networks compared to traits of companies and city spending on adoption.
+
+CURRENT RESEARCH (2): MAPPING COMMUNITY RESILIENCE TO DISASTERS AND PANDEMICS {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+At Northeastern, I focused on building measurements of resources like social ties and social infrastructure using GIS, networks, and big data, and designed methods for analyzing their impacts on community resilience.
+
+- **Mapping Social Capital and Vulnerability:** I developed validated measures of social capital and social vulnerability for every municipality in Japan from 2000 to 2017 (Fraser 2021a). I developed an online dashboard the public can use to investigate their city’s social capital and vulnerability in context. Similarly, working as a consultant for the United Nations Development Program’s Accelerator Labs, I developed with colleagues methods of measuring community resources (social capital) and social vulnerability in Mexico and Paraguay. In the US, I designed with colleagues [measures of social capital for over 77,000 US census tracts](https://rpubs.com/timothyfraser/social_capital_indices) ([Fraser, Page-Tan, & Aldrich 2022](https://doi.org/10.1038/s41598-022-10275-z)). 
+- **Mapping Environmental NGOs**: In Japan, I mapped the density of environmental organizations in Japanese cities over time to test to what degree these environmental organizations shape emissions reduction efforts (Fraser & Temocin 2021; See Figure 5). 
+- **Predicting Urban Community Resilience**: These mapping efforts have allowed for numerous applications. I utilized my new Japanese social capital indices to predict disaster recovery (Fraser, Aldrich, & Small 2021), emissions (Fraser et al. 2021; Fraser & Temocin 2021), vulnerability to hazards (Fraser & Naquin 2022), evacuation (Fraser, Morikawa, & Aldrich 2021), and pandemic resilience (Fraser & Aldrich 2021). Similarly, my US social capital measures have been applied to predict solar power adoption (Fraser, Cunningham, & Nasongo 2021), evacuation from Hurricane Dorian (Fraser 2022), evacuation during the pandemic (Page-Tan & Fraser 2022), and COVID19 infection rates (Fraser, Page-Tan, & Aldrich 2022). 
+- **Social Networks in Resilience Research**: Social divisions may even hinder academic research, shown in my studies of disaster policy (Fraser, Small, & Aldrich 2021) and energy policy (Chapman, Fraser, & Dennis 2019), and gender equity (Fraser, Nelson, & Zippel working paper). 
+- **Social Capital and Health**: I have also applied social capital and networks to understanding changes in health, a key indicator of community resilience. In the US, my research with colleagues showed that bonding social capital helped US counties weather the COVID-19 pandemic (Fraser, Aldrich, & Page-Tan 2021; See Figure 6), while more detailed analysis of census tracts showed that social capital and vulnerability measures could predict as much as 95% of variation in infection rates in some cities (Fraser, Page-Tan, & Aldrich 2022). In Japanese prefectures, we found that linking social ties were linked to fewer COVID-19 infections (Fraser & Aldrich 2021). 
+- **Political Polarization and Health**: In 2020 and 2021, I drafted and administered two national surveys with colleagues 2 national surveys on how trust and political polarization shape Americans’ physical and mental well-being. Our research has shown that social divisions, particularly between members of different parties, is linked to worse health and higher incidence rates of chronic health conditions (Nayak et al. 2021). However, we found that close in-group bonding ties can bolster the health of Americans who live in particularly polarized communities (Panagopoulos et al. 2021). Political polarization even has significant impacts on COVID-19 vaccination rates (Dolman et al. 2022). 
+- **Mapping Evacuation with Big Data**: Some of my most exciting work has been mapping evacuation patterns using big data. While past studies used roadside surveys or post-hoc surveys of returnees after disaster, my coauthors and I use cell phone user mobility data provided by Facebook to estimate how many people evacuate in a city, and which cities they evacuate to. I measured evacuation patterns from 10 fires, floods, hurricanes, and earthquakes in 2019 (Fraser 2022). In my dissertation, I linked evacuation and sheltering-in-place during Hurricane Dorian to social capital and community preparedness. And together with coauthors, we showed that evacuation from the 2018 Hokkaido earthquake (Fraser, Morikawa, & Aldrich 2021; Fraser, Aldrich, & Morikawa 2021) depends greatly on levels of trust in government. Most recently, we investigated the effects of evacuation on COVID-19 spread during Hurricane Zeta and California’s Glass Fire (Page-Tan & Fraser 2022).
+
+FUTURE WORK: MAPPING SOCIAL INFRASTRUCTURE {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+- **Mapping Social Infrastructure:** My recent GIS work focuses on mapping social infrastructure, which refers to places in our communities that build social capital, including community spaces, places of worship, social businesses, and parks - places that help our cities rebound and recover after crises like the ongoing pandemic. Together with Daniel Aldrich and Courtney Page-Tan at the Aldrich Resilience Lab at Northeastern University, we brainstormed ways to measure social infrastructure in our neighborhoods. I ran a pilot study, mapping 8 types of social infrastructure in Fukuoka, Japan using publicly available geospatial and census micro-data, and linked rates of social infrastructure to changing COVID-19 spread rates in the city (see Figure 1). Then, we ran a pilot study in Boston, using the Google Maps Places API to map social infrastructure for every block in the city of Boston. I led a master’s capstone at Northeastern in Fall 2021, teaching students to ground-truth these measures street-by-street to verify that our web-generated measures were valid (good news: they are!), and our dashboard (see Figure 7). We found troubling divides in levels of social infrastructure between neighborhoods of color and other neighborhoods. My next steps will be to (1) scale up this effort to other US cities and (2) examine how social infrastructure correlates with key disaster and pandemic resilience indicators. I am eager to continue this work in my next post’s local community, engaging my students in the effort! Mapping social ties and social infrastructure helps us understand which neighborhoods can organize to combat climate change, and which struggle without support from policymakers.
+- **Social Infrastructure and Mobility:** Together with Takahiro Yabe at MIT and Daniel Aldrich at Northeastern, I am investigating who uses these social infrastructure sites in Boston, by leveraging (anonymized) cell phone user geolocation data over time. For each site, we are measuring usage levels over time and usage rates among different income and racial/ethnic groups. For instance, who uses the Boston Common, or the Boston Public Library? Are the majority of users Black, Latinx, Asian, White? Are they mostly upper income, lower income, etc? These measures will allow us to examine which types of social infrastructure bring together residents of the same social strata, and which types bring together residents across different social strata, helping build the key bridging ties that support democracy and civic life.
+- **Book Project: Social Networks in Community Resilience:** As my first book project, I aim to synthesize these studies into a manuscript that investigates the effect of public participation and social networks on climate and pandemic resilience outcomes, using the case of the 2011 Tohoku tsunami in Japan, New York’s Hurricane Sandy in 2012, emissions efforts in Tokyo wards, and COVID19 spread in Boston neighborhoods. I aim to measure whether neighborhoods with greater community representation and more connections to local officials adopt better climate resilience policies. Can we improve our policies’ impacts if we increase representation from civil society, women, under-presented communities, and local residents? I aim to explore these questions further.
+
+
+RESEARCH WITH STUDENTS {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+Fortunately, my research is mixed-methods, with frequent opportunities for collaboration with undergraduate and masters students. I have worked with over 34 talented students in the past, producing 13 peer-reviewed, coauthored publications together! I deeply enjoy facilitating multigenerational research teams and building research into the classroom. I am excited to bring this kind of student-centered research to my next post, getting students involved in data science, mapping, social network analysis, and fieldwork on climate resilience initiatives in their region. 
+
+Moreover, I would be excited to incorporate my social capital and resilience research into courses on Urban Climate Resilience, Comparative Energy Policy, East Asian Politics, Social Capital and Pandemics, Methods, Data Science and Visualization, Social Network Analysis, GIS, and more.
