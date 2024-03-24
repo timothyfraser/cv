@@ -53,7 +53,7 @@ Main
 ---
 
 - I develop software & methods to *help communities combat climate change.*
-- I published 40 peer-reviewed studies, plus dashboards, R packages, and databases, using big data analytics, networks, & GIS.
+- I published 40 peer-reviewed studies, plus dashboards, R packages, and other software, using big data analytics, networks, GIS, and AI.
 - Passionate about teaching statistics and coding, and leading student research. 
 - Current Work: Dashboards for visualizing local emissions from transportation.
 
@@ -68,9 +68,8 @@ Ithaca, NY
 
 2023 - Present
 
-- Develop systems for communicating emissions from transportation for the public, using dashboards, APIs, AI, and other methods.
-- Advise and lead Research Teams of Masters of Engineering students for software development, as part of Gao Labs.
-- Teach +2 courses a year on Statistical Methods
+- Lead Climate Action in Transportation dashboard research at [Gao Labs](https://gao.cee.cornell.edu/)
+- Teach +2 courses a year on Statistical Methods, and advise Masters student research teams.
 
 ### Grant Coordinator for Center for Transportation, Environment, and Community Health (CTECH)
 
@@ -78,7 +77,7 @@ Cornell University
 
 Ithaca, NY
 
-2022 - Present
+2022 - 2023
 
 - Administer multimillion dollar research grant from US Dept. of Transportation. Coordinate grant reporting and deliverables from dozens of researcher teams at 4 recipient universities.
 
@@ -90,21 +89,6 @@ Cornell University Systems Engineering Program
 Ithaca, NY
 
 2022 - 2023
-
-- Develop tools and web applications for quantifying and communicating emissions from transportation to decisionmakers and the public.
-- Deploy Dashboards using R, HTML, Docker, Github, & Shiny.
-
-
-### Instructor for Statistical Methods
-
-Cornell University Systems Engineering Program
-
-Ithaca, NY
-
-2022 - Present
-
-- Co-taught System Reliability and Six Sigma (SYSEN 5300) and System Architecture (5400), teaching masters students R & MATLAB.
-
 
 ### Instructor, Quantitative Techniques & Research Methods 
 
@@ -1206,18 +1190,38 @@ Boston, MA
 Teaching {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
+### Graduate Courses
 
-### Instructor (Statistical Methods)
+@CU = Cornell University Systems Engineering Program
 
-Cornell University Systems Engineering Program
+N/A
 
-Ithaca, NY
+- SYSEN 5300 - Systems Reliability & Six Sigma (2022, 2023)
+- SYSEN 5400 - Systems Architecture (2023, 2024)
+- SYSEN XXXX - Data Science for Socio-Technical Systems (2024)
 
-2022 - Present
+### Undergraduate Courses
 
-  - Systems Reliability & Six Sigma (Fall 2022, 2023)
-  - Systems Architecture (Spring 2023, 2024)
-  - Data Science for Socio-Technical Systems (Summer 2024)
+@NU = Northeastern University Political Science Department
+
+N/A
+
+- POLS 2400 - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
+- POLS 2399 - Research Methods in Political Science (Summer 2021)
+- Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
+
+### Teaching Assistant
+
+@NU = Northeastern University Political Science Department
+
+N/A
+
+- POLS 1155 - Introduction to Comparative Politics (2 times)
+- POLS 1150 - Introduction to American Government and Politics (2 times)
+- POLS 2400 - Quantitative Techniques & Statistics
+- Disasters and Recovery Summer Course in Japan
+- POLS 2330- American Political Thought
+- POLS 3500 - Sexuality, Gender, and the Law
 
 ### Educational Software Developer
 
@@ -1236,33 +1240,6 @@ N/A
 - Systems Architecture Recitation Code Series
   - A series of ~10 MATLAB workshops, teaching students how to implement systems architecture techniques in MATLAB.
 
-### Instructor (Quantitative Techniques)
-
-Northeastern University Political Science Dept.
-
-Boston, MA
-
-2020 - 2021
-
-  - Quantitative Techniques & Statistics in R (Fall 2021, Spring 2020)
-  - Research Methods in Political Science (Summer 2021)
-  - Masters Capstone Coordinator (Fall 2021, Spring 2021, Spring 2020)
-
-### Graduate Teaching Assistant
-
-Northeastern University Political Science Dept.
-
-Boston, MA
-
-2017 - 2019
-
-  - Introduction to Comparative Politics (2 times)
-  - Introduction to American Government and Politics (2 times)
-  - Quantitative Techniques & Statistics
-  - Disasters and Recovery Summer Course in Japan
-  - American Political Thought
-  - Sexuality, Gender, and the Law
-
 
 Mentorship {data-icon=users}
 --------------------------------------------------------------------------------
@@ -1271,9 +1248,30 @@ Lead teams of students to do collaborative research, coauthor, and publish studi
 
 *Students listed below, noting: @Institution, # of peer-reviewed papers coauthored together, and # talks about our work they gave.*
 
-## {-}
+*Abbreviations: @CU = Cornell University, Systems Engineering; @NU = Northeastern University*
 
-**Masters Students**
+### Masters Research Students
+
+N/A
+
+N/A
+
+2020 - Present
+
+- CAT Quality Team: Linpei Huang, Yueyi Mu, Quingyuan Guo @CU
+- CAT AI Team: Peilin Li, Shannya Niveyro, Maria Dobransky, Peculiar Lawrence, Leo Ziyu Kuang, Yan Guo  @CU
+- CAT Apps Team: Emily Yi-Wen Tseng, RuiRui Mao, Junna Chen  @CU
+- CAT Optimizer Team: Leah Smith, Kaylen Li [1 working paper]  @CU
+- CAT API Team: Rebecca Xinyu Gao, Jessica Yuan, Mahak Bindal, Junna Chen, Ian Lee [1 working paper]  @CU
+- CAT Greentech Database Team: Jessie Wong, Emily Yi-Wen Tseng, RuiRui Mao, Shungo Najima  @CU
+- CAT Reporter Team: Peilin Li, Leo Ziyu Kuang, Aarya Darak, Minghao Yang [1 working paper] @CU
+- Social Infrastructure Project: Linpei Huang @CU
+- MOVESLite Project: Yan Guo [1 working paper] @CU
+- Mapping Social Infrastructure Team: Napuck Cherdchaiyapong, Winta Tekle, Erin Thomas, Joel Zayas [1 paper, capstone] @NU
+- Louisiana Recovery Team: Alex Poniatowski, Nicholas Hersey, Haoran Zheng [1 paper, capstone] @NU
+- Disaster Recovery Committees Team: Lucy Hewitt, Ziyue Chen, Matthew Cherkerzian [1 working paper, capstone] @NU
+- Evacuation Project: Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone] @NU
+- Dustin Hinkley [1 working paper] @George Washington
 
 ::: aside
 
@@ -1285,50 +1283,35 @@ Lead teams of students to do collaborative research, coauthor, and publish studi
 
 :::
 
-### **@Cornell University**, Systems Engineering
+### Undergraduate Research Students
 
 N/A
 
 N/A
 
-2023 - Present
+2019 - present
 
-- CAT Quality Team: Linpei Huang, Yueyi Mu, Quingyuan Guo
-- CAT AI Team: Peilin Li, Shannya Niveyro, Maria Dobransky, Peculiar Lawrence, Leo Ziyu Kuang, Yan Guo
-- CAT Apps Team: Emily Yi-Wen Tseng, RuiRui Mao, Junna Chen
-- CAT Optimizer Team: Leah Smith, Kaylen Li [1 working paper]
-- CAT API Team: Rebecca Xinyu Gao, Jessica Yuan, Mahak Bindal, Junna Chen, Ian Lee [1 working paper]
-- CAT Greentech Database Team: Jessie Wong, Emily Yi-Wen Tseng, RuiRui Mao, Shungo Najima
-- CAT Reporter Team: Peilin Li, Leo Ziyu Kuang, Aarya Darak, Minghao Yang [1 working paper]
-- Social Infrastructure Project: Linpei Huang
-- MOVESLite Project: Yan Guo [1 working paper]
-
-###  **@Northeastern University**, Political Science/Public Policy
-
-N/A
-
-N/A
-
-2020 - 2022
-
-- Mapping Social Infrastructure Team: Napuck Cherdchaiyapong, Winta Tekle, Erin Thomas, Joel Zayas [1 paper, capstone]
-- Louisiana Recovery Team: Alex Poniatowski, Nicholas Hersey, Haoran Zheng [1 paper, capstone]
-- Disaster Recovery Committees Team: Lucy Hewitt, Ziyue Chen, Matthew Cherkerzian [1 working paper, capstone]
-- Evacuation Project: Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
-  
-### **@George Washington**
-
-N/A
-
-N/A
-
-2021
-
-- Dustin Hinkley [1 working paper]
-
-## {-}
-
-**Undergraduate Students**
+- Osama Awadalla @Cornell [1 working paper] @CU
+- Andrew Small (currently Fulbrighter) [4 papers] @NU
+- Nikki Naquin (currently MA student @LSE) [1 paper]  @NU
+- Mary Bancroft [2 papers] @NU
+- Lily Cunningham [3 papers] @NU
+- Eri Lee [1 paper] @NU
+- Amos Nasongo [1 paper] @NU
+- Olivia Feeley [1 under review, 2 talks] @NU
+- Andres Ridge [1 under review, 2 talks] @NU
+- Ava Cervini [1 under review, 2 talks] @NU
+- Vincent Rago [1 under review, 2 talks] @NU
+- Kelly Gilmore [1 under review, 2 talks] @NU
+- Gianna Worthington [1 under review, 2 talks] @NU
+- Ilana Berliavski [1 under review] @NU
+- Katherine Van Woert [1 working paper, 2 talks] @NU
+- Sophia Olivieri [1 working paper, 2 talks] @NU
+- Pamela Lalli [1 working paper, 2 talks] @NU
+- Katelyn Buckley [1 working paper, 2 talks] @NU
+- Jonathan Baron [1 working paper, 2 talks] @NU
+- Khushi Patel [1 working paper, 1 talk] @NU
+- Mireya Dorado @NU
 
 ::: aside
 
@@ -1337,45 +1320,6 @@ N/A
 - **9** coauthored publications, more under review!
 
 :::
-
-### **@Cornell University**, Systems Engineering
-
-N/A
-
-N/A
-
-2023 - present
-
-- Osama Awadalla @Cornell [1 working paper]
-
-### **@Northeastern University**, Political Science
-
-N/A
-
-N/A
-
-2019-2022
-
-- Andrew Small (currently Fulbrighter) [4 papers]
-- Nikki Naquin (currently MA student @LSE) [1 paper]
-- Mary Bancroft [2 papers]
-- Lily Cunningham [3 papers]
-- Eri Lee [1 paper]
-- Amos Nasongo [1 paper]
-- Olivia Feeley [1 under review, 2 talks]
-- Andres Ridge [1 under review, 2 talks]
-- Ava Cervini [1 under review, 2 talks]
-- Vincent Rago [1 under review, 2 talks]
-- Kelly Gilmore [1 under review, 2 talks]
-- Gianna Worthington [1 under review, 2 talks]
-- Ilana Berliavski [1 under review]
-- Katherine Van Woert [1 working paper, 2 talks]
-- Sophia Olivieri [1 working paper, 2 talks]
-- Pamela Lalli [1 working paper, 2 talks]
-- Katelyn Buckley [1 working paper, 2 talks]
-- Jonathan Baron [1 working paper, 2 talks]
-- Khushi Patel [1 working paper, 1 talk]
-- Mireya Dorado
 
 Service {data-icon=school}
 --------------------------------------------------------------------------------
