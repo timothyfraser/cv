@@ -25,12 +25,12 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> timothy.fraser.1@gmail.com
 - <i class="fa fa-github"></i> [github.com/timothyfraser](https://github.com/timothyfraser)
 - <i class="fa fa-home"></i> www.timothyfraser.com
-- <i class="fa fa-map"></i> B01 Carpenter Hall, 313 Campus Rd, Ithaca, NY 14850
+- <i class="fa fa-map"></i> B01F Carpenter Hall, 313 Campus Rd, Ithaca, NY 14850
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-`R`, Dashboards/ShinyApps, GIS, MOVES, DataViz, `html`, `css`, MySQL, MariaDB, SQLite, MATLAB, Github Actions, Docker, `ggplot2`, `mermaid`, Network Analysis, ERGMs, SPSS. 
+`R`, Dashboards/ShinyApps, GIS, DataViz, `html`, `css`, MySQL, APIs, Github Actions, Docker, `ggplot2`, `mermaid`, MOVES, Network Analysis, ERGMs, SPSS, MATLAB.
 
 Expertise {#expertise}
 --------------------------------------------------------------------------------
@@ -53,12 +53,35 @@ Main
 ---
 
 - I develop software & methods to *help communities combat climate change.*
-- I published 37 peer-reviewed studies, plus dashboards, R packages, and databases, using big data analytics, networks, & GIS.
+- I published 40 peer-reviewed studies, plus dashboards, R packages, and databases, using big data analytics, networks, & GIS.
 - Passionate about teaching statistics and coding, and leading student research. 
 - Current Work: Dashboards for visualizing local emissions from transportation.
 
 Positions {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Research Associate
+
+Cornell University Systems Engineering Program
+
+Ithaca, NY
+
+2023 - Present
+
+- Develop systems for communicating emissions from transportation for the public, using dashboards, APIs, AI, and other methods.
+- Advise and lead Research Teams of Masters of Engineering students for software development, as part of Gao Labs.
+- Teach +2 courses a year on Statistical Methods
+
+### Grant Coordinator for Center for Transportation, Environment, and Community Health (CTECH)
+
+Cornell University
+
+Ithaca, NY
+
+2022 - Present
+
+- Administer multimillion dollar research grant from US Dept. of Transportation. Coordinate grant reporting and deliverables from dozens of researcher teams at 4 recipient universities.
+
 
 ### Ezra Systems Postdoctoral Research Associate
 
@@ -66,7 +89,7 @@ Cornell University Systems Engineering Program
 
 Ithaca, NY
 
-2022 - Present
+2022 - 2023
 
 - Develop tools and web applications for quantifying and communicating emissions from transportation to decisionmakers and the public.
 - Deploy Dashboards using R, HTML, Docker, Github, & Shiny.
@@ -82,16 +105,6 @@ Ithaca, NY
 
 - Co-taught System Reliability and Six Sigma (SYSEN 5300) and System Architecture (5400), teaching masters students R & MATLAB.
 
-
-### Grant Coordinator for Center for Transportation, Environment, and Community Health (CTECH)
-
-Cornell University
-
-Ithaca, NY
-
-2022 - Present
-
-- Administer multimillion dollar research grant from US Dept. of Transportation. Coordinate grant reporting and deliverables from dozens of researcher teams at 4 recipient universities.
 
 ### Instructor, Quantitative Techniques & Research Methods 
 
@@ -145,121 +158,51 @@ Middlebury, VT
 2016
 
 
-Consulting Experience {data-icon=handshake-angle}
+Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Data Consultant for NGOs
+### [Big spenders: Large-N measures of urban regimes in Japanese municipalities](https://drive.google.com/file/d/1w90c-dYd4CxDvJZDSC_h-HrThYIMy-r9/view?usp=sharing).
 
-Consulting on Surveys, Networks, and Big Data for Partners
+[Cities](https://doi.org/10.1016/j.cities.2024.104916) 149 (2024), 104916.
 
-Boston, MA
+N/A
 
-2020 - 2022
+2024
 
-- **NGO Resilient Cloverdale**: Social network analysis and survey weighting analyses for evaluating community resilience in California. (2021-2022)
-- **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods. (2020)
-- **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations. (2022)
-
-
-### Data Analyst for Academic Teams
-
-Northeastern University (NU)
-
-Boston, MA
-
-2020-2022
-
-- **NSF Grant Project, NU Sociology Dept**: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities". Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
-- **Grant Project, NU Political Science Dept:** "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health". Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
-- **Book Project, NU Political Science Dept**: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2022)
-- **Book Project, NU Political Science Dept**: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2021)
-
-
-
-
-
-Software {data-icon=screwdriver-wrench}
---------------------------------------------------------------------------------
+**Timothy Fraser**
 
 ::: aside
 
-7 R packages and dashboards
+**Peer-reviewed Papers: [40]**
+
+By Topic:
+
+- Emissions/Environmental Policy [16]
+- Community Resilience, Evacuation, & Health [18]
+- Political Polarization [6]
 
 :::
 
-### `catr` R package for querying EPA's MOVES software
 
-A proprietary R package for estimating emissions from transportation for US counties, using the EPA's MOVES software, to support Climate Action in Transportation using R (catr). Extends MOVES functionality by allowing for iterative MOVES runs, with custom policy scenarios and output formatting for easy visualization.
+### County-level political group density, partisan polarization, and individual-level mortality among adults in the United States: A lagged multilevel study
 
-N/A
-
-2023
-
-### `visualizer` App for Comparing Emissions in US States & Counties
-
-A suite of ShinyApp modules that visualize US state and county emissions from transportation. These include line charts, donut charts, rank charts, multi-line charts, infographics, maps, profile boxes, and more.
+[SSM - Population Health](https://doi.org/10.1016/j.ssmph.2024.101662) (2024), 101662.
 
 N/A
 
-2023
+2024
 
-### `calculator` App for Comparing Emissions Policy Scenarios
+Sameera S. Nayak, Daniel P. Aldrich, **Timothy Fraser**, Costas Panagopoulos, & Daniel Kim
 
-A ShinyApp Dashboard that for visualizing and comparing transportation emissions scenarios based on custom user-supplied information about transportation activity levels and fleet composition. Uses my `moveslite` R package as an engine.
+### [How far I’ll go: Social infrastructure accessibility and proximity in urban neighborhoods.](https://drive.google.com/file/d/1QMymsV5h53lD3bms9qohWpNALiJDvG7e/view?usp=sharing)
 
-N/A
-
-2023
-
-
-### `moveslite` R package for Fast Emissions Estimation
-
-A proprietary R package for speedy approximating county, state, or nation level emissions from custom inputs, using county-specific models of existing default air pollution emissions estimates from the EPA's MOVES software.
+[Landscape and Urban Planning](https://doi.org/10.1016/j.landurbplan.2023.104922) 241 (2024), 104922.
 
 N/A
 
-2023
+2024
 
-### `geoshiny-verse` Docker image for Deploying Dashboards
-
-A geospatial-enabled ShinyApp dashboard deployment environment publicly available for any dashboard developer as a Docker image on Dockerhub. Will help anyone deploy a ShinyApp with mapping capabilities. At: https://hub.docker.com/repository/docker/tmf77/geoshiny-verse/general 
-
-N/A
-
-2023
-
-### `simulate` R package for statistical simulation
-
-R package for tidyverse-friendly statistical simulation, to account for estimation and fundamental uncertainty when simulating quantities of interest from statistical models. At: https://github.com/timothyfraser/simulate 
-
-N/A
-
-2023
-
-### `tidyfault` R package for fault tree analysis
-
-R Package for tidy fault tree analysis! Visualizes fault trees, identifies minimal cutsets, and calculates other quantities of interest. At: https://github.com/timothyfraser/tidyfault 
-
-N/A
-
-2023
-
-
-Book Project {data-icon=book-open}
---------------------------------------------------------------------------------
-
-### Sigma: Coding Tutorials for Statistics, System Reliability, and Six Sigma in R
-
-- +15 workshops to teach students statistics & R coding for systems engineering.
-- Interactive, step-by-step exercises and learning checks; No prior coding experience required.
-- Open-source, Masters-Level textbook. **In-Development. Available at: [timothyfraser.com/sigma/introduction](https://timothyfraser.com/sigma/introduction)
-
-N/A
-
-2023
-
-Publications {data-icon=file}
---------------------------------------------------------------------------------
+**Timothy Fraser**, Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, Gianna Worthington, & Illana Berliavsky.
 
 ### Elections and Post Traumatic Stress: Evidence from the 2020 U.S. Presidential Election. 
 
@@ -271,17 +214,6 @@ N/A
 
 **Timothy Fraser**, Costas Panagopoulos, & Kevin Smith.
 
-::: aside
-
-Peer-reviewed Papers: [37]
-
-By Topic:
-
-- Emissions/Environmental Policy [16]
-- Community Resilience, Evacuation, & Health [16]
-- Political Polarization [5]
-
-:::
 
 ### Leapfrogging or Lagging? Drivers of Social Equity from Renewable Energy Transitions Globally. 
 
@@ -338,7 +270,7 @@ N/A
 
 ### The Road More Traveled: Evacuation Networks from 10 disasters in the US and Japan.
 
-[*Environment & Behavior*]( https://doi.org/10.1177/00139165221090159) 54(4) (2022), 833-863.
+[*Environment & Behavior*](https://doi.org/10.1177/00139165221090159) 54(4) (2022), 833-863.
 
 N/A
 
@@ -787,24 +719,108 @@ N/A
 Daniel P. Aldrich, Courtney Page-Tan, and **Timothy Fraser**
 
 
-Work In Progress {data-icon=spinner}
+Book Project {data-icon=book-open}
 --------------------------------------------------------------------------------
 
-### Under Review
+### Sigma: Coding Tutorials for Statistics, System Reliability, and Six Sigma in R
 
-- Big Spenders: Large-N Measures of Urban Regimes in Japanese Cities.
-- How Far I'll go: Distance and Access to Social Infrastructure to Urban Neighborhoods. (with Olivia Feeley, Andres Ridge, Ava Cervini, Vincent Rago, Kelly Gilmore, & Gianna Worthington, )
-- Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
-
+- +15 workshops to teach students statistics & R coding for systems engineering.
+- Interactive, step-by-step exercises and learning checks; No prior coding experience required.
+- Open-source, Masters-Level textbook. **In-Development. Available at: [timothyfraser.com/sigma/introduction](https://timothyfraser.com/sigma/introduction)
 
 N/A
 
-### Working Papers
+2023
+
+
+
+Software {data-icon=screwdriver-wrench}
+--------------------------------------------------------------------------------
+
+::: aside
+
+**8** packages and dashboards
+
+:::
+
+### `moves_anywhere` Docker image for Emissions Estimation
+
+A Docker image for the EPA's MOVES Emissions Estimation Software and post-processing. While MOVES was built for Windows, `moves_anywhere` can be run on **on any operating system**, with a simplified `git bash` command line interface, for quick, distributed batch computing of emissions scenarios. https://github.com/gao-labs/moves_anywhere
+
+N/A
+
+2024
+
+
+### `catr` R package for querying EPA's MOVES software
+
+A proprietary R package for estimating emissions from transportation for US counties, using the EPA's MOVES software, to support Climate Action in Transportation using R (catr). Extends MOVES functionality by allowing for iterative MOVES runs, with custom policy scenarios and output formatting for easy visualization.
+
+N/A
+
+2023
+
+
+### `moveslite` R package for Fast Emissions Estimation
+
+A proprietary R package for speedy approximating county, state, or nation level emissions from custom inputs, using county-specific models of existing default air pollution emissions estimates from the EPA's MOVES software.
+
+N/A
+
+2023
+
+### `visualizer` App for Comparing Emissions in US States & Counties
+
+A suite of ShinyApp modules that visualize US state and county emissions from transportation. These include line charts, donut charts, rank charts, multi-line charts, infographics, maps, profile boxes, and more.
+
+N/A
+
+2023
+
+### `calculator` App for Comparing Emissions Policy Scenarios
+
+A ShinyApp Dashboard that for visualizing and comparing transportation emissions scenarios based on custom user-supplied information about transportation activity levels and fleet composition. Uses my `moveslite` R package as an engine.
+
+N/A
+
+2023
+
+
+### `geoshiny-verse` Docker image for Deploying Dashboards
+
+A geospatial-enabled ShinyApp dashboard deployment environment publicly available for any dashboard developer as a Docker image on Dockerhub. Will help anyone deploy a ShinyApp with mapping capabilities. At: https://hub.docker.com/repository/docker/tmf77/geoshiny-verse/general 
+
+N/A
+
+2023
+
+### `simulate` R package for statistical simulation
+
+R package for tidyverse-friendly statistical simulation, to account for estimation and fundamental uncertainty when simulating quantities of interest from statistical models. At: https://github.com/timothyfraser/simulate 
+
+N/A
+
+2023
+
+### `tidyfault` R package for fault tree analysis
+
+R Package for tidy fault tree analysis! Visualizes fault trees, identifies minimal cutsets, and calculates other quantities of interest. At: https://github.com/timothyfraser/tidyfault 
+
+N/A
+
+2023
+
+
+Work In Progress {data-icon=spinner}
+--------------------------------------------------------------------------------
+
+### Under Review & Working Papers
 
 - Making MOVES move: Cornell MOVESLite for Fast Estimation of Clean Transportation Scenarios (with MS Student Yan Guo and Oliver Gao)
-- Co-benefits of transportation congestion mitigation, air quality improvement, and health implication in U.S. between 1992 and 2022 (with Xinwei Li and Oliver Gao)
-- A Tale of Many Cities: Mapping Social Infrastructure and Social Capital across North America (with BA student Osama Awadalla, and colleagues)
 - [Cycling Cities: Measuring Transportation Equity in Bikeshare Networks](https://dx.doi.org/10.2139/ssrn.4076776) (with Katherine Van Woert, Sophia Olivieri, Jonathan Baron, Katelyn Buckley, Pamela Lalli)
+- A Tale of Many Cities: Mapping Social Infrastructure and Social Capital across North America (with BA student Osama Awadalla, Daniel Aldrich, and colleagues)
+- Networked Neighborhoods: The role of Social Infrastructure in Social Connectivity in Urban Systems (with Khushi Patel)
+- Co-benefits of transportation congestion mitigation, air quality improvement, and health implication in U.S. between 1992 and 2022 (with Xinwei Li and Oliver Gao)
 - [Where the Grass Is Greener: Social Infrastructure and Resilience to COVID-19.](http://dx.doi.org/10.2139/ssrn.3841826)
 - Japan’s Green Voters: The Role of Social Capital in Women’s Movements against Nuclear Power Policy
 - Boomtown or Bust? Policy Feedback Effects of Controversial Facilities on Social Capital in Japan (with Toshiaki Yoshida)
@@ -817,6 +833,15 @@ N/A
 
 Invited Talks {data-icon=comments}
 --------------------------------------------------------------------------------
+
+
+### Cycling Cities: Measuring Transportation Equity in Bikeshare Networks. 
+
+Guest lecture presented for Course Politics and the Environment, Department of Political Science and International Relations, University of Delaware. February 28, 2024. (Virtual)
+
+N/A
+
+2024
 
 ### Won't You be My Neighbor? Mapping Social Infrastructure and Social Capital across North America with Big Data. 
 
@@ -1145,6 +1170,39 @@ N/A
 
 2020
 
+
+
+Consulting Experience {data-icon=handshake-angle}
+--------------------------------------------------------------------------------
+
+### Data Consultant for NGOs
+
+Consulting on Surveys, Networks, and Big Data for Partners
+
+Boston, MA
+
+2020 - 2022
+
+- **NGO Resilient Cloverdale**: Social network analysis and survey weighting analyses for evaluating community resilience in California. (2021-2022)
+- **United Nations Development Program Mexico Accelerator Lab**: Designed survey methodology for field experiment on measuring and building social capital in Mexico City neighborhoods. (2020)
+- **United Nations Development Program Paraguay Accelerator Lab**: Generated methodology for mapping social capital and social vulnerability in Paraguay, using spatial analysis techniques to account for data availability limitations. (2022)
+
+
+### Data Analyst for Academic Teams
+
+Northeastern University (NU)
+
+Boston, MA
+
+2020-2022
+
+- **NSF Grant Project, NU Sociology Dept**: "Diffusion of Ideas of Gender Equity Interventions Through Networks of U.S. Universities". Applied Data science and Network Analysis, led by Dr. Kathrin Zippel and Dr. Laura Nelson (9 months)
+- **Grant Project, NU Political Science Dept:** "Impacts of Partisan Polarization and Voting Preferences on the Public’s Health". Data science and survey design research for 2 national surveys for Northeastern University-funded project, led by Dr. Daniel Kim, Dr. Costas Panagopoulos,  Dr. Daniel Aldrich (8 months).
+- **Book Project, NU Political Science Dept**: "Congressional Challengers: Candidate Quality in US Elections to Congress". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2022)
+- **Book Project, NU Political Science Dept**: "Bases Loaded: How US Presidential Campaigns Are Changing and Why It Matters". Modeling and Visualization for book project for Dr. Costas Panagopoulos. (2021)
+
+
+
 Teaching {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
@@ -1155,10 +1213,11 @@ Cornell University Systems Engineering Program
 
 Ithaca, NY
 
-2022 - 2023
+2022 - Present
 
-  - Systems Reliability & Six Sigma (Fall 2022)
-  - Systems Architecture (Spring 2023)
+  - Systems Reliability & Six Sigma (Fall 2022, 2023)
+  - Systems Architecture (Spring 2023, 2024)
+  - Data Science for Socio-Technical Systems (Summer 2024)
 
 ### Educational Software Developer
 
@@ -1208,7 +1267,7 @@ Boston, MA
 Mentorship {data-icon=users}
 --------------------------------------------------------------------------------
 
-Lead multiple teams of students to do collaborative research, coauthor, and publish studies on environmental policy using data analytics in R. 
+Lead teams of students to do collaborative research, coauthor, and publish studies and software about environmental policy, using data analytics in R, MySQL, etc.
 
 *Students listed below, noting: @Institution, # of peer-reviewed papers coauthored together, and # talks about our work they gave.*
 
@@ -1218,9 +1277,9 @@ Lead multiple teams of students to do collaborative research, coauthor, and publ
 
 ::: aside
 
-- **13** Masters Research Students
+- **32** Masters Research Students
 
-- **3** capstone teams
+- **10** capstone project teams
 
 - **4** coauthored publications
 
@@ -1232,9 +1291,17 @@ N/A
 
 N/A
 
-2023 - present
+2023 - Present
 
-- Yan Guo [1 working paper]
+- CAT Quality Team: Linpei Huang, Yueyi Mu, Quingyuan Guo
+- CAT AI Team: Peilin Li, Shannya Niveyro, Maria Dobransky, Peculiar Lawrence, Leo Ziyu Kuang, Yan Guo
+- CAT Apps Team: Emily Yi-Wen Tseng, RuiRui Mao, Junna Chen
+- CAT Optimizer Team: Leah Smith, Kaylen Li [1 working paper]
+- CAT API Team: Rebecca Xinyu Gao, Jessica Yuan, Mahak Bindal, Junna Chen, Ian Lee [1 working paper]
+- CAT Greentech Database Team: Jessie Wong, Emily Yi-Wen Tseng, RuiRui Mao, Shungo Najima
+- CAT Reporter Team: Peilin Li, Leo Ziyu Kuang, Aarya Darak, Minghao Yang [1 working paper]
+- Social Infrastructure Project: Linpei Huang
+- MOVESLite Project: Yan Guo [1 working paper]
 
 ###  **@Northeastern University**, Political Science/Public Policy
 
@@ -1244,18 +1311,10 @@ N/A
 
 2020 - 2022
 
-- Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
-- Napuck Cherdchaiyapong [1 paper, capstone]
-- Winta Tekle [1 paper, capstone]
-- Erin Thomas [1 paper, capstone]
-- Joel Zayas [1 paper, capstone]
-- Alex Poniatowski [1 paper, capstone]
-- Nicholas Hersey [1 paper, capstone]
-- Haoran Zheng [1 paper, capstone]
-- Lucy Hewitt [1 working paper, capstone]
-- Ziyue Chen [1  working paper, capstone]
-- Matthew Cherkerzian [1 working paper, capstone]
-
+- Mapping Social Infrastructure Team: Napuck Cherdchaiyapong, Winta Tekle, Erin Thomas, Joel Zayas [1 paper, capstone]
+- Louisiana Recovery Team: Alex Poniatowski, Nicholas Hersey, Haoran Zheng [1 paper, capstone]
+- Disaster Recovery Committees Team: Lucy Hewitt, Ziyue Chen, Matthew Cherkerzian [1 working paper, capstone]
+- Evacuation Project: Larissa Morikawa (now PhD student) [3 papers, 1 talk, capstone]
   
 ### **@George Washington**
 
